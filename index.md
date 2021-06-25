@@ -32,7 +32,7 @@ Afghanistan (3T)
 </td>
 <td style="text-align:left;width: 1in; color: grey80 !important;">
 12/6/2021
-<img src="/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png">
+<img src="/images/up-arrow.png">
 </td>
 <td style="text-align:left;width: 1.5in; ">
 
@@ -44,7 +44,7 @@ Afghanistan (3G)
 <td style="text-align:left;">
 ‘Afghanistan on Saturday (June 12) announced the nationwide closure of
 all educational institutions, amid surging coronavirus infections and
-deaths in the country.’ <https://archive.vn/1N47E>
+deaths in the country.’ <a>https://archive.vn/1N47E</a>
 </td>
 </tr>
 </tbody>
