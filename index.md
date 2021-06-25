@@ -4,12 +4,10 @@ title: Recent policy changes reported in the OxCGRT
 permalink: /index
 ---
 
-## Global Changes in Stringency Index
-
 The following map details the changes to the stringency index during the
 last two weeks:
 
-<img src="images/changes-map.png" width="150%" />
+<img src="images/changes-map.png" width="200%" />
 
 ## Changes in closure and containment measures in the last two weeks
 
