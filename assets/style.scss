@@ -84,6 +84,7 @@ h4 {
   font-size: 16px;
   color: #222;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 p {
@@ -91,8 +92,8 @@ p {
 }
 
 table-div {
-  margin-top: 0;
-  margin-bottom: 6px;
+  margin-top: 0 !important;
+  margin-bottom: 6px !important;
 }
 
 table {
