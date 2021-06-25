@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recent_changes
 title: Recent policy changes reported in the OxCGRT
 permalink: /index
 ---
