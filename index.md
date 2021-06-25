@@ -18,7 +18,7 @@ Please see our codebook for a full description of the policies we track.
 #### School closing (C1)
 
 <div
-style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; ">
+style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; max-height:200px; overflow-x: scroll; width:100%; ">
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
 <tbody>
