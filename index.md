@@ -32,7 +32,7 @@ Afghanistan (3T)
 </td>
 <td style="text-align:left;width: 1in; color: grey80 !important;">
 12/6/2021
-<img src="/images/up-arrow.png">
+<img src="images/up-arrow.png">
 </td>
 <td style="text-align:left;width: 1.5in; ">
 
