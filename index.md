@@ -56,7 +56,7 @@ deaths in the country.’ <a>https://archive.vn/1N47E</a>
 
 #### School closing (C1)
 
-<div
+<div id="table-div"
 style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; margin-top: 0 !important; margin-bottom: 10px !important">
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -113,7 +113,7 @@ subclause (20).” Therefore, changed to a 1T code.
 
 #### Workplace closing (C2)
 
-<div
+<div id="table-div"
 style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; margin-top: 0 !important; margin-bottom: 10px !important">
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -225,7 +225,7 @@ details available at links. Therefore, change to a 1T code.
 
 #### Cancel public events (C3)
 
-<div
+<div id="table-div"
 style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; margin-top: 0 !important; margin-bottom: 10px !important">
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -274,7 +274,7 @@ Therefore, change to a 1T code.
 
 #### Stay at home requirements (C6)
 
-<div
+<div id="table-div"
 style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; overflow-x: scroll; width:100%; margin-top: 0 !important; margin-bottom: 10px !important">
 
 <table class="table" style="margin-left: auto; margin-right: auto;">
