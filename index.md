@@ -9,7 +9,7 @@ permalink: /index
 The following map details the changes to the stringency index during the
 last two weeks:
 
-<img src="images/changes-map.png" width="80%" />
+<img src="images/changes-map.png" width="150%" />
 
 ## Changes in closure and containment measures in the last two weeks
 
