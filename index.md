@@ -25,9 +25,9 @@ style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:200px; o
 <tr>
 <td style="text-align:left;width: 1.5in; ">
 
-**Old policy:**
+<strong>Old policy:</strong>
 
-**Require** closure of **all** levels of schools; in **some** parts of
+<strong>Require</strong> closure of <strong>all</strong> levels of schools; in <strong>some</strong> parts of
 Afghanistan (3T)
 </td>
 <td style="text-align:left;width: 1in; color: grey80 !important;">
@@ -36,9 +36,9 @@ Afghanistan (3T)
 </td>
 <td style="text-align:left;width: 1.5in; ">
 
-**New policy:**
+<strong>New policy:**
 
-**Require** closure of **all** levels of schools; across **all** of
+<strong>Require</strong> closure of <strong>all</strong> levels of schools; across <strong>all</strong> of
 Afghanistan (3G)
 </td>
 <td style="text-align:left;">
