@@ -30,10 +30,6 @@ body {
   height: 100%;
 }
 
-.table {
-  font-size: 11px;
-}
-
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -95,7 +91,10 @@ p {
 }
 
 table {
-	padding: 0;
+	font-size: 11px;
+  padding: 0;
+  margin-top: 0 !important;
+  margin-bottom: 6px !important;
 }
 
 table tr {
