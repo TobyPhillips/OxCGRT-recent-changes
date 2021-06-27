@@ -1,0 +1,40 @@
+name: An R workflow for updating website with latest changes
+on:
+       schedule:
+               - cron: "*/5 * * * *"
+
+jobs: 
+        build:
+                name: R github actions
+                runs-on: ubuntu-latest
+                steps: 
+                        - uses: actions/checkout@v2.3.3
+                          with:
+                                  path: main
+                        - uses: r-lib/actions/setup-r@master
+                          with: 
+                                  r-version: '3.5.3' # The R version to be installed 
+                        - name: Install dependencies        
+                          run: |
+                             ls
+                             cd main
+                             ls
+                             chmod +x ./r-code/sysrequirements.sh
+                             ./r-code/sysrequirements.sh
+                        - name: Run daily data and visualisation codes
+                          run: |
+                            ls
+                            cd main
+                            ls
+                            chmod +x './r-code/changes-render.R'
+                            Rscript './r-code/changes-render.R'
+                        - name: Commit changes
+                          run: |
+                            ls
+                            cd main
+                            ls
+                            git config --local user.email "action@github.com"
+                            git config --local user.name "GitHub Action"
+                            git add .
+                            git diff-index --quiet HEAD || git commit -m "Automated run of latest changes" -a
+                            git push origin main:main
