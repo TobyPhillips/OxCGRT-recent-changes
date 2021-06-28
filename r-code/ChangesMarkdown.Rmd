@@ -34,14 +34,15 @@ ChangesTable <- ChangesTable %>% filter(Date>Sys.Date()-14)
 
 url_oxcgrt <- "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_withnotes.csv"
 
-# OxCGRTLatest <- as_tibble(read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(), 
-#                                                                     RegionCode = col_character())))
-
 OxCGRTLatest <- read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(), 
                                                          RegionCode = col_character()))
 
-OxCGRTLatest$Date <- ymd(OxCGRTLatest$Date)
+# OxCGRTLatest <- as_tibble(read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(), 
+#                                                                     RegionCode = col_character())))
+
+# OxCGRTLatest$Date <- ymd(OxCGRTLatest$Date)
 ```
+
 ```{r Changes, echo=F,include=F}
 OxCGRTLastFortnight <- filter(OxCGRTLatest, Date>Sys.Date()-14 & is.na(RegionName))
 
