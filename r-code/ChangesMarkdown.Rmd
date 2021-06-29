@@ -475,7 +475,7 @@ for (i in unique(FirstLast$CountryName)) {
           # , image = spec_image(path=ImageVector, width = 0.5,height = 0.5,res=15)) %>%
           column_spec(column=3, width_min = "2in") %>%
           column_spec(column=4, width_min = "4in") %>%
-            scroll_box(width = "100%", max-height = "250px"))
+            scroll_box(width = "100%"))
     cat("</div>")}
   cat("  \n")
 }
