@@ -21,7 +21,7 @@ paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-respo
 or explore the [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-<img src="images/Setup-1.png">
+<img src="..images/Setup-1.png">
 
 ## Changes in Policy over the last two weeks
 
@@ -54,7 +54,7 @@ Argentina (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -109,7 +109,7 @@ to the individual (government funded or subsidised) Argentina (4S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -166,7 +166,7 @@ operational differences; in <b>some</b> parts of Australia (1T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -244,7 +244,7 @@ maintain a 1T code.”
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -298,7 +298,7 @@ Australia (1T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-26/6/2021 <img src="images/up-arrow.png">
+26/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -372,7 +372,7 @@ ordered to close, decision made to code as a level 2.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-27/6/2021 <img src="images/up-arrow.png">
+27/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -443,7 +443,7 @@ Australia (1T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-26/6/2021 <img src="images/up-arrow.png">
+26/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -505,7 +505,7 @@ a level 2 – cancelling of public events required.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-26/6/2021 <img src="images/up-arrow.png">
+26/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -595,7 +595,7 @@ until midnight 9 July, unless extended or repealed earlier.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -661,7 +661,7 @@ Therefore maintain 3T code.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/down-arrow.png">
+21/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -751,7 +751,7 @@ Bangladesh (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -807,7 +807,7 @@ of public transport; across <b>all</b> of Bangladesh (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -864,7 +864,7 @@ of Bangladesh (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -922,7 +922,7 @@ to the individual (government funded or subsidised) Belgium (4S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -982,7 +982,7 @@ i.e. 52.48% of the population have been given at least one dose.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1038,7 +1038,7 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Belize
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1090,7 +1090,7 @@ Belize (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1147,7 +1147,7 @@ or subsidised) Brunei (3S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/up-arrow.png">
+21/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1227,7 +1227,7 @@ Faso (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/down-arrow.png">
+20/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1282,7 +1282,7 @@ Per AU/US site they require a screening. —-
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/down-arrow.png">
+20/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1341,7 +1341,7 @@ parts of Canada (3T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-25/6/2021 <img src="images/down-arrow.png">
+25/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1401,7 +1401,7 @@ Canada (1)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-28/6/2021 <img src="images/up-arrow.png">
+28/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1465,7 +1465,7 @@ parts of China (3T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-24/6/2021 <img src="images/down-arrow.png">
+24/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1521,7 +1521,7 @@ non-essential workplace are required to close in mid-risk areas.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/down-arrow.png">
+20/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1579,7 +1579,7 @@ available. —-
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1634,7 +1634,7 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1688,7 +1688,7 @@ vaccinated, or have recovered from COVID-19 within last 180 days.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1741,7 +1741,7 @@ Operating with 40% capacity.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1792,7 +1792,7 @@ Anyone <b>symptomatic</b> can be tested; NA Croatia (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1842,7 +1842,7 @@ Anyone <b>symptomatic</b> can be tested; NA Croatia (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -1894,7 +1894,7 @@ home; across <b>all</b> of Croatia (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -1947,7 +1947,7 @@ vulnerable); at cost to the individual Croatia (3I)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2006,7 +2006,7 @@ parts of Denmark (3T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2063,7 +2063,7 @@ educational institutions might occur. No parishes were shutdown.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2119,7 +2119,7 @@ across <b>all</b> of Estonia (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-23/6/2021 <img src="images/down-arrow.png">
+23/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2186,7 +2186,7 @@ Estonia (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2245,7 +2245,7 @@ Estonia (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2264,6 +2264,78 @@ Wearing a face mask is now recommended in indoor public spaces, but not
 compulsory. Link:
 <https://web.archive.org/web/20210628134234/https://www.visittallinn.ee/eng/professional/practical-info/good-to-know/important>
 <https://web.archive.org/web/20210628134438/https://www.kriis.ee/en/personal-protection-equipment-masks>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Finland (GRI: 55 ↑ 56.25)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:300px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Finland (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+
+28/6/2021 <img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Finland (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are generally available to people of 16yrs and above.
+<https://archive.vn/2021.06.29-085405/https://sampo.thl.fi/pivot/prod/fi/vaccreg/cov19cov/summary_cov19ageareacov>
+Aland -
+<https://archive.vn/2021.06.29-084221/https://www.ahs.ax/aktuellt-om-coronavaccineringen>
+Helsinki -
+<https://archive.vn/2021.06.29-065438/https://www.hel.fi/uutiset/en/social-services-and-health-care/coronavirus-vaccinations-begin-for-helsinki-residents-aged-16-24>
+Soite -
+<https://archive.vn/2021.06.29-065619/https://korona.soite.fi/en/corona-virus-info/>
+Soster -
+<https://archive.vn/2021.06.29-085248/https://www.sosteri.fi/koronavirus-sosterissa/koronarokotukset-vaestolle/>
+Current vaccines administered include Pfizer-BioNTech vaccine
+(Comirnaty), Moderna, AstraZeneca, and Johnson\&Johnson.
+<https://archive.vn/2021.06.29-061601/https://fi.usembassy.gov/covid-19-information/>
+Up-to-date vaccination coverage: first dose 57.7%, second dose 17.6%
+Vaccinated subjects included in the coverage calculations: First dose
+3204657, second dose 977142 Total doses of coronary vaccine
+administered: First dose 3220572, second dose 980821
+<http://web.archive.org/web/20210629083532/https://www.thl.fi/episeuranta/rokotukset/koronarokotusten_edistyminen.html>
 
 </td>
 
@@ -2303,7 +2375,7 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of France
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/down-arrow.png">
+21/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2357,7 +2429,7 @@ home; in <b>some</b> parts of France (4T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/down-arrow.png">
+17/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2418,7 +2490,7 @@ home; across <b>all</b> of Guatemala (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2472,7 +2544,7 @@ workers only</b> in Honduras (1F)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2525,7 +2597,7 @@ home; across <b>all</b> of Honduras (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2581,7 +2653,7 @@ or subsidised) Honduras (2S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2639,7 +2711,7 @@ or subsidised) Ireland (3S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/up-arrow.png">
+20/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2696,7 +2768,7 @@ operational differences; across <b>all</b> of Israel (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2733,7 +2805,7 @@ Councils Traffic Light Model\]
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/up-arrow.png">
+20/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2772,7 +2844,7 @@ operational differences; in <b>some</b> parts of Israel (1T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-25/6/2021 <img src="images/up-arrow.png">
+25/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2829,7 +2901,7 @@ with significant operational differences; across <b>all</b> of Israel
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -2875,7 +2947,7 @@ indoors Abolition of the obligation to wear a mask as of Tuesday
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-25/6/2021 <img src="images/up-arrow.png">
+25/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2929,7 +3001,7 @@ Anyone <b>symptomatic</b> can be tested; NA Israel (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/up-arrow.png">
+19/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -2987,7 +3059,7 @@ Israel (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3031,7 +3103,7 @@ in contact with patients. Source: <https://archive.vn/rg5qF>
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/up-arrow.png">
+20/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3069,7 +3141,7 @@ Israel (2T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-23/6/2021 <img src="images/up-arrow.png">
+23/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3128,7 +3200,7 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/down-arrow.png">
+21/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3183,7 +3255,7 @@ to the individual (government funded or subsidised) Italy (4S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/up-arrow.png">
+19/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3238,7 +3310,7 @@ Valle D’Aosta and Puglia now are also vaccinating people from 12+
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3296,7 +3368,7 @@ Liberia (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3352,7 +3424,7 @@ and restriction of wedding, funerals and parties.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3412,7 +3484,7 @@ reduced capacity
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3473,7 +3545,7 @@ traveler’s expense.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3536,7 +3608,7 @@ capacity
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-28/6/2021 <img src="images/down-arrow.png">
+28/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3594,7 +3666,7 @@ operational differences; across <b>all</b> of Namibia (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3652,7 +3724,7 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-16/6/2021 <img src="images/up-arrow.png">
+16/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3707,7 +3779,7 @@ of Namibia (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-16/6/2021 <img src="images/up-arrow.png">
+16/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3764,7 +3836,7 @@ operational differences; across <b>all</b> of Nicaragua (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3814,7 +3886,7 @@ NA; NA Nicaragua (1)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -3868,7 +3940,7 @@ or subsidised) Nigeria (3S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3939,7 +4011,7 @@ with significant operational differences; across <b>all</b> of Oman (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -3999,7 +4071,7 @@ Oman (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4051,7 +4123,7 @@ across <b>all</b> of Oman (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4107,7 +4179,7 @@ through room service during this period.”"
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4159,7 +4231,7 @@ Some services running have been reduced.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/up-arrow.png">
+19/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4217,7 +4289,7 @@ police inspection points.’ <https://archive.vn/9yPME>
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/up-arrow.png">
+19/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4275,7 +4347,7 @@ police inspection points.’ <https://archive.vn/9yPME>
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/up-arrow.png">
+22/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4329,7 +4401,7 @@ Carrying over C6
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4373,7 +4445,7 @@ of Portugal (2T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/down-arrow.png">
+21/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -4407,7 +4479,7 @@ at 6am. Source:
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-25/6/2021 <img src="images/up-arrow.png">
+25/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4471,7 +4543,7 @@ Portugal (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/down-arrow.png">
+19/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -4532,7 +4604,7 @@ with significant operational differences; across <b>all</b> of Qatar
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4588,7 +4660,7 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -4649,7 +4721,7 @@ venues for up to 40 people of which at least 75% need to be vaccinated.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4705,7 +4777,7 @@ centres, gyms, public parks, cinemas, museums, and libraries can open at
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4757,7 +4829,7 @@ workers only</b> in Qatar (2F)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4811,7 +4883,7 @@ distancing not possible; across <b>all</b> of Qatar (3G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4868,7 +4940,7 @@ with significant operational differences; across <b>all</b> of Russia
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4908,7 +4980,7 @@ venues for mass events will be closed. <https://archive.vn/GAnse>
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-27/6/2021 <img src="images/up-arrow.png">
+27/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -4945,7 +5017,7 @@ parts of Russia (3T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-28/6/2021 <img src="images/down-arrow.png">
+28/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5007,7 +5079,7 @@ Russia (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5065,7 +5137,7 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5119,7 +5191,7 @@ in restaurants and cafes. <https://archive.vn/11ilI>
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-27/6/2021 <img src="images/up-arrow.png">
+27/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5175,7 +5247,7 @@ due to the increase in the incidence of COVID-19. A total lockdown
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5234,7 +5306,7 @@ Russia (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5271,7 +5343,7 @@ Russia (1T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-28/6/2021 <img src="images/up-arrow.png">
+28/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5330,7 +5402,7 @@ Leone (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5385,7 +5457,7 @@ Sierra Leone (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5442,7 +5514,7 @@ distancing not possible; across <b>all</b> of Sierra Leone (3G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5502,7 +5574,7 @@ MASK NO ENTRY)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-28/6/2021 <img src="images/down-arrow.png">
+28/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5581,7 +5653,7 @@ home; across <b>all</b> of Singapore (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-20/6/2021 <img src="images/down-arrow.png">
+20/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5660,7 +5732,7 @@ home; across <b>all</b> of Spain (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-26/6/2021 <img src="images/down-arrow.png">
+26/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5721,7 +5793,7 @@ or subsidised) Switzerland (3S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-19/6/2021 <img src="images/up-arrow.png">
+19/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -5779,7 +5851,7 @@ operational differences; across <b>all</b> of Tonga (1G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5831,7 +5903,7 @@ website, last updated June 20th, 2021 archived:
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5886,7 +5958,7 @@ about COVID-19; across <b>all</b> of Tonga (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/down-arrow.png">
+15/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -5943,7 +6015,7 @@ or subsidised) Tonga (1S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-21/6/2021 <img src="images/up-arrow.png">
+21/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6006,7 +6078,7 @@ with significant operational differences; across <b>all</b> of Ukraine
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6063,7 +6135,7 @@ Ukraine (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/down-arrow.png">
+17/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6118,7 +6190,7 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/down-arrow.png">
+17/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6179,7 +6251,7 @@ distance of 1.5 meters.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/up-arrow.png">
+17/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6233,7 +6305,7 @@ rate, it is allowed to transport up to 10 people at a time.”"
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-17/6/2021 <img src="images/down-arrow.png">
+17/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6290,7 +6362,7 @@ days are barred from entry.”"
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-16/6/2021 <img src="images/up-arrow.png">
+16/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6349,7 +6421,7 @@ home; across <b>all</b> of Ukraine (4G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-16/6/2021 <img src="images/down-arrow.png">
+16/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6410,7 +6482,7 @@ to the individual (government funded or subsidised) United Kingdom (4S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-24/6/2021 <img src="images/up-arrow.png">
+24/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6467,7 +6539,7 @@ parts of Yemen (2T)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-15/6/2021 <img src="images/up-arrow.png">
+15/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6502,7 +6574,7 @@ Carrying over C6
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-22/6/2021 <img src="images/down-arrow.png">
+22/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6558,7 +6630,7 @@ combat the spread of COVID-19.”"
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6610,7 +6682,7 @@ Schools closed amid an increase in cases.
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6663,7 +6735,7 @@ Zambia (2G)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6718,7 +6790,7 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6774,7 +6846,7 @@ reduce the number of meetings to two per week.”"
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6826,7 +6898,7 @@ Anyone <b>symptomatic</b> can be tested; NA Zambia (2)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/up-arrow.png">
+18/6/2021 <img src="../images/up-arrow.png">
 
 </td>
 
@@ -6878,7 +6950,7 @@ Zambia (1)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
@@ -6931,7 +7003,7 @@ or subsidised) Zambia (3S)
 
 <td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
 
-18/6/2021 <img src="images/down-arrow.png">
+18/6/2021 <img src="../images/down-arrow.png">
 
 </td>
 
