@@ -134,7 +134,7 @@ dev.off()
 ```
 
 ```{r Table, echo=F,include=T, results='asis'}
-cat("<img src=\"..images/Setup-1.png\">")
+cat("<img src=\"../images/Setup-1.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 final <- oxcgrt_changes %>%
