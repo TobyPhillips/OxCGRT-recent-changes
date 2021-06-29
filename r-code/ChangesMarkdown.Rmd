@@ -6,23 +6,21 @@ output:
     variant: gfm
 ---
 
-\---
-layout: recent_changes
-title: Recent policy changes reported in the OxCGRT
-permalink: /recent-changes
-\---
-
-This website contains recent policy changes reported in the global Oxford COVID-19 Government Response Tracker (OxCGRT) database. It includes policies which have come into force within the last two weeks. It is arranged by country and then by indicator. For more details on the coding policy please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) and [Interpretation Guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md).
-
-Data in the OxCGRT database is recorded by volunteers from all over the world on a weekly schedule. Our coverage may not yet be completely up-to-date until the present day with recent policy changes. This site is updated daily, so check back for the latest information.
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo = TRUE,
   fig.path = "../images/"
 )
 ```
+
+```{r GH-yaml, echo=F,include=T}
+cat(--- \nlayout: recent_changes \ntitle: Recent policy changes reported in the OxCGRT \npermalink: /recent-changes/ \n---)
+```
+
+This website contains recent policy changes reported in the global Oxford COVID-19 Government Response Tracker (OxCGRT) database. It includes policies which have come into force within the last two weeks. It is arranged by country and then by indicator. For more details on the coding policy please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) and [Interpretation Guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md).
+
+Data in the OxCGRT database is recorded by volunteers from all over the world on a weekly schedule. Our coverage may not yet be completely up-to-date until the present day with recent policy changes. This site is updated daily, so check back for the latest information.
+
 
 ```{r, echo=F,include=F}
 library(tidyverse)
