@@ -134,7 +134,7 @@ dev.off()
 ```
 
 ```{r Table, echo=F,include=T, results='asis'}
-cat("<img src=\"images/Setup-1.png\">")
+cat("<img src=\"..images/Setup-1.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 final <- oxcgrt_changes %>%
@@ -155,7 +155,7 @@ final <- oxcgrt_changes %>%
     `Previous Policy` = factor(`Previous Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
     Direction_Change = paste0(day(`Date of change`),"/",month(`Date of change`),"/",year(`Date of change`)," ",
                               ifelse(`Current Policy`>`Previous Policy`,
-                                     "<img src=images/up-arrow.png>", "<img src=images/down-arrow.png>")))
+                                     "<img src=../images/up-arrow.png>", "<img src=../images/down-arrow.png>")))
                                      # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png>",
                                     # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/downPPT.png>")))
                                     # "\U2191"," \U2193")))
