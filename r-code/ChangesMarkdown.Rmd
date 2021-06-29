@@ -6,10 +6,15 @@ output:
     variant: gfm
 ---
 
+This website contains recent policy changes reported in the global Oxford COVID-19 Government Response Tracker (OxCGRT) database. It includes policies which have come into force within the last two weeks. It is arranged by country and then by indicator. For more details on the coding policy please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) and [Interpretation Guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md).
+
+Data in the OxCGRT database is recorded by volunteers from all over the world on a weekly schedule. Our coverage may not yet be completely up-to-date until the present day with recent policy changes. This site is updated daily, so check back for the latest information.
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo = TRUE,
-  fig.path = "../images"
+  fig.path = "../images/"
 )
 ```
 
@@ -26,6 +31,7 @@ library(kableExtra)
 library(here)
 library(readr)
 library(rgeos)
+library(gganimate)
 
 here()
 
@@ -53,24 +59,24 @@ OxCGRTLatest <- OxCGRTLatest %>% mutate(Date = ymd(Date))
 ```{r Changes, echo=F,include=F}
 OxCGRTLastFortnight <- filter(OxCGRTLatest, Date>Sys.Date()-14 & is.na(RegionName))
 
-OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(StringencyIndex, na.rm=T)) %>%
+OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>%
   filter(SI_Changes>1) %>% select(CountryName) %>% pull()
 
-OxCGRT_SIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName) %>%
-  summarise(SIMaxWeeklyChange = range(StringencyIndex, na.rm=T)[2]-range(StringencyIndex, na.rm=T)[1])
+OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName) %>%
+  summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
 
-OxCGRT_SIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
-  select(CountryName,StringencyIndex) %>%
+OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
+  select(CountryName,GovernmentResponseIndex) %>%
   distinct() %>% arrange(CountryName) %>% na.omit() %>%
-  summarise(NumberChanges = length(StringencyIndex)-1,
-    SIChange = last(StringencyIndex)-first(StringencyIndex),
-    First=first(StringencyIndex), Last=last(StringencyIndex)) %>%
-  left_join(OxCGRT_SIRanges) %>%
+  summarise(NumberChanges = length(GovernmentResponseIndex)-1,
+    GRIChange = last(GovernmentResponseIndex)-first(GovernmentResponseIndex),
+    First=first(GovernmentResponseIndex), Last=last(GovernmentResponseIndex)) %>%
+  left_join(OxCGRT_GRIRanges) %>%
   mutate(MapColours = rep("0",length(CountryName)),
-    MapColours = case_when(is.na(SIChange) ~ "0",
-                                SIChange == 0 ~ "0",
-                                SIChange < 0 ~ "1",
-                                SIChange > 0 ~ "2"))
+    MapColours = case_when(is.na(GRIChange) ~ "0",
+                                GRIChange == 0 ~ "0",
+                                GRIChange < 0 ~ "1",
+                                GRIChange > 0 ~ "2"))
     
     
     # MapColours = case_when(is.na(SIChange) ~ "0",
@@ -84,41 +90,45 @@ OxCGRT_SIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountri
     #                             SIChange > 60 ~ "8"))
 ```
 
-## Global Changes in Stringency Index
+## Global Changes in Government Response Index
 
-The following map details the changes to the stringency index during the last two weeks:
+The following map details the changes to the government response index during the last two weeks. For more detail on the Government Response Index please see the most recent [working paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-responses-covid-19) or explore the [dataset publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-```{r Setup,echo=FALSE,include=T, out.width="200%",fig.width = 7,fig.height=3}
+```{r Setup,echo=FALSE,include=F}
 # Can add captions by adding fig.cap="caption" to the {} section above
 worldMap <- rnaturalearth::ne_countries(scale=110, returnclass = "sf") %>% filter(sov_a3!="ATA")
 
-SIChangeMapData <- left_join(worldMap, OxCGRT_SIChange, by=c("sov_a3"="CountryCode"))
-WorldChangeSIFortnightMap <- ggplot(SIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=SIChange))+
-  scale_fill_viridis(na.value="grey90", name="Stringency Index Change") + theme(panel.background = element_blank())
+GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("sov_a3"="CountryCode"))
+WorldChangeSIFortnightMap <- ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=GRIChange))+
+  scale_fill_viridis(na.value="grey90", name="Government Response Index Change") + theme(panel.background = element_blank())
 
 
-SIChangeMapData$MapColours <- factor(SIChangeMapData$MapColours, levels=c(0:2))
+GRIChangeMapData$MapColours <- factor(GRIChangeMapData$MapColours, levels=c(0:2))
 # IndexColours <- c('#762a83', '#9970ab', '#c2a5cf','#e7d4e8',
 #                   '#d9f0d3','#a6dba0','#5aae61','#1b7837',
 #                   "grey90")
 IndexColours <- c("grey90",'#762a83','#1b7837')
-names(IndexColours) <- levels(SIChangeMapData$MapColours)
+names(IndexColours) <- levels(GRIChangeMapData$MapColours)
 # FillScale <- scale_fill_manual(name = "Stringency Index Change",values = IndexColours, limits = factor(c(1:8,0)),
 #                                          labels = c("Less -60","-60 to -40","-40 to -20","-20 to 0",
 #                                                     "0 to 20","20 to 40","40 to 60", "More 60","No change"),
                                 # na.value="grey90")
-FillScale <- scale_fill_manual(name = "Stringency Index Change",values = IndexColours, limits = factor(c(1,0,2)),
-                                         labels = c("Decreasing Stringency Index","No Change in Stringency Index","Increasing Stringency Index"),
+FillScale <- scale_fill_manual(name = "Government Response Index Change",values = IndexColours, limits = factor(c(1,0,2)),
+                                         labels = c("Decreasing Government Response Index","No Change in Government Response Index","Increasing Government Response Index"),
                                 na.value="grey90")
 
 # The plot
-ggplot(SIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+ 
+png(filename =  "./images/changes-map.png", width = 7, height = 3, units = "in", res = 3000)
+ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+ 
   theme(panel.background = element_blank(),axis.ticks=element_blank(),legend.box.just = "center",
         axis.text = element_blank(), legend.key.size = unit(15, units = "pt"), plot.background = element_rect(size = 100),legend.title.align=1,legend.spacing.y = unit(4, units = "pt"), legend.title = element_text(size=10, face = "bold"),legend.text = element_text(size=7)) + FillScale
+dev.off()
 
+#Plot is in the next block so that it prints
 ```
 
 ```{r Table, echo=F,include=T, results='asis'}
+cat("<img src=\"images/changes-map.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 final <- oxcgrt_changes %>%
@@ -135,140 +145,307 @@ final <- oxcgrt_changes %>%
   select(!CountryCode) %>%
   relocate(CountryName,Date,PolicyType,PolicyCode,previous_PolicyCode,Notes) %>%
   rename("Country/territory/region"=CountryName,"Indicator" = PolicyType, "Current Policy"=PolicyCode, "Previous Policy" = previous_PolicyCode, "Date of change"=Date) %>% mutate(
-    `Current Policy` = factor(`Current Policy`,levels = c("0","1","1T","1G","2","2T","2G","3","3T","3G","4","4T","4G"),ordered=TRUE),
-    `Previous Policy` = factor(`Previous Policy`,levels = c("0","1","1T","1G","2","2T","2G","3","3T","3G","4","4T","4G"),ordered=TRUE),
+    `Current Policy` = factor(`Current Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
+    `Previous Policy` = factor(`Previous Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
     Direction_Change = paste0(day(`Date of change`),"/",month(`Date of change`),"/",year(`Date of change`)," ",
                               ifelse(`Current Policy`>`Previous Policy`,
-                                     "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png>",
-                          "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/downPPT.png>")))
-                                     # " \U2191"," \U2193")))
+                                     "<img src=images/up_arrow.png>", "<img src=images/down_arrow.png>")))
+                                     # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png>",
+                                    # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/downPPT.png>")))
+                                    # "\U2191"," \U2193")))
+                                     
+                                      
 
+# Recoding H7 has to be done verbosely :(
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="1G"] <- "1S"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="1T"] <- "1I"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="2G"] <- "2S"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="2T"] <- "2I"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="3G"] <- "3S"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="3T"] <- "3I"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="4G"] <- "4S"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="4T"] <- "4I"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="5G"] <- "5S"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="5T"] <- "5I"
+
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="1G"] <- "1S"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="1T"] <- "1I"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="2G"] <- "2S"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="2T"] <- "2I"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="3G"] <- "3S"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="3T"] <- "3I"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="4G"] <- "4S"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="4T"] <- "4I"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="5G"] <- "5S"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Current Policy`,first = 1, last=2)=="5T"] <- "5I"
+
+# Same for E1
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Previous Policy`,first = 1, last=2)=="1G"] <- "1A"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Previous Policy`,first = 1, last=2)=="1T"] <- "1F"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Previous Policy`,first = 1, last=2)=="2G"] <- "2A"
+final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Previous Policy`,first = 1, last=2)=="2T"] <- "2F"
+
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="1G"] <- "1A"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="1T"] <- "1F"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="2G"] <- "2A"
+final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="2T"] <- "2F"
+
+  
 # kable(final[1:5])
 
 ```
 
-## Changes in closure and containment measures in the last two weeks
+## Changes in Policy over the last two weeks
 
-Please see our codebook for a full description of the policies we track.
+Please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) for a full description of the policies we track.
 
 ```{r TableLoop, results='asis', echo = FALSE, message=FALSE,warning = FALSE}
 FirstLast <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
-  select(CountryName,StringencyIndex) %>%
+  select(CountryName,GovernmentResponseIndex) %>%
   distinct() %>% arrange(CountryName) %>% na.omit() %>%
-  summarise(First=first(StringencyIndex), Last=last(StringencyIndex)) %>% select(CountryName,First,Last)
+  summarise(First=first(GovernmentResponseIndex), Last=last(GovernmentResponseIndex)) %>% select(CountryName,First,Last)
 
 CountryFinalList <- final$`Country/territory/region`
 
 finalCCPolicy <- final %>%
-  filter(substring(Indicator,first = 0, last=1)=="C") %>%
+  filter(substring(Indicator,first = 0, last=1)!="V") %>%
   filter(`Current Policy` != `Previous Policy`)%>%
   mutate(
   IndicatorFormatted=paste0(substring(Indicator,first =5)," (",substring(Indicator,first = 0, last=2),")"),
   LevelsofClosureCurrentText = 
 case_when(
 #C1
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** of schools or open with significant operational differences",
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Require** closure of **some** levels of schools",
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="3" ~ "**Require** closure of **all** levels of schools",
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> of schools or open with significant operational differences",
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Require</b> closure of <b>some</b> levels of schools",
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Require</b> closure of <b>all</b> levels of schools",
 #C2
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** (or work from home) of businesses or open with significant operational differences",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Require** closure of **some** sectors of business",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="3" ~ "**Require** closure of **all** sectors of business",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure </b> (or work from home) of businesses or open with significant operational differences",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Require</b> closure of <b>some</b> sectors of business",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Require</b> closure of <b>all</b> sectors of business",
 #C3
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommended** cancellation of public events",
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Required** cancellation of public events",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> cancellation of public events",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Require</b> cancellation of public events",
 #C4
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Restrictions on **very large** gatherings (over 1000 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Restrictions on **large** gatherings (between 101-1000 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="3" ~ "Restrictions on **medium** gatherings (11-100 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="4" ~ "Restrictions on **small** gatherings (10 people or fewer)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Restrictions on <b>very large</b> gatherings (over 1000 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Restrictions on <b>large</b> gatherings (between 101-1000 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="3" ~ "Restrictions on <b>medium</b> gatherings (11-100 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="4" ~ "Restrictions on <b>small</b> gatherings (10 people or fewer)",
 #C5
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** (or significant reduction in volume/routes) of public transport",
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Require closure ** (or significant reduction in volume/routes) of public transport",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> (or significant reduction in volume/routes) of public transport",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Require closure</b> (or significant reduction in volume/routes) of public transport",
 #C6
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommend** not leaving the house",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Require** not leaving the house with exceptions for daily exercise, grocery shopping, and 'essential' trips",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="3" ~ "**Require** not leaving the house with **minimal exceptions** (eg allowed to leave once a week, or only one person can leave at a time, etc)",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> not leaving the house",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Require</b> not leaving the house with exceptions for daily exercise, grocery shopping, and 'essential' trips",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg allowed to leave once a week, or only one person can leave at a time, etc)",
 #C7
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Recommend** to not travel between regions/cities",
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Internal travel restrictions** are in place",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> to not travel between regions/cities",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Internal travel restrictions</b> are in place",
 #C8
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="1" ~ "**Screening** arrivals coming into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="2" ~ "**Quarantine** arrivals from **some** regions coming into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="3" ~ "**Ban** arrivals from **some** regions coming into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="4" ~  "**Border closure** (ban on all regions) in",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Screening</b> arrivals coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Quarantine</b> arrivals from <b>some</b> regions coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Ban</b> arrivals from <b>some</b> regions coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="4" ~  "<b>Border closure</b> (ban on all regions) in",
+
+#E1 uses A and F
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Government is replacing <b>less than 50% income</b>",
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Government is replacing <b>more than 50% income</b>",
+
+# E2
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Government is providing <b>narrow debt relief</b> across all of",
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Government is providing <b>broad debt relief</b> across all of",
+
+# H1
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Public officials <b>urge caution</b> about COVID-19 in",
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Public officials have a <b>co-ordinated public information campaign</b> about COVID-19",
+
+# H2
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Only those <b>with symptoms AND meet specific criteria</b> (e.g. key workers) are eligibe for testing",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Anyone <b>symptomatic</b> can be tested",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Anyone</b> can be tested (open testing) is present",
+
+# H3
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Limited</b> contact tracing (not done for all identified cases)",
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Comprehensive</b> contact tracing (done for all identified cases)",
+
+# H6
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended</b> wearing of face masks",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Required</b> wearing of face masks in <b>specific shared spaces</b> outside the home when other people are present",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Required</b> wearing of face masks in <b>all shared spaces</b> outside the home when other people are present <b>or</b> when social distancing not possible",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Current Policy`,first=0,last=1)=="4" ~ "<b>Required</b> wearing of face masks at <b>all times</b> outside the home",
+
+# H7 - I is individual and S is subsidised
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="1" ~ "Available to <b>ONE</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Available to <b>TWO</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="3" ~ "Available to <b>ALL</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="4" ~ "Available to ALL key group (key workers, elderly, clinically vulnerable) plus additional availability to wider population",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="5" ~ "<b>Universal</b> availability",
+
+# H8
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended</b> isolation, hygiene, and visitor restriction measures in LTCFs and/or elderly people to stay at home",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Narrow restrictions</b> for protecting elderly people",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Current Policy`,first=0,last=1)=="3" ~ "<b>Extensive restrictions</b> for protection of elderly people",
+
+# V1
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "A <b>prioritised</b> plan is present",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "<b>Universal</b> and general eligibility is present",
+
+# V2
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "No <b>categories</b> are receiving vaccines",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,first=0,last=1)=="2" ~ "Some <b>categories</b> are receiving vaccines",
+
+# Other V indicators are too complex for this right now and so have been removed
 
 # No measures 
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of"),
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No income support</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No debt relief</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "There is <b>no official</b> public information campaign across all of",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No testing policy</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No contact tracing</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No face mask measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No availability</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No plan</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "V2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "V3" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of"),
 
 TargettingCurrentText = case_when(
-substring(`Current Policy`,first=2,last=2)=="T" ~"in **some** parts of ",
-substring(`Current Policy`,first=2,last=2)=="G" ~"across **all** of ",
-is.na(substring(`Current Policy`,first=2,last=2))~ " "),
+substring(`Current Policy`,first=2,last=2)=="T" ~"in <b>some</b> parts of ",
+substring(`Current Policy`,first=2,last=2)=="G" ~"across <b>all</b> of ",
+substring(`Current Policy`,first=2,last=2)=="I" ~"at cost to the individual",
+substring(`Current Policy`,first=2,last=2)=="S" ~"at no / minimal cost to the individual (government funded or subsidised)",
+substring(`Current Policy`,first=2,last=2)=="A" ~"for <b>all workers</b> in",
+substring(`Current Policy`,first=2,last=2)=="F" ~"for <b>formal workers only</b> in",
+is.na(substring(`Current Policy`,first=2,last=2))~ " "
+),
 
 LevelsofPreviousClosureText = 
 case_when(
-#C1
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** of schools or open with significant operational differences",
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Require** closure of **some** levels of schools",
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "**Require** closure of **all** levels of schools",
+ #C1
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> of schools or open with significant operational differences",
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Require</b> closure of <b>some</b> levels of schools",
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Require</b> closure of <b>all</b> levels of schools",
 #C2
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** (or work from home) of businesses or open with significant operational differences",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Require** closure of **some** sectors of business",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "**Require** closure of **all** sectors of business",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure </b> (or work from home) of businesses or open with significant operational differences",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Require</b> closure of <b>some</b> sectors of business",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Require</b> closure of <b>all</b> sectors of business",
 #C3
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommended** cancellation of public events",
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Required** cancellation of public events",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> cancellation of public events",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Require</b> cancellation of public events",
 #C4
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Restrictions on **very large** gatherings (over 1000 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Restrictions on **large** gatherings (between 101-1000 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "Restrictions on **medium** gatherings (11-100 people)",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="4" ~ "Restrictions on **small** gatherings (10 people or fewer)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Restrictions on <b>very large</b> gatherings (over 1000 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Restrictions on <b>large</b> gatherings (between 101-1000 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "Restrictions on <b>medium</b> gatherings (11-100 people)",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="4" ~ "Restrictions on <b>small</b> gatherings (10 people or fewer)",
 #C5
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommended closure ** (or significant reduction in volume/routes) of public transport",
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Require closure ** (or significant reduction in volume/routes) of public transport",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> (or significant reduction in volume/routes) of public transport",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Require closure</b> (or significant reduction in volume/routes) of public transport",
 #C6
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommend** not leaving the house",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Require** not leaving the house with exceptions for daily exercise, grocery shopping, and 'essential' trips",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "**Require** not leaving the house with **minimal exceptions** (eg allowed to leave once a week, or only one person can leave at a time, etc)",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> not leaving the house",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Require</b> not leaving the house with exceptions for daily exercise, grocery shopping, and 'essential' trips",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg allowed to leave once a week, or only one person can leave at a time, etc)",
 #C7
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Recommend** to not travel between regions/cities",
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Internal travel restrictions** are in place",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommend</b> to not travel between regions/cities",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Internal travel restrictions</b> are in place",
 #C8
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "**Screening** arrivals into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "**Quarantine** arrivals from **some** regions coming into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "**Ban** arrivals from **some** regions coming into",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="4" ~  "**Border closure** (ban on all regions) coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Screening</b> arrivals coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Quarantine</b> arrivals from <b>some</b> regions coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Ban</b> arrivals from <b>some</b> regions coming into",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="4" ~  "<b>Border closure</b> (ban on all regions) in",
+
+#E1 uses A and F
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Government is replacing <b>less than 50% income</b>",
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Government is replacing <b>more than 50% income</b>",
+
+# E2
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Government is providing <b>narrow debt relief</b> across all of",
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Government is providing <b>broad debt relief</b> across all of",
+
+# H1
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Public officials <b>urge caution</b> about COVID-19 in",
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Public officials have a <b>co-ordinated public information campaign</b> about COVID-19",
+
+# H2
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Only those <b>with symptoms AND meet specific criteria</b> (e.g. key workers) are eligibe for testing",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Anyone <b>symptomatic</b> can be tested",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Anyone</b> can be tested (open testing) is present",
+
+# H3
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Limited</b> contact tracing (not done for all identified cases)",
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Comprehensive</b> contact tracing (done for all identified cases)",
+
+# H6
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended</b> wearing of face masks",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Required</b> wearing of face masks in <b>specific shared spaces</b> outside the home when other people are present",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Required</b> wearing of face masks in <b>all shared spaces</b> outside the home when other people are present <b>or</b> when social distancing not possible",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Previous Policy`,first=0,last=1)=="4" ~ "<b>Required</b> wearing of face masks at <b>all times</b> outside the home",
+
+# H7 - I is individual and S is subsidised
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "Available to <b>ONE</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Available to <b>TWO</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "Available to <b>ALL</b> key group (key workers, elderly, clinically vulnerable)",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="4" ~ "Available to ALL key group (key workers, elderly, clinically vulnerable) plus additional availability to wider population",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="5" ~ "<b>Universal</b> availability",
+
+# H8
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended</b> isolation, hygiene, and visitor restriction measures in LTCFs and/or elderly people to stay at home",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Narrow restrictions</b> for protecting elderly people",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Previous Policy`,first=0,last=1)=="3" ~ "<b>Extensive restrictions</b> for protection of elderly people",
+
+# V1
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "A <b>prioritised</b> plan is present",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "<b>Universal</b> and general eligibility is present",
+
+# V2
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "No <b>categories</b> are receiving vaccines",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,first=0,last=1)=="2" ~ "Some <b>categories</b> are receiving vaccines",
+
+# Other V indicators are too complex for this right now and so have been removed
 
 # No measures 
-substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures**s are present across all of",
-substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of",
-substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "**No measures** are present across all of"),
+substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C4" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C5" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C6" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C7" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "C8" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "E1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No income support</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "E2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No debt relief</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "There is <b>no official</b> public information campaign across all of",
+substring(Indicator, first = 0, last=2) == "H2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No testing policy</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "H3" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No contact tracing</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H6" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No face mask measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "H7" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No availability</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "H8" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No plan</b> is present across all of",
+substring(Indicator, first = 0, last=2) == "V2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
+substring(Indicator, first = 0, last=2) == "V3" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of"),
 
 TargettingPreviousText = case_when(
-substring(`Previous Policy`,first=2,last=2)=="T" ~"in **some** parts of ",
-substring(`Previous Policy`,first=2,last=2)=="G" ~"across **all** of ",
-is.na(substring(`Previous Policy`,first=2,last=2))~ ""),
+substring(`Previous Policy`,first=2,last=2)=="T" ~"in <b>some</b> parts of ",
+substring(`Previous Policy`,first=2,last=2)=="G" ~"across <b>all</b> of ",
+substring(`Previous Policy`,first=2,last=2)=="I" ~"at cost to the individual",
+substring(`Previous Policy`,first=2,last=2)=="S" ~"at no / minimal cost to the individual (government funded or subsidised)",
+substring(`Previous Policy`,first=2,last=2)=="A" ~"for <b>all workers</b> in",
+substring(`Previous Policy`,first=2,last=2)=="F" ~"for <b>formal workers only</b> in",
+is.na(substring(`Previous Policy`,first=2,last=2))~ " "),
 
 `Current Policy Text` = ifelse(substring(`Current Policy`,first=1,last=1)=="0"|
                                  substring(Indicator, first = 0, last=2) == "C8",
-                        paste0("**New policy:** \n\n",LevelsofClosureCurrentText," ",`Country/territory/region`," (",substring(`Current Policy`, first = 0, last=2),")"),
-  paste0("**New policy:** \n\n",LevelsofClosureCurrentText,"; ",TargettingCurrentText," ",`Country/territory/region`," (",substring(`Current Policy`, first = 0, last=2),")")),
+                        paste0("<b>New policy:</b> \n\n",LevelsofClosureCurrentText," ",`Country/territory/region`," (",substring(`Current Policy`, first = 0, last=2),")"),
+  paste0("<b>New policy:</b> \n\n",LevelsofClosureCurrentText,"; ",TargettingCurrentText," ",`Country/territory/region`," (",substring(`Current Policy`, first = 0, last=2),")")),
 `Previous Policy Text` = ifelse(substring(`Previous Policy`,first=1,last=1)=="0"|substring(Indicator, first = 0, last=2) == "C8",
-                        paste0("**Old policy:**\n \n", LevelsofPreviousClosureText," ",`Country/territory/region`," (",substring(`Previous Policy`, first = 0, last=2),")"),
-                        paste0("**Old policy:** \n\n",LevelsofPreviousClosureText,"; ",TargettingPreviousText," ",`Country/territory/region`," (",substring(`Previous Policy`, first = 0, last=2),")")))
+                        paste0("<b>Old policy:</b>\n \n", LevelsofPreviousClosureText," ",`Country/territory/region`," (",substring(`Previous Policy`, first = 0, last=2),")"),
+                        paste0("<b>Old policy:</b> \n\n",LevelsofPreviousClosureText,"; ",TargettingPreviousText," ",`Country/territory/region`," (",substring(`Previous Policy`, first = 0, last=2),")")))
 
 
 
@@ -277,21 +454,25 @@ TableData <- finalCCPolicy %>% select(`Country/territory/region`,IndicatorFormat
 library(kableExtra)
 for (i in unique(FirstLast$CountryName)) {
   CountrySubsetTemp <- TableData %>% filter(`Country/territory/region`==i)
-  cat("### ", i, " (",(FirstLast$First[FirstLast$CountryName==i]),"\U2192",FirstLast$Last[FirstLast$CountryName==i],")","\n",sep ="")
+  cat("### ", i, " (GRI: ",(FirstLast$First[FirstLast$CountryName==i]),
+      ifelse(FirstLast$First[FirstLast$CountryName==i]<=FirstLast$Last[FirstLast$CountryName==i]," \U2191 "," \U2193 "),
+      # "\U2192",
+      FirstLast$Last[FirstLast$CountryName==i],")","\n",sep ="")
   for (j in unique(CountrySubsetTemp$IndicatorFormatted)){
     cat("#### ", j,"\n")
     TD2 <- TableData %>% filter(`Country/territory/region`==i & IndicatorFormatted==j) %>%
       select(!c(IndicatorFormatted,`Country/territory/region`))
-    ImageVector <- ifelse(str_detect(TD2$Direction_Change,"\U2191"),
-                          "<img src=/Users/user/Documents/COVID19 Project/RA Projects/WeeklyChangesShinyApp/upPPT.png>",
-                          "<img src=/Users/user/Documents/COVID19 Project/RA Projects/WeeklyChangesShinyApp/downPPT.png>")
+    
+    cat("<div id=\"table-div\">")
     cat(kableExtra::kbl(TD2,"html", col.names = NULL,escape = F) %>% 
           kable_styling() %>%
-          column_spec(column=1, width = "1.5in") %>%
-          column_spec(column=2, color = "grey80", width = "1in") %>%
+          column_spec(column=1, width_min = "2in") %>%
+          column_spec(column=2, color = "grey80", width_min = "1.5in") %>%
           # , image = spec_image(path=ImageVector, width = 0.5,height = 0.5,res=15)) %>%
-          column_spec(column=3, width = "1.5in") %>%
-            scroll_box(width = "100%", height = "200px"))}
-    cat("  \n")
+          column_spec(column=3, width_min = "2in") %>%
+          column_spec(column=4, width_min = "4in") %>%
+            scroll_box(width = "100%", height = "300px"))
+    cat("</div>")}
+  cat("  \n")
 }
 ```
