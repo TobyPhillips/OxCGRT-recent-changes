@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r GH-yaml, echo=F, results='asis'}
+cat("testing??")
 cat("--- \nlayout: recent_changes \ntitle: Recent policy changes reported in the OxCGRT \npermalink: /recent-changes/ \n---")
 ```
 
