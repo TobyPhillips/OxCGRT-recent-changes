@@ -6,6 +6,12 @@ output:
     variant: gfm
 ---
 
+---
+layout: recent_changes
+title: Recent policy changes reported in the OxCGRT
+permalink: /recent-changes
+---
+
 This website contains recent policy changes reported in the global Oxford COVID-19 Government Response Tracker (OxCGRT) database. It includes policies which have come into force within the last two weeks. It is arranged by country and then by indicator. For more details on the coding policy please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) and [Interpretation Guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md).
 
 Data in the OxCGRT database is recorded by volunteers from all over the world on a weekly schedule. Our coverage may not yet be completely up-to-date until the present day with recent policy changes. This site is updated daily, so check back for the latest information.
@@ -38,19 +44,19 @@ here()
 oxcgrt_changes <- fread("https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_allchanges.csv")
 
 
-ChangesTable <- read_csv("https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_allchanges.csv", 
+ChangesTable <- read_csv("https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_allchanges.csv",
                          col_types = cols(Date = col_date(format = "%Y%m%d")))
 ChangesTable <- ChangesTable %>% filter(Date>Sys.Date()-14)
 
 url_oxcgrt <- "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest_withnotes.csv"
 
-OxCGRTLatest <- read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(), 
+OxCGRTLatest <- read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(),
                                                          RegionCode = col_character()))
 
-#change date variable to date format 
+#change date variable to date format
 OxCGRTLatest <- OxCGRTLatest %>% mutate(Date = ymd(Date))
 
-# OxCGRTLatest <- as_tibble(read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(), 
+# OxCGRTLatest <- as_tibble(read_csv(url(url_oxcgrt), col_types = cols(RegionName = col_character(),
 #                                                                     RegionCode = col_character())))
 
 # OxCGRTLatest$Date <- ymd(OxCGRTLatest$Date)
@@ -77,8 +83,8 @@ OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountr
                                 GRIChange == 0 ~ "0",
                                 GRIChange < 0 ~ "1",
                                 GRIChange > 0 ~ "2"))
-    
-    
+
+
     # MapColours = case_when(is.na(SIChange) ~ "0",
     #                             SIChange <= -60 ~ "1",
     #                             SIChange > -60 & SIChange <= -40 ~ "2",
@@ -118,8 +124,8 @@ FillScale <- scale_fill_manual(name = "Government Response Index Change",values 
                                 na.value="grey90")
 
 # The plot
-# png(filename =  "./images/changes-map.png", width = 7, height = 3, units = "in", res = 3000)
-ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+ 
+# png(filename =  "/images/Setup-1.png", width = 7, height = 3, units = "in", res = 3000)
+ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
   theme(panel.background = element_blank(),axis.ticks=element_blank(),legend.box.just = "center",
         axis.text = element_blank(), legend.key.size = unit(15, units = "pt"), plot.background = element_rect(size = 100),legend.title.align=1,legend.spacing.y = unit(4, units = "pt"), legend.title = element_text(size=10, face = "bold"),legend.text = element_text(size=7)) + FillScale
 dev.off()
@@ -128,7 +134,7 @@ dev.off()
 ```
 
 ```{r Table, echo=F,include=T, results='asis'}
-cat("<img src=\"images/changes-map.png\">")
+cat("<img src=\"images/Setup-1.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 final <- oxcgrt_changes %>%
@@ -149,12 +155,12 @@ final <- oxcgrt_changes %>%
     `Previous Policy` = factor(`Previous Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
     Direction_Change = paste0(day(`Date of change`),"/",month(`Date of change`),"/",year(`Date of change`)," ",
                               ifelse(`Current Policy`>`Previous Policy`,
-                                     "<img src=images/up_arrow.png>", "<img src=images/down_arrow.png>")))
+                                     "<img src=images/up-arrow.png>", "<img src=images/down-arrow.png>")))
                                      # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png>",
                                     # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/downPPT.png>")))
                                     # "\U2191"," \U2193")))
-                                     
-                                      
+
+
 
 # Recoding H7 has to be done verbosely :(
 final$`Previous Policy`[substring(final$Indicator,first = 0, last=2)=="H7" & substring(final$`Previous Policy`,first = 1, last=2)=="1G"] <- "1S"
@@ -190,7 +196,7 @@ final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & subs
 final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="2G"] <- "2A"
 final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & substring(final$`Current Policy`,first = 1, last=2)=="2T"] <- "2F"
 
-  
+
 # kable(final[1:5])
 
 ```
@@ -212,7 +218,7 @@ finalCCPolicy <- final %>%
   filter(`Current Policy` != `Previous Policy`)%>%
   mutate(
   IndicatorFormatted=paste0(substring(Indicator,first =5)," (",substring(Indicator,first = 0, last=2),")"),
-  LevelsofClosureCurrentText = 
+  LevelsofClosureCurrentText =
 case_when(
 #C1
 substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> of schools or open with significant operational differences",
@@ -295,7 +301,7 @@ substring(Indicator, first = 0, last=2) == "V1" & substring(`Current Policy`,fir
 
 # Other V indicators are too complex for this right now and so have been removed
 
-# No measures 
+# No measures
 substring(Indicator, first = 0, last=2) == "C1" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
 substring(Indicator, first = 0, last=2) == "C2" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
 substring(Indicator, first = 0, last=2) == "C3" & substring(`Current Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
@@ -326,7 +332,7 @@ substring(`Current Policy`,first=2,last=2)=="F" ~"for <b>formal workers only</b>
 is.na(substring(`Current Policy`,first=2,last=2))~ " "
 ),
 
-LevelsofPreviousClosureText = 
+LevelsofPreviousClosureText =
 case_when(
  #C1
 substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="1" ~ "<b>Recommended closure</b> of schools or open with significant operational differences",
@@ -409,7 +415,7 @@ substring(Indicator, first = 0, last=2) == "V1" & substring(`Previous Policy`,fi
 
 # Other V indicators are too complex for this right now and so have been removed
 
-# No measures 
+# No measures
 substring(Indicator, first = 0, last=2) == "C1" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
 substring(Indicator, first = 0, last=2) == "C2" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
 substring(Indicator, first = 0, last=2) == "C3" & substring(`Previous Policy`,first=0,last=1)=="0" ~ "<b>No measures</b> are present across all of",
@@ -462,9 +468,9 @@ for (i in unique(FirstLast$CountryName)) {
     cat("#### ", j,"\n")
     TD2 <- TableData %>% filter(`Country/territory/region`==i & IndicatorFormatted==j) %>%
       select(!c(IndicatorFormatted,`Country/territory/region`))
-    
+
     cat("<div id=\"table-div\">")
-    cat(kableExtra::kbl(TD2,"html", col.names = NULL,escape = F) %>% 
+    cat(kableExtra::kbl(TD2,"html", col.names = NULL,escape = F) %>%
           kable_styling() %>%
           column_spec(column=1, width_min = "2in") %>%
           column_spec(column=2, color = "grey80", width_min = "1.5in") %>%
