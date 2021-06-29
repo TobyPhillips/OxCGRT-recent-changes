@@ -1,5 +1,8 @@
-testing??— layout: recent\_changes title: Recent policy changes reported
-in the OxCGRT permalink: /recent-changes/ —
+    ---
+    layout: recent_changes
+    title: Recent policy changes reported in the OxCGRT
+    permalink: /recent-changes/
+    ---
 
 This website contains recent policy changes reported in the global
 Oxford COVID-19 Government Response Tracker (OxCGRT) database. It
