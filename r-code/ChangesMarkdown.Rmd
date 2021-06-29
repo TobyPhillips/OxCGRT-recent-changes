@@ -6,11 +6,11 @@ output:
     variant: gfm
 ---
 
-\-\-\-  
+-\-\-  
 layout: recent-changes  
 title: Recent policy changes reported in the OxCGRT  
 permalink: /recent-changes/  
-\-\-\-
+-\-\-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
