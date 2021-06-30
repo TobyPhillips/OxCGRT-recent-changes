@@ -94,9 +94,9 @@ p {
 table-div {
   margin-top: 0 !important;
   margin-bottom: 10px !important;
-  max-height: 200px !important;
-// border: 1px solid #ddd;
-// padding: 0px;
+//  max-height: 200px !important;
+//  border: 1px solid #ddd;
+  padding: 0px;
 // overflow-y: scroll;
 // overflow-x: scroll;
 // width:100%;
@@ -105,6 +105,7 @@ table-div {
 table {
 	font-size: 11px;
   padding: 0;
+  max-height: 200px !important;
 }
 
 table tr {

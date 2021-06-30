@@ -3,11 +3,11 @@ on: push
 #  schedule:
 #    - cron: '55 * * * *'
 
-jobs: 
+jobs:
         build:
                 name: R github actions
                 runs-on: ubuntu-latest
-                steps: 
+                steps:
                         - uses: actions/checkout@v2.3.3
                           with:
                                   path: main
@@ -19,9 +19,9 @@ jobs:
                               ${{ runner.os }}-renv-
                         - uses: r-lib/actions/setup-pandoc@master
                         - uses: r-lib/actions/setup-r@master
-                          # with: 
-                          #        r-version: '3.5.3' # The R version to be installed 
-                        - name: Install dependencies        
+                          # with:
+                          #        r-version: '3.5.3' # The R version to be installed
+                        - name: Install dependencies
                           run: |
                              ls
                              cd main
@@ -35,6 +35,7 @@ jobs:
                             ls
                             chmod +x './r-code/changes-render.R'
                             Rscript './r-code/changes-render.R'
+                            sed -i '' '1s/^/---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\'$'\n/' './_pages/recent-changes.md'
                         - name: Commit changes
                           run: |
                             ls
