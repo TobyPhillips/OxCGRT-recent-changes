@@ -21,21 +21,23 @@ jobs:
                         - uses: r-lib/actions/setup-r@master
                           # with:
                           #        r-version: '3.5.3' # The R version to be installed
-                        - name: Install dependencies
+                        - name: add yaml to top of md file
                           run: |
-                             ls
-                             cd main
-                             ls
-                             chmod +x ./r-code/sysrequirements.sh
-                             ./r-code/sysrequirements.sh
-                        - name: Run Rmd script to generate changes text
-                          run: |
-                            ls
-                            cd main
-                            ls
-                            chmod +x './r-code/changes-render.R'
-                            Rscript './r-code/changes-render.R'
-                            sed -i '' '1s/^/---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\'$'\n/' './_pages/recent-changes.md'
+                            sed -i '1i---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\n' './_pages/recent-changes.md'
+#                        - name: Install dependencies
+#                          run: |
+#                             ls
+#                             cd main
+#                             ls
+#                             chmod +x ./r-code/sysrequirements.sh
+#                             ./r-code/sysrequirements.sh
+#                        - name: Run Rmd script to generate changes text
+#                          run: |
+#                            ls
+#                            cd main
+#                            ls
+#                            chmod +x './r-code/changes-render.R'
+#                            Rscript './r-code/changes-render.R'
                         - name: Commit changes
                           run: |
                             ls
