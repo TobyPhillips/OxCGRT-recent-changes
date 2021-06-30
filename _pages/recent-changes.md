@@ -1,3 +1,9 @@
+---  
+layout: recent-changes  
+title: Recent policy changes reported in the OxCGRT  
+permalink: /recent-changes/  
+---
+
 \---  
 layout: recent-changes  
 title: Recent policy changes reported in the OxCGRT  
