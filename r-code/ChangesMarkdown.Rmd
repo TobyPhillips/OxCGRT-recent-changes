@@ -466,7 +466,7 @@ for (i in unique(FirstLast$CountryName)) {
     cat(kableExtra::kbl(TD2,"html", col.names = NULL,escape = F) %>%
           kable_styling() %>%
           column_spec(column=1, width_min = "2in") %>%
-          column_spec(column=2, color = "grey80", width_min = "1.5in") %>%
+          column_spec(column=2, color = "grey80", width_min = "1in") %>%
           # , image = spec_image(path=ImageVector, width = 0.5,height = 0.5,res=15)) %>%
           column_spec(column=3, width_min = "2in") %>%
           column_spec(column=4, width_min = "4in") %>%
