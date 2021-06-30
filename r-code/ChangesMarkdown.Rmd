@@ -146,7 +146,7 @@ final <- oxcgrt_changes %>%
   rename("Country/territory/region"=CountryName,"Indicator" = PolicyType, "Current Policy"=PolicyCode, "Previous Policy" = previous_PolicyCode, "Date of change"=Date) %>% mutate(
     `Current Policy` = factor(`Current Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
     `Previous Policy` = factor(`Previous Policy`,levels = c("0","1","1I","1S","1F","1T","1G","1A","2","2F","2A","2I","2S","2T","2G","3","3T","3G","4","4T","4G","5","5T","5G", "3I","3S","4I","4S","5I","5S"),ordered=TRUE),
-    Direction_Change = paste0(day(`Date of change`),"/",month(`Date of change`),"/",year(`Date of change`)," ",
+    Direction_Change = paste0(day(`Date of change`),"/",month(`Date of change`),"/",year(`Date of change`),"  \n",
                               ifelse(`Current Policy`>`Previous Policy`,
                                      "<img src=../images/up-arrow.png>", "<img src=../images/down-arrow.png>")))
                                      # "<img src=/Users/user/Documents/COVID19%20Project/RA%20Projects/WeeklyChangesShinyApp/upPPT.png>",
