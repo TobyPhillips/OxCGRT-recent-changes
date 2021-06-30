@@ -1,11 +1,3 @@
-abcd
-abcd
----
-layout: recent_changes
-title: Recent policy changes reported in the OxCGRT
-permalink: /index
----
-
 The following map details the changes to the stringency index during the
 last two weeks:
 
