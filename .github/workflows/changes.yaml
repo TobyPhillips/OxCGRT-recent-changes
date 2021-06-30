@@ -10,7 +10,7 @@ jobs:
                 steps:
                         - uses: actions/checkout@v2.3.3
                           with:
-                                  path: main
+                                  path: master
                         - uses: actions/cache@v2
                           with:
                             path: ~/.local/share/renv
@@ -19,7 +19,7 @@ jobs:
                               ${{ runner.os }}-renv-
                         - name: add yaml to top of md file
                           run: |
-                            sed -i '1iabcd' ../index.md
+                            sed -i '1iabcd' index.md
 #                            sed -i '1i---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\n' "./_pages/recent-changes.md"
                         - uses: r-lib/actions/setup-pandoc@master
                         - uses: r-lib/actions/setup-r@master
