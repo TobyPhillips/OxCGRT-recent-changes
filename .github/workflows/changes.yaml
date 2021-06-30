@@ -23,7 +23,7 @@ jobs:
                           #        r-version: '3.5.3' # The R version to be installed
                         - name: add yaml to top of md file
                           run: |
-                            sed -i '1i---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\n' '../_pages/recent-changes.md'
+                            sed -i '1i---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\n' "./_pages/recent-changes.md"
 #                        - name: Install dependencies
 #                          run: |
 #                             ls
