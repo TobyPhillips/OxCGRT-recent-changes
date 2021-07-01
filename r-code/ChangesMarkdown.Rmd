@@ -112,28 +112,15 @@ names(IndexColours) <- levels(GRIChangeMapData$MapColours)
 #                                          labels = c("Less -60","-60 to -40","-40 to -20","-20 to 0",
 #                                                     "0 to 20","20 to 40","40 to 60", "More 60","No change"),
                                 # na.value="grey90")
+
 FillScale <- scale_fill_manual(name = "Government Response Index Change",values = IndexColours, limits = factor(c(1,0,2)),
                                          labels = c("Decreasing","No Change","Increasing"), na.value="grey90")
 
 # The plot
-# png(filename =  "./images/changes-map.png", width = 7, height = 3, units = "in", res = 1000)
+png(filename =  "./images/changes-map.png", width = 7, height = 3, units = "in", res = 1000)
 ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
-  theme(
-    panel.background = element_blank(),
-    axis.ticks=element_blank(),
-    legend.box.just = "center",
-    axis.text = element_blank(),
-    legend.key.size = unit(15, units = "pt"),
-#    plot.background = element_rect(size = 100),
-    legend.title.align=1,
-    legend.spacing.y = unit(4, units = "pt"),
-    legend.title = element_text(size=10, face = "bold"),
-    legend.text = element_text(size=7),
-    plot.margin=unit(c(0,0,0,0),"mm"),
-    legend.position="bottom"
-  ) + FillScale
-ggsave("../images/changes-map.png")
-# knitr::plot_crop("../images/changes-map.png")
+  theme(panel.background = element_blank(),axis.ticks=element_blank(),legend.box.just = "center",
+        axis.text = element_blank(), legend.key.size = unit(15, units = "pt"), plot.background = element_rect(size = 100),legend.title.align=1,legend.spacing.y = unit(4, units = "pt"), legend.title = element_text(size=10, face = "bold"),legend.text = element_text(size=7), plot.margin=unit(c(0,0,0,0),"mm"), legend.position="bottom") + FillScale
 dev.off()
 
 
