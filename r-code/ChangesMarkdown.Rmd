@@ -119,8 +119,20 @@ FillScale <- scale_fill_manual(name = "Government Response Index Change",values 
 # The plot
 png(filename =  "../images/changes-map.png", width = 7, height = 3, units = "in", res = 1000)
 ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
-  theme(panel.background = element_blank(),axis.ticks=element_blank(),legend.box.just = "center",
-        axis.text = element_blank(), legend.key.size = unit(15, units = "pt"), plot.background = element_rect(size = 100),legend.title.align=1,legend.spacing.y = unit(4, units = "pt"), legend.title = element_text(size=10, face = "bold"),legend.text = element_text(size=7), plot.margin=unit(c(0,0,0,0),"mm"), legend.position="bottom") + FillScale
+  theme(
+    panel.background = element_blank(),
+    axis.ticks=element_blank(),
+    legend.box.just = "center",
+    axis.text = element_blank(),
+    legend.key.size = unit(15, units = "pt"),
+    # plot.background = element_rect(size = 100),
+    legend.title.align=1,
+    legend.spacing.y = unit(4, units = "pt"),
+    legend.title = element_text(size=10, face = "bold"),
+    legend.text = element_text(size=7),
+    plot.margin=unit(c(0,0,0,0),"mm"),
+    legend.position="bottom"
+    ) + FillScale
 dev.off()
 
 
