@@ -29,6 +29,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png">
 
+| Increased | Decreased |
+| --- | --- |
+| [Argentina (GRI: 72.19 ↓ 69.38)](#Argentina (GRI: 72.19 ↓ 69.38)) | [Australia (GRI: 52.4 ↑ 62.81)](#Australia (GRI: 52.4 ↑ 62.81)) |
+| [Azerbaijan (GRI: 64.06 ↓ 59.38)](#Azerbaijan (GRI: 64.06 ↓ 59.38)) | |
+
 ## Changes in Policy over the last two weeks
 
 Please see our
