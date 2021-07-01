@@ -27,7 +27,7 @@ paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-respo
 or explore the [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-<img src="../images/Setup-1.png">
+<img src="../images/changes-map.png">
 
 ## Changes in Policy over the last two weeks
 
