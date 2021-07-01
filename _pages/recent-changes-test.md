@@ -32,42 +32,43 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 ### Increasing
 
 <div class="contents">
-Increasing
+
+<div>
+<a href="#australia-gri-524--6281">Australia (GRI: 52.4 ↑ 62.81)</a>
 </div>
-<div class="contents">
-[Australia (GRI: 52.4 ↑ 62.81)](#australia-gri-524--6281)
-</div>
-<div class="contents">
+<div>
 increasing 2 222 2222 2 2222
 </div>
-<div class="contents">
+<div>
 increasing 3 333 3333 3 3333
 </div>
-<div class="contents">
+<div>
 increasing 4 444 4444 4 4444
 </div>
-<div class="contents">
+<div>
 increasing 5 555 5555 5 5555
 </div>
 
 ### Decreasing
 
 <div class="contents">
-[Argentina (GRI: 72.19 ↓ 69.38)](#argentina-gri-7219--6938)
+
+<div>
+<a href=#argentina-gri-7219--6938>Argentina (GRI: 72.19 ↓ 69.38)</a>
 </div>
-<div class="contents">
-[Azerbaijan (GRI: 64.06 ↓ 59.38)](#azerbaijan-gri-6406--5938)
+<div>
+<a href=#azerbaijan-gri-6406--5938>Azerbaijan (GRI: 64.06 ↓ 59.38)</a>
 </div>
-<div class="contents">
+<div>
 decreasing 2 222 2222 2 2222
 </div>
-<div class="contents">
+<div>
 decreasing 3 333 3333 3 3333
 </div>
-<div class="contents">
+<div>
 decreasing 4 444 4444 4 4444
 </div>
-<div class="contents">
+<div>
 decreasing 5 555 5555 5 5555
 </div>
 
