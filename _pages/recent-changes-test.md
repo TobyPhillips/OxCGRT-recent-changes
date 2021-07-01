@@ -1,7 +1,7 @@
 ---  
 layout: recent-changes  
 title: Recent policy changes reported in the OxCGRT  
-permalink: /recent-changes/  
+permalink: /recent-changes-test/  
 ---
 
 This website contains recent policy changes reported in the global
