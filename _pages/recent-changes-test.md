@@ -72,6 +72,8 @@ decreasing 4 444 4444 4 4444
 decreasing 5 555 5555 5 5555
 </div>
 
+</div>
+
 ## Changes in Policy over the last two weeks
 
 Please see our
