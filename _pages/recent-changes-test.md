@@ -29,7 +29,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png">
 
-### Increasing
+#### Increasing
 
 <div class="contents">
 
@@ -51,7 +51,7 @@ increasing 5 555 5555 5 5555
 
 </div>
 
-### Decreasing
+#### Decreasing
 
 <div class="contents">
 
