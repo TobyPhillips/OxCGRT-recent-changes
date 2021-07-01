@@ -131,8 +131,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     legend.text = element_text(size=7),
     plot.margin=unit(c(0,0,0,0),"mm"),
     legend.position="bottom"
-  )
-  + FillScale
+  ) + FillScale
 ggsave("../images/changes-map.png")
 dev.off()
 
