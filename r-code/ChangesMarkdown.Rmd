@@ -117,7 +117,7 @@ FillScale <- scale_fill_manual(name = "Government Response Index Change",values 
                                          labels = c("Decreasing","No Change","Increasing"), na.value="grey90")
 
 # The plot
-# png(filename =  "../images/changes-map.png", width = 700, height = 300)
+png(filename =  "../images/changes-map.png", width = 700, height = 300)
 ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
   theme(
     panel.background = element_blank(),
@@ -133,8 +133,8 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     plot.margin=unit(c(0,0,0,0),"mm"),
     legend.position="bottom"
     ) + FillScale
-ggsave(file="../images/changes-map.png", width = 700, height = 300, units = "px", dpi = 300)
-# dev.off()
+# ggsave(file="../images/changes-map.png", width = 700, height = 300, units = "px", dpi = 300)
+dev.off()
 
 
 #Plot is in the next block so that it prints
