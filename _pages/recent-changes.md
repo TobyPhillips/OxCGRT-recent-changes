@@ -2,7 +2,6 @@
 layout: recent-changes  
 title: Recent policy changes reported in the OxCGRT  
 permalink: /recent-changes/  
-redirect_from: /index/  
 ---
 
 This website contains recent policy changes reported in the global
@@ -59,9 +58,10 @@ Argentina (2G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -114,9 +114,10 @@ to the individual (government funded or subsidised) Argentina (4S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -148,7 +149,7 @@ Government still does not know when they will arrive.
 
 </div>
 
-### Australia (GRI: 54.48 ↑ 62.81)
+### Australia (GRI: 52.4 ↑ 62.81)
 
 #### School closing (C1)
 
@@ -171,9 +172,10 @@ operational differences; in <b>some</b> parts of Australia (1T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -249,9 +251,10 @@ maintain a 1T code.”
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/down-arrow.png">
+18/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -303,9 +306,10 @@ Australia (1T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-26/6/2021 <img src="../images/up-arrow.png">
+26/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -377,9 +381,10 @@ ordered to close, decision made to code as a level 2.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-27/6/2021 <img src="../images/up-arrow.png">
+27/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -448,9 +453,10 @@ Australia (1T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-26/6/2021 <img src="../images/up-arrow.png">
+26/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -510,9 +516,10 @@ a level 2 – cancelling of public events required.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-26/6/2021 <img src="../images/up-arrow.png">
+26/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -600,9 +607,10 @@ until midnight 9 July, unless extended or repealed earlier.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/down-arrow.png">
+18/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -666,9 +674,10 @@ Therefore maintain 3T code.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/down-arrow.png">
+21/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -732,7 +741,7 @@ airports and other ports of entry? Yes.”" Archive Link
 
 </div>
 
-### Belgium (GRI: 64.38 ↓ 59.38)
+### Belgium (GRI: 65.62 ↓ 59.38)
 
 #### Vaccination policy (H7)
 
@@ -756,9 +765,10 @@ to the individual (government funded or subsidised) Belgium (4S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -794,7 +804,7 @@ i.e. 52.48% of the population have been given at least one dose.
 
 </div>
 
-### Belize (GRI: 69.38 ↑ 71.98)
+### Belize (GRI: 75.62 ↓ 71.98)
 
 #### School closing (C1)
 
@@ -816,9 +826,10 @@ i.e. 52.48% of the population have been given at least one dose.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -872,9 +883,10 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Belize
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -924,9 +936,10 @@ Belize (2G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -981,9 +994,10 @@ or subsidised) Brunei (3S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/up-arrow.png">
+21/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -1061,9 +1075,10 @@ Faso (2)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/down-arrow.png">
+20/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1116,9 +1131,10 @@ Per AU/US site they require a screening. —-
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/down-arrow.png">
+20/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1175,9 +1191,10 @@ parts of Canada (3T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/6/2021 <img src="../images/down-arrow.png">
+25/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1235,9 +1252,10 @@ Canada (1)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/up-arrow.png">
+28/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -1299,9 +1317,10 @@ parts of China (3T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-24/6/2021 <img src="../images/down-arrow.png">
+24/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1355,9 +1374,10 @@ non-essential workplace are required to close in mid-risk areas.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/down-arrow.png">
+20/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1378,489 +1398,6 @@ available. —-
 <https://web.archive.org/web/20210627075106/https://ci.usembassy.gov/covid-19-information/>
 <https://web.archive.org/web/20210627182756/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
 <https://web.archive.org/web/20210627182739/https://www.smartraveller.gov.au/destinations/africa/cote-divoire-ivory-coast>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Croatia (GRI: 42.19 ↑ 49.27)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Croatia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Croatia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools are open, but with strict guidelines (e.g. splitting classes
-into two shifts) and some offering a mixture of classroom and online
-teaching.
-<https://web.archive.org/web/20210624081347/https://www.koronavirus.hr/sto-moram-znati/o-skolovanju/upute-hzjz-za-vrtice-osnovne-i-srednje-skole-u-skolskoj-godini-2020-2021/770>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Croatia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Croatia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-At least until 30-Jun-21: Exceptions for weddings - restricted to max.
-120 people. Guests must have a valid PCR test (\>48 Hrs), be fully
-vaccinated, or have recovered from COVID-19 within last 180 days.
-<https://web.archive.org/web/20210624080329/https://www.wko.at/service/aussenwirtschaft/coronoavirus-update-kroatien.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Croatia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Croatia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Operating with 40% capacity.
-<https://web.archive.org/web/20210624080329/https://www.wko.at/service/aussenwirtschaft/coronoavirus-update-kroatien.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Croatia
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Croatia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No curfew or similar restrictions
-<https://web.archive.org/web/20210624080020/https://hr.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Croatia (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Croatia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210624080020/https://hr.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No contact tracing</b> is present across all of Croatia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Croatia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210624080329/https://www.wko.at/service/aussenwirtschaft/coronoavirus-update-kroatien.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Croatia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Croatia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210624075843/https://www.koronavirus.hr/najnovije/ogranicavanje-okupljanja-i-druge-nuzne-epidemioloske-mjere-i-preporuke/870>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at cost to the individual Croatia (3I)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Croatia (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccinations in accordance with EU, covering all groups: A,B, C:
-Vaccines in use: AstraZeneca & Pfizer / BioNtech
-<https://web.archive.org/web/20210624080930/https://www.koronavirus.hr/uputa-priprema-za-cijepljenje-protiv-covid-19-884/884>
-and
-<https://web.archive.org/web/20210624094153/https://www.hzjz.hr/priopcenja-mediji/cetvrtina-odraslog-stanovnistva-zavrsilo-je-cijepljenje/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Denmark (GRI: 59.17 ↓ 56.04)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Denmark (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Denmark (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Educational institutions are open. Local restrictions of schools and
-educational institutions might occur. No parishes were shutdown.
-<https://archive.vn/3eSW8>
-<http://web.archive.org/web/20210615024118/https://en.coronasmitte.dk/latest-updates>
 
 </td>
 
@@ -1897,9 +1434,10 @@ across <b>all</b> of Estonia (2G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-23/6/2021 <img src="../images/down-arrow.png">
+23/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -1967,9 +1505,10 @@ to the individual (government funded or subsidised) Finland (4S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/up-arrow.png">
+28/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2015,7 +1554,7 @@ administered: First dose 3220572, second dose 980821
 
 </div>
 
-### France (GRI: 58.33 ↓ 56.25)
+### France (GRI: 58.33 ↓ 54.17)
 
 #### Stay at home requirements (C6)
 
@@ -2039,9 +1578,10 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of France
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/down-arrow.png">
+20/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -2049,15 +1589,17 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of France
 
 <b>New policy:</b>
 
-<b>Recommend</b> not leaving the house; across <b>all</b> of France (1G)
+<b>No measures</b> are present across all of France (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Due to improvements in the health situation, the night-time curfew was
-lifted throughout France on the evening of 20 June, 10 days earlier than
-originally planned.
+\*\*\*Recoded as there appears to no longer be any stay at home
+requirement once curfew lifts. Previous coding note: Due to improvements
+in the health situation, the night-time curfew was lifted throughout
+France on the evening of 20 June, 10 days earlier than originally
+planned.
 <https://web.archive.org/web/20210625065617/https://www.gouvernement.fr/info-coronavirus>
 
 </td>
@@ -2093,9 +1635,10 @@ home; in <b>some</b> parts of France (4T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/6/2021 <img src="../images/down-arrow.png">
+17/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -2154,9 +1697,10 @@ home; across <b>all</b> of Guatemala (4G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -2208,9 +1752,10 @@ workers only</b> in Honduras (1F)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2261,9 +1806,10 @@ home; across <b>all</b> of Honduras (4G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -2317,9 +1863,10 @@ or subsidised) Honduras (2S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2375,9 +1922,10 @@ or subsidised) Ireland (3S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/up-arrow.png">
+20/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2431,9 +1979,10 @@ registered for their vaccine are also being vaccinated.”"
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/up-arrow.png">
+20/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2470,9 +2019,10 @@ operational differences; in <b>some</b> parts of Israel (1T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/6/2021 <img src="../images/up-arrow.png">
+25/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2525,9 +2075,10 @@ to masks indoors again throughout the country. Source:
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/6/2021 <img src="../images/up-arrow.png">
+25/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2579,9 +2130,10 @@ Anyone <b>symptomatic</b> can be tested; NA Israel (2)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/up-arrow.png">
+19/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2636,9 +2188,10 @@ purpose.”" - with reference to those travelling. Sources (examples):
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/up-arrow.png">
+20/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2674,9 +2227,10 @@ Israel (2T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-23/6/2021 <img src="../images/up-arrow.png">
+23/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2733,9 +2287,10 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/down-arrow.png">
+21/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -2788,9 +2343,10 @@ to the individual (government funded or subsidised) Italy (4S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/up-arrow.png">
+19/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -2807,304 +2363,6 @@ to the individual (government funded or subsidised) Italy (4S)
 
 Valle D’Aosta and Puglia now are also vaccinating people from 12+
 <https://web.archive.org/web/20210606144502/https://www.lastampa.it/aosta/2021/06/06/news/in-valle-d-aosta-partono-le-vaccinazioni-aperte-a-tutte-le-fasce-d-eta-immunita-di-gregge-entro-luglio-1.40359210>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Liberia (GRI: 46.98 ↑ 53.75)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Liberia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Liberia
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-on June 18 2021 the government revised some measures due to increasing
-number of infections. nightclubs and bars are to be closed at 9 pm
-<https://web.archive.org/web/20210628143355/http://moh.gov.lr/wp-content/uploads/COVID-19-National-Guidelines.pdf>
-<https://web.archive.org/web/20210627202659/https://www.garda.com/crisis24/news-alerts/492606/liberia-authorities-update-covid-19-related-measures-june-18-update-25>
-<https://web.archive.org/web/20210627195939/https://lr.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627201037/https://www.garda.com/crisis24/news-alerts/491696/liberia-authorities-maintaining-covid-19-related-measures-as-of-june-17-update-24>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Liberia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Liberia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-on June 18 2021 the government revised some measures due to increasing
-number of infections. the government urges to cap gathering at 20 people
-and restriction of wedding, funerals and parties.
-<https://web.archive.org/web/20210627202659/https://www.garda.com/crisis24/news-alerts/492606/liberia-authorities-update-covid-19-related-measures-june-18-update-25>
-<https://web.archive.org/web/20210627195939/https://lr.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627201037/https://www.garda.com/crisis24/news-alerts/491696/liberia-authorities-maintaining-covid-19-related-measures-as-of-june-17-update-24>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Liberia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Liberia
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-on June 18 2021 the government revised some measures due to increasing
-number of infections. the government urges to cap gathering at 20 people
-and restriction of wedding, funerals and parties. for people under the
-number of 20 they are advised to take precautions. And public
-institutions and super markets and public transports are functioning at
-reduced capacity
-<https://web.archive.org/web/20210627202659/https://www.garda.com/crisis24/news-alerts/492606/liberia-authorities-update-covid-19-related-measures-june-18-update-25>
-<https://web.archive.org/web/20210627195939/https://lr.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627201037/https://www.garda.com/crisis24/news-alerts/491696/liberia-authorities-maintaining-covid-19-related-measures-as-of-june-17-update-24>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Liberia
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Liberia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Passengers who have been present in India, Pakistan, or Bangladesh
-within the last 14 days will not be allowed entry into Liberia .
-Travelers from Nepal and Brazil are required to undergo quarantine at a
-government-approved facility at their own expense. They will be tested
-on the seventh day of isolation and released if the result is negative.
-All other incoming travelers must present a negative PCR COVID-19 test
-result upon arrival at the airport in Liberia regardless of vaccination
-status. Travelers will be tested for COVID-19 upon arrival at the
-traveler’s expense.
-<https://web.archive.org/web/20210627202659/https://www.garda.com/crisis24/news-alerts/492606/liberia-authorities-update-covid-19-related-measures-june-18-update-25>
-<https://web.archive.org/web/20210627195939/https://lr.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627201037/https://www.garda.com/crisis24/news-alerts/491696/liberia-authorities-maintaining-covid-19-related-measures-as-of-june-17-update-24>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Liberia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Liberia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-since the government has announced the rising number of corona virus
-infections there have been a review in some measures, and hence
-government requires citizens to stay at home increased precautions to be
-made and institutions and transport facilities to function at reduced
-capacity
-<https://web.archive.org/web/20210628143355/http://moh.gov.lr/wp-content/uploads/COVID-19-National-Guidelines.pdf>
-<https://web.archive.org/web/20210627202659/https://www.garda.com/crisis24/news-alerts/492606/liberia-authorities-update-covid-19-related-measures-june-18-update-25>
-<https://web.archive.org/web/20210627195939/https://lr.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627201037/https://www.garda.com/crisis24/news-alerts/491696/liberia-authorities-maintaining-covid-19-related-measures-as-of-june-17-update-24>
 
 </td>
 
@@ -3141,9 +2399,10 @@ capacity
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/down-arrow.png">
+28/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -3199,9 +2458,10 @@ operational differences; across <b>all</b> of Nicaragua (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -3249,9 +2509,10 @@ NA; NA Nicaragua (1)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -3303,9 +2564,10 @@ or subsidised) Nigeria (3S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3374,9 +2636,10 @@ with significant operational differences; across <b>all</b> of Oman (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3434,9 +2697,10 @@ Oman (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3486,9 +2750,10 @@ across <b>all</b> of Oman (2G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3542,9 +2807,10 @@ through room service during this period.”"
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3594,9 +2860,10 @@ Some services running have been reduced.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/up-arrow.png">
+19/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3652,9 +2919,10 @@ police inspection points.’ <https://archive.vn/9yPME>
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/up-arrow.png">
+19/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3710,9 +2978,10 @@ police inspection points.’ <https://archive.vn/9yPME>
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3742,7 +3011,7 @@ Carrying over C6
 
 </div>
 
-### Portugal (GRI: 70.62 ↓ 67.5)
+### Portugal (GRI: 75.31 ↓ 67.5)
 
 #### Restrictions on internal movement (C7)
 
@@ -3764,9 +3033,10 @@ Carrying over C6
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3808,9 +3078,10 @@ of Portugal (2T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/down-arrow.png">
+21/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -3842,9 +3113,10 @@ at 6am. Source:
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/6/2021 <img src="../images/up-arrow.png">
+25/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3906,9 +3178,10 @@ Portugal (2)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/down-arrow.png">
+19/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -3943,71 +3216,7 @@ cases. Source:
 
 </div>
 
-### Qatar (GRI: 74.27 ↓ 72.71)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Qatar (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Qatar (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Qatari government announced a plan to lift COVID-19 restrictions in
-four phases. As of June 18, social gatherings are limited to a maximum
-of 10 vaccinated people, or 5 unvaccinated people indoors. No more than
-20 vaccinated people, or 10 unvaccinated people can gather outdoors.
-Mosques to remain open for daily prayers and Friday prayers. Toilets and
-ablution areas will remain closed. Children under 7 years old are not
-allowed. Up to 10 people are permitted to gather at parks and beaches.
-Playgrounds and exercise equipment remains closed. Private beaches
-operate at 40 % capacity. Weddings are permitted at hotels and wedding
-venues for up to 40 people of which at least 75% need to be vaccinated.
-<https://web.archive.org/web/20210621104245/https://www.gco.gov.qa/en/preventative-measures/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Russia (GRI: 59.37 ↑ 61.2)
+### Russia (GRI: 53.91 ↑ 61.2)
 
 #### Workplace closing (C2)
 
@@ -4031,9 +3240,10 @@ with significant operational differences; across <b>all</b> of Russia
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4071,9 +3281,10 @@ venues for mass events will be closed. <https://archive.vn/GAnse>
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-27/6/2021 <img src="../images/up-arrow.png">
+27/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4108,9 +3319,10 @@ parts of Russia (3T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/down-arrow.png">
+28/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4170,9 +3382,10 @@ Russia (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/down-arrow.png">
+18/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4228,9 +3441,10 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/down-arrow.png">
+18/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4282,9 +3496,10 @@ in restaurants and cafes. <https://archive.vn/11ilI>
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-27/6/2021 <img src="../images/up-arrow.png">
+27/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4338,9 +3553,10 @@ due to the increase in the incidence of COVID-19. A total lockdown
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/up-arrow.png">
+18/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4397,9 +3613,10 @@ Russia (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/6/2021 <img src="../images/down-arrow.png">
+18/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4434,9 +3651,10 @@ Russia (1T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/up-arrow.png">
+28/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4492,9 +3710,10 @@ with pre-existing conditions would have to work from home.
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/6/2021 <img src="../images/down-arrow.png">
+28/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4571,9 +3790,10 @@ home; across <b>all</b> of Singapore (4G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/6/2021 <img src="../images/down-arrow.png">
+20/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4627,7 +3847,7 @@ mask.”" Link (1):
 
 </div>
 
-### Spain (GRI: 60.78 ↓ 57.66)
+### Spain (GRI: 58.7 ↓ 55.57)
 
 #### Facial Coverings (H6)
 
@@ -4650,9 +3870,10 @@ home; across <b>all</b> of Spain (4G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-26/6/2021 <img src="../images/down-arrow.png">
+26/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4711,9 +3932,10 @@ or subsidised) Switzerland (3S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/6/2021 <img src="../images/up-arrow.png">
+19/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4770,9 +3992,10 @@ or subsidised) Tonga (1S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/6/2021 <img src="../images/up-arrow.png">
+21/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4832,9 +4055,10 @@ website:
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/up-arrow.png">
+22/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4885,9 +4109,10 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); in
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4949,9 +4174,10 @@ of public transport; across <b>all</b> of United Arab Emirates (1G)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -5001,9 +4227,10 @@ of United Arab Emirates (2T)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -5056,9 +4283,10 @@ to the individual (government funded or subsidised) United Kingdom (4S)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-24/6/2021 <img src="../images/up-arrow.png">
+24/6/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -5113,9 +4341,10 @@ Vaccination (H7)
 
 </td>
 
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/6/2021 <img src="../images/down-arrow.png">
+22/6/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -5134,440 +4363,6 @@ Carrying over C6 No change in policy, "“Authorities in the governorate
 of Ma’rib imposed a curfew from 09 p.m. until 04 a.m. in an attempt to
 combat the spread of COVID-19.”"
 <https://archive.vn/2021.06.21-132622/https://displacement.iom.int/system/tdf/reports/20210606_COVID19_DTM%20Yemen%20Mobility%20Restrictions%20Dashboard%20DRAFT_%252325_V2.pdf?file=1&type=node&id=11658>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Zambia (GRI: 37.6 ↑ 46.04)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Zambia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools closed amid an increase in cases.
-<https://web.archive.org/web/20210621155617/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Zambia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Entertainment businesses closed.
-<https://web.archive.org/web/20210621155617/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Zambia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Zambia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Zambia’s secretary to the Cabinet, Simon Miti, said public gatherings
-and social functions would be restricted while entertainment joints will
-only operate from Thursday to Sunday.”"
-<https://web.archive.org/web/20210621155617/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Zambia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Zambia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Zambia’s secretary to the Cabinet, Simon Miti, said public gatherings
-and social functions would be restricted while entertainment joints will
-only operate from Thursday to Sunday. Funerals and weddings will be
-attended by a maximum 50 people, while churches have been asked to
-reduce the number of meetings to two per week.”"
-<https://web.archive.org/web/20210621155617/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Zambia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport still operating.
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Zambia (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Zambia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Testing generally available at multiple private cites, for a fee.
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Zambia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No contact tracing</b> is present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No evidence of contact tracing, per US Embassy.
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Zambia (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1.5in; color: grey80 !important;">
-
-18/6/2021 <img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ONE</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Zambia (1S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-AstraZeneca approved, and Johnson\&Johnson has been secured. Information
-on the recipients of vaccinations is sparce, only suggesting that key
-workers are receiving vaccines.
-<https://web.archive.org/web/20210615080230/https://www.moh.gov.zm/>
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
-<https://web.archive.org/web/20210621164634/https://africa.cgtn.com/2021/06/18/zambia-to-procure-3-million-doses-johnson-johnson-covid-19-vaccines/>
-<https://web.archive.org/web/20210621155217/https://zm.usembassy.gov/covid-19-information-2/>
 
 </td>
 
