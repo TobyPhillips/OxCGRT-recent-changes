@@ -1294,6 +1294,177 @@ keep up with new cases. See Government of Canada website, archived:
 
 </div>
 
+### Chad (GRI: 33.85 ↑ 38.85)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Chad (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Chad (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government of Chad has extended the state of health emergency to
+September 2021, which includes a ban on large gatherings (more than 50
+people) —-
+<http://web.archive.org/web/20210630064759/https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/situation_report_-_chad_-_8_jun_2020.pdf>
+<https://web.archive.org/web/20210419205038/https://intelyse.com/coronavirus-travel-restrictions/>
+<https://web.archive.org/web/20210620165343/https://td.usembassy.gov/covid-19-information/>
+<https://web.archive.org/web/20210523162931/https://www.smartraveller.gov.au/destinations/africa/chad>
+<https://web.archive.org/web/20210620162705/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+<https://web.archive.org/web/20210620165408/https://www.gov.uk/foreign-travel-advice/chad>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Chad (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Chad (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfew has been lifted, although the government’s state of health
+emergency is extended till September 2021 —-
+<https://web.archive.org/web/20210410025036/https://tchadinfos.com/politique/tchad-le-couvre-feu-leve-letat-durgence-sanitaire-proroge-pour-six-mois/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No availability</b> is present across all of Chad (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Chad (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A - Religious Pilgrims, B - Over 65s, C - Military troops, and D -
+Healthcare personnel Sinopharm —-
+<https://web.archive.org/web/20210701070347/https://www.africanews.com/2021/06/06/chadians-line-up-for-sinopharm-as-covid-19-vaccination-campaign-begins//>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### China (GRI: 72.45 ↓ 70.36)
 
 #### Workplace closing (C2)
