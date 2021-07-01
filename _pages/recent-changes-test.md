@@ -68,10 +68,13 @@ decreasing 2 222 2222 2 2222
 decreasing 3 333 3333 3 3333
 </div>
 <div>
+<a href="#cote-divoire-gri-4115--3906">Cote d’Ivoire (GRI: 41.15 ↓ 39.06)</a>
+</div>
+<div>
 decreasing 4 444 4444 4 4444
 </div>
 <div>
-decreasing 5 555 5555 5 5555
+<a href="#united-arab-emirates-gri-6589--5833">United Arab Emirates (GRI: 65.89 ↓ 58.33)</a>
 </div>
 
 </div>
