@@ -49,6 +49,8 @@ increasing 4 444 4444 4 4444
 increasing 5 555 5555 5 5555
 </div>
 
+</div>
+
 ### Decreasing
 
 <div class="contents">
