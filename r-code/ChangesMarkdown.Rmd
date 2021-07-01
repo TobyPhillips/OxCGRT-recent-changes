@@ -133,7 +133,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     legend.position="bottom"
   ) + FillScale
 ggsave("../images/changes-map.png")
-knitr::plot_crop("../images/changes-map.png")
+# knitr::plot_crop("../images/changes-map.png")
 dev.off()
 
 
