@@ -133,7 +133,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     plot.margin=unit(c(0,0,0,0),"mm"),
     legend.position="bottom"
     ) + FillScale
-ggsave(file="../images/changes-map.png", width = 7, height = 3, dpi = 300)
+ggsave(file="../images/changes-map.png", width = 700, height = 300, units = "px", dpi = 300)
 # dev.off()
 
 
