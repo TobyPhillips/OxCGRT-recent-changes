@@ -93,7 +93,7 @@ OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountr
 
 The following map details the changes to the government response index during the last two weeks. For more detail on the Government Response Index please see the most recent [working paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-responses-covid-19) or explore the [dataset publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-```{r Setup,echo=FALSE,include=F}
+```{r changes-map,echo=FALSE,include=F}
 # Can add captions by adding fig.cap="caption" to the {} section above
 worldMap <- rnaturalearth::ne_countries(scale=110, returnclass = "sf") %>% filter(sov_a3!="ATA")
 
@@ -117,7 +117,7 @@ FillScale <- scale_fill_manual(name = "Government Response Index Change",values 
                                          labels = c("Decreasing","No Change","Increasing"), na.value="grey90")
 
 # The plot
-png(filename =  "../images/changes-map.png", width = 7, height = 3, units = "in", res = 1000)
+png(filename =  "../images/changes-map.png", width = 700, height = 300)
 ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
   theme(
     panel.background = element_blank(),
@@ -125,7 +125,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     legend.box.just = "center",
     axis.text = element_blank(),
     legend.key.size = unit(15, units = "pt"),
-    # plot.background = element_rect(size = 100),
+    plot.background = element_rect(size = 100),
     legend.title.align=1,
     legend.spacing.y = unit(4, units = "pt"),
     legend.title = element_text(size=10, face = "bold"),
@@ -133,6 +133,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     plot.margin=unit(c(0,0,0,0),"mm"),
     legend.position="bottom"
     ) + FillScale
+ggsave(file="../images/changes-map-ggsave.png", width = 7, height = 3, dpi = 300)
 dev.off()
 
 
