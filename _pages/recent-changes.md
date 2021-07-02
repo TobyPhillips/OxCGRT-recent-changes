@@ -1785,66 +1785,6 @@ planned.
 
 </div>
 
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; in <b>some</b> parts of France (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-France (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-\*\* Update: Complete details on situations when masks are required at
-<https://web.archive.org/web/20210625071537/https://www.gouvernement.fr/port-du-masque-evolution-des-regles-au-17-juin>
-From 17 June, "“the end of wearing a mask outdoors with exceptions
-(gatherings, queues, markets, stadiums…). The prefectural orders on the
-wearing of masks will be amended as of Thursday, June 17. On the other
-hand, wearing a mask in enclosed environments remains mandatory”" -
-<https://web.archive.org/web/20210618164516/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Guatemala (GRI: 53.54 ↓ 52.76)
 
 #### Facial Coverings (H6)
@@ -2128,7 +2068,7 @@ registered for their vaccine are also being vaccinated.”"
 
 </div>
 
-### Israel (GRI: 44.27 ↑ 52.08)
+### Israel (GRI: 46.35 ↑ 52.08)
 
 #### School closing (C1)
 
@@ -2435,7 +2375,7 @@ Source: <https://archive.vn/FpVJC> \[Ministry of Health\]
 
 </div>
 
-### Italy (GRI: 78.7 ↑ 79.17)
+### Italy (GRI: 79.95 ↓ 79.17)
 
 #### Restrictions on gatherings (C4)
 
@@ -2547,6 +2487,75 @@ Valle D’Aosta and Puglia now are also vaccinating people from 12+
 
 </div>
 
+### Japan (GRI: 60.05 ↓ 59.01)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Japan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Japan (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On June 21, the temporary closure of prefectural schools in Okinawa has
+lifted. Schools are asked to resume complying with all infection
+prevention protocols and depending on infection rates in the locale, to
+stagger school attendance by groups. In other prefectures, schools at
+all levels continue to remain open with cautionary measures including
+increased ventilations in classrooms, the wearing of masks in close
+quarters, and the establishment of a health management system for school
+doctors and pharmacists. There is currently no region-wide suspension on
+educational institutions and any temporary closure of schools are
+assessed on an individual basis.
+<https://web.archive.org/web/20210621193410/https://www.pref.okinawa.lg.jp/site/chijiko/koho/corona/documents/0617taisyohoshin.pdf>
+<https://web.archive.org/web/20210629231552/https://www.pref.okinawa.lg.jp/site/chijiko/koho/corona/documents/0621english.pdf>
+<https://web.archive.org/web/20210621010823/https://www.mext.go.jp/a_menu/coronavirus/mext_00020.html>
+<https://web.archive.org/web/20210629202136/https://www.kobe-np.co.jp/news/sougou/202106/0014458000.shtml>
+<https://web.archive.org/web/20210629202245/https://www.tokyo-np.co.jp/article/113016>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Malta (GRI: 64.58 ↓ 62.5)
 
 #### School closing (C1)
@@ -2593,6 +2602,635 @@ normal school and universities is over, this is a significant
 development in terms of in person education. However, certain covid-19
 mitigation measures remain in place. Source:
 <https://web.archive.org/web/20210628054200/https://www.independent.com.mt/articles/2021-05-29/local-news/Summer-schools-expecting-to-welcome-back-throngs-of-students-for-a-fun-and-safe-summer-6736233906>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mozambique (GRI: 51.15 ↓ 48.02)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into
+Mozambique (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Mozambique (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Non-Mozambican citizens, including U.S. citizens, who have a valid DIRE
+(residence permit) and/or required visa(s) are able to enter Mozambique,
+subject to the COVID-19 testing requirement below, without seeking
+specific authorization from the Ministry of Interior. Tourists: For
+travelers arriving for tourism purposes only, visas are available upon
+arrival with proof of a return ticket and hotel booking. Travelers
+arriving in Mozambique will be required to provide proof of negative
+Polymerase Chain Reaction (PCR)-based COVID-19 test results administered
+in their country of origin within 72 hours of departure. Children up to
+age 11 are exempt from this requirement.
+<http://web.archive.org/web/20210701163416/https://mz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Mozambique (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Mozambique (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The wearing of a protective facemask is compulsory in all public spaces.
+<http://web.archive.org/web/20210701164706/https://www.garda.com/crisis24/news-alerts/466831/mozambique-authorities-maintain-covid-19-restrictions-as-of-april-14-update-13>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Myanmar (GRI: 68.12 ↓ 60.05)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Myanmar (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Myanmar (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The military regime has instituted a ban on gatherings of five or more
+people, and a nationwide curfew from 8:00 P.M. until 4:00 A.M. that
+supersedes previous COVID-19 policies. Recently, the curfew in Yangon
+was shortened to 10:00 P.M. to 4:00 A.M.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Myanmar (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Myanmar (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The military regime has instituted a ban on gatherings of five or more
+people, and a nationwide curfew from 8:00 P.M. until 4:00 A.M. that
+supersedes previous COVID-19 policies. Recently, the curfew in Yangon
+was shortened to 10:00 P.M. to 4:00 A.M.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Myanmar (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Myanmar (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Trains: A limited number of train routes are operating. Buses:
+Intra-provincial bus service has restarted but may be limited due to
+COVID-19 travel restrictions. City buses are limited due to the ongoing
+civil unrest.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Myanmar
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Myanmar
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The military regime has instituted a ban on gatherings of five or more
+people, and a nationwide curfew from 8:00 P.M. until 4:00 A.M. that
+supersedes previous COVID-19 policies. Recently, the curfew in Yangon
+was shortened to 10:00 P.M. to 4:00 A.M.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Myanmar (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Myanmar (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Some domestic flights have resumed in Burma. A limited number of
+outbound commercial flights are operating on Myanmar Airways
+International (MAI), Singapore Airlines, and others. There are no
+commercial flights entering Burma currently.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Myanmar (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Myanmar (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Singapore Ministry of Health announced that beginning May 29, 2021,
+all passengers entering or transiting through Singapore from countries
+of high-risk for COVID-19, which includes Burma, must have a valid
+negative COVID-19 PCR test result taken within 72 hours of boarding. The
+negative PCR test result must be presented in order to board and also
+when arriving in Singapore.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Myanmar (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Myanmar (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Swab collections for PCR tests occur daily from 8:00 a.m. until 4:00
+p.m. with results available the next day. The cost of the PCR test is
+200,000 MMK.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Myanmar (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Myanmar (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+there’s no contact tracing system established by the government or
+sanitary authorities
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
+<https://web.archive.org/web/20210614144138/https://www.mohs.gov.mm/Main/content/publication/2019-ncov>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Myanmar (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Myanmar (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+required in all public places.
+<http://web.archive.org/web/20210701170731/https://mm.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -2784,7 +3422,7 @@ information on registration from the NPHCDA on 00 234 (0) 803 123
 
 </div>
 
-### Oman (GRI: 51.88 ↑ 74.79)
+### Oman (GRI: 59.17 ↑ 74.79)
 
 #### Workplace closing (C2)
 
@@ -3182,7 +3820,67 @@ Carrying over C6
 
 </div>
 
-### Portugal (GRI: 75.31 ↓ 67.5)
+### Portugal (GRI: 72.19 ↓ 68.54)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Portugal (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Portugal (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Due to increase in the number of cases in the Algarve, the Regional
+Health Administration of the Algarve (ARS) decided to suspend in-person
+classes for students in primary and middle school (both in public and
+private schools) in five municipalities in the region. The measure was
+announced on Sunday, June 27, and takes effect today, Monday, 28, with a
+duration of 12 days — coinciding with the end of the school year, on
+June 8th."" Source:
+<http://web.archive.org/web/20210701210552/https://magg.sapo.pt/atualidade/atualidade-nacional/artigos/alunos-ciclo-algarve-terminar-ano-letivo-aulas-distancia>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Restrictions on internal movement (C7)
 
@@ -3315,6 +4013,41 @@ places of proven permanence (ex. Hotel or Airbnb reservation); - return
 home; - To enter and exit the area: RT¬-PCR Test (with 72h max.), or
 Rapid Antigen Test (with 48h max.) with negative result, or EU Digital
 COVID Certificate.”" Source: <https://archive.vn/IMf3c>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Portugal (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Portugal (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travel restrictions to and from the Lisbon Metropolitan area ended today
+at 6am. Source: <https://archive.vn/IMf3c>
 
 </td>
 
@@ -4066,66 +4799,6 @@ if a distance of 1.5 meters can be observed. It will, however, be
 mandatory to carry a face mask at all times so that it can be put on in
 situations where social distancing cannot be maintained. Source:
 <https://web.archive.org/web/20210628033850/https://www.infobae.com/america/mundo/2021/06/26/espana-vive-su-primer-dia-sin-mascarilla-obligatoria-al-aire-libre/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Switzerland (GRI: 53.23 ↑ 54.48)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Switzerland (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Switzerland (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Ongoing vaccination campaign. “All adults can have the vaccination in
-their canton”, using Pfizer, Moderna and Johnson & Johnson. Please see:
-<https://web.archive.org/web/20210625151225/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html>
-<https://web.archive.org/web/20210618142919/https://foph-coronavirus.ch/vaccination/when-can-i-be-vaccinated/>
 
 </td>
 
