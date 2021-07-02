@@ -96,7 +96,7 @@ The following map details the changes to the government response index during th
 # Can add captions by adding fig.cap="caption" to the {} section above
 worldMap <- rnaturalearth::ne_countries(scale=110, returnclass = "sf") %>% filter(sov_a3!="ATA")
 
-GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("sov_a3"="CountryCode"))
+GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("iso_a3"="CountryCode"))
 WorldChangeSIFortnightMap <- ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=GRIChange))+
   scale_fill_viridis(na.value="grey90", name="Government Response Index Change") + theme(panel.background = element_blank())
 
