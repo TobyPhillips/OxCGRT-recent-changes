@@ -74,7 +74,7 @@ OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(Chang
     MapColours = case_when(is.na(GRIChange) ~ "0",
                                 GRIChange == 0 ~ "0",
                                 GRIChange < 0 ~ "1",
-                                GRIChange > 0 ~ "2”))
+                                GRIChange > 0 ~ "2"))
 ```
 
 ## Global Changes in Government Response Index
