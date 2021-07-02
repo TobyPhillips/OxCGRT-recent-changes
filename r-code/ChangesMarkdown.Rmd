@@ -87,11 +87,8 @@ worldMap <- rnaturalearth::ne_countries(scale=110, returnclass = "sf") %>% filte
 
 GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("iso_a3"="CountryCode”))
 
-WorldChangeSIFortnightMap <- ggplot(GRIChangeMapData, aes(geometry=geometry)) +
-  geom_sf(aes(fill=GRIChange)) +
-  scale_fill_viridis(na.value = "grey90", name="Government Response Index Change") +
-  theme(panel.background = element_blank())
-
+WorldChangeSIFortnightMap <- ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=GRIChange))+
+  scale_fill_viridis(na.value="grey90", name="Government Response Index Change") + theme(panel.background = element_blank())
 
 GRIChangeMapData$MapColours <- factor(GRIChangeMapData$MapColours, levels=c(0:2))
 # IndexColours <- c('#762a83', '#9970ab', '#c2a5cf','#e7d4e8',
