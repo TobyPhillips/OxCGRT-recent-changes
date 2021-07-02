@@ -124,7 +124,6 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
 # ggsave(file="../images/changes-map.png", width = 600, height = 300, units = "px", dpi = 300)
 dev.off()
 
-
 #Plot is in the next block so that it prints
 ```
 

@@ -58,19 +58,18 @@ OxCGRTLatest <- OxCGRTLatest %>% mutate(Date = ymd(Date))
 ```{r Changes, echo=F,include=F}
 OxCGRTLastFortnight <- filter(OxCGRTLatest, Date>Sys.Date()-14 & is.na(RegionName))
 
-OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>%
-  filter(SI_Changes>1) %>% select(CountryName) %>% pull()
+OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>% filter(SI_Changes>1) %>% select(CountryName) %>% pull()
 
-OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName) %>%
-  summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
+# OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(ChangesTable$CountryName)) %>% group_by(CountryName) %>%
+#   summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
 
-OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
+OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(ChangesTable$CountryName)) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
   select(CountryName,GovernmentResponseIndex) %>%
   distinct() %>% arrange(CountryName) %>% na.omit() %>%
   summarise(NumberChanges = length(GovernmentResponseIndex)-1,
     GRIChange = last(GovernmentResponseIndex)-first(GovernmentResponseIndex),
-    First=first(GovernmentResponseIndex), Last=last(GovernmentResponseIndex)) %>%
-  left_join(OxCGRT_GRIRanges) %>%
+    First=round(first(GovernmentResponseIndex),digits = 0), Last=round(last(GovernmentResponseIndex),digits = 0)) %>%
+  # left_join(OxCGRT_GRIRanges) %>%
   mutate(MapColours = rep("0",length(CountryName)),
     MapColours = case_when(is.na(GRIChange) ~ "0",
                                 GRIChange == 0 ~ "0",
