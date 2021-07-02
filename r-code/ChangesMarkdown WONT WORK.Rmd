@@ -58,35 +58,23 @@ OxCGRTLatest <- OxCGRTLatest %>% mutate(Date = ymd(Date))
 ```{r Changes, echo=F,include=F}
 OxCGRTLastFortnight <- filter(OxCGRTLatest, Date>Sys.Date()-14 & is.na(RegionName))
 
-OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>%
-  filter(SI_Changes>1) %>% select(CountryName) %>% pull()
+OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>% filter(SI_Changes>1) %>% select(CountryName) %>% pull()
 
-OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName) %>%
-  summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
+# OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(ChangesTable$CountryName)) %>% group_by(CountryName) %>%
+#   summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
 
-OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
+OxCGRT_GRIChange <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(ChangesTable$CountryName)) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
   select(CountryName,GovernmentResponseIndex) %>%
   distinct() %>% arrange(CountryName) %>% na.omit() %>%
   summarise(NumberChanges = length(GovernmentResponseIndex)-1,
     GRIChange = last(GovernmentResponseIndex)-first(GovernmentResponseIndex),
-    First=first(GovernmentResponseIndex), Last=last(GovernmentResponseIndex)) %>%
-  left_join(OxCGRT_GRIRanges) %>%
+    First=round(first(GovernmentResponseIndex),digits = 0), Last=round(last(GovernmentResponseIndex),digits = 0)) %>%
+  # left_join(OxCGRT_GRIRanges) %>%
   mutate(MapColours = rep("0",length(CountryName)),
     MapColours = case_when(is.na(GRIChange) ~ "0",
                                 GRIChange == 0 ~ "0",
                                 GRIChange < 0 ~ "1",
                                 GRIChange > 0 ~ "2"))
-
-
-    # MapColours = case_when(is.na(SIChange) ~ "0",
-    #                             SIChange <= -60 ~ "1",
-    #                             SIChange > -60 & SIChange <= -40 ~ "2",
-    #                             SIChange > -40 & SIChange <= -20 ~ "3",
-    #                             SIChange > -20 & SIChange <= 0 ~ "4",
-    #                             SIChange > 0 & SIChange <= 20 ~ "5",
-    #                             SIChange > 20 & SIChange <= 40 ~ "6",
-    #                             SIChange > 40 & SIChange <= 60 ~ "7",
-    #                             SIChange > 60 ~ "8"))
 ```
 
 ## Global Changes in Government Response Index
@@ -97,10 +85,10 @@ The following map details the changes to the government response index during th
 # Can add captions by adding fig.cap="caption" to the {} section above
 worldMap <- rnaturalearth::ne_countries(scale=110, returnclass = "sf") %>% filter(sov_a3!="ATA")
 
-GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("sov_a3"="CountryCode"))
+GRIChangeMapData <- left_join(worldMap, OxCGRT_GRIChange, by=c("iso_a3"="CountryCode”))
+
 WorldChangeSIFortnightMap <- ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=GRIChange))+
   scale_fill_viridis(na.value="grey90", name="Government Response Index Change") + theme(panel.background = element_blank())
-
 
 GRIChangeMapData$MapColours <- factor(GRIChangeMapData$MapColours, levels=c(0:2))
 # IndexColours <- c('#762a83', '#9970ab', '#c2a5cf','#e7d4e8',
@@ -117,7 +105,7 @@ FillScale <- scale_fill_manual(name = "Government Response Index Change",values 
                                          labels = c("Decreasing","No Change","Increasing"), na.value="grey90")
 
 # The plot
-png(filename =  "../images/changes-map.png", width = 700, height = 300)
+png(filename =  "../images/changes-map.png", width = 600, height = 300)
 ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours), size=0.1)+
   theme(
     panel.background = element_blank(),
@@ -133,7 +121,7 @@ ggplot(GRIChangeMapData, aes(geometry=geometry)) + geom_sf(aes(fill=MapColours),
     plot.margin=unit(c(0,0,0,0),"mm"),
     legend.position="bottom"
     ) + FillScale
-# ggsave(file="../images/changes-map.png", width = 700, height = 300, units = "px", dpi = 300)
+# ggsave(file="../images/changes-map.png", width = 600, height = 300, units = "px", dpi = 300)
 dev.off()
 
 
@@ -143,6 +131,44 @@ dev.off()
 ```{r Table, echo=F,include=T, results='asis'}
 cat("<img src=\"../images/changes-map.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
+
+# Table Of Contents
+cat("<div class=\"contents\">")
+
+Increasing <- filter(OxCGRT_GRIChange, MapColours==2)
+cat("#### Increasing")
+for (i in unique(Increasing$CountryName)){
+  cat("<div>")
+  cat("<a href=\"#",
+  tolower(i),"-gri-",Increasing$First[Increasing$CountryName==i],
+  "--",Increasing$Last[Increasing$CountryName==i],"\">",
+  i," (GRI: ",Increasing$First[Increasing$CountryName==i]," \U2191 ", Increasing$Last[Increasing$CountryName==i],")","</a> \n",sep ="")
+  cat("</div>")}
+cat("</div>")
+
+Decreasing <- filter(OxCGRT_GRIChange, MapColours==1)
+cat("#### Decreasing")
+cat("<div class=\"contents\">")
+for (i in unique(Decreasing$CountryName)){
+  cat("<div>")
+  cat("<a href=\"#",
+  tolower(i),"-gri-",Decreasing$First[Decreasing$CountryName==i],
+  "--",Decreasing$Last[Decreasing$CountryName==i],"\">",
+  i," (GRI: ",Decreasing$First[Decreasing$CountryName==i]," \U2191 ", Decreasing$Last[Decreasing$CountryName==i],")","</a> \n",sep ="")
+  cat("</div>")}
+cat("</div>")
+
+NeutralChange <- filter(OxCGRT_GRIChange, MapColours==1)
+cat("#### No change")
+cat("<div class=\"contents\">")
+for (i in unique(NeutralChange$CountryName)){
+  cat("<div>")
+  cat("<a href=\"#",
+  tolower(i),"-gri-",NeutralChange$First[NeutralChange$CountryName==i],
+  "--",NeutralChange$Last[NeutralChange$CountryName==i],"\">",
+  i," (GRI: ",NeutralChange$First[NeutralChange$CountryName==i]," \U2191 ", NeutralChange$Last[NeutralChange$CountryName==i],")","</a> \n",sep ="")
+  cat("</div>")}
+cat("</div>")
 
 final <- oxcgrt_changes %>%
   ### THIS MIDDLE BLOCK COMBINES THE VALUE AND FLAG, i.e. value=1 and flag=1 becomes 1G, maybe this isn't useful for our purposes?
@@ -212,7 +238,7 @@ final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & subs
 
 Please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) for a full description of the policies we track.
 
-```{r TableLoop, results='asis', echo = FALSE, message=FALSE,warning = FALSE}
+```{r TableLoop, results='asis', echo = FALSE, message=FALSE, warning = FALSE}
 FirstLast <- OxCGRTLastFortnight %>% filter(CountryName %in% OxCGRTCountriesChange) %>% group_by(CountryName, CountryCode) %>% arrange(Date) %>%
   select(CountryName,GovernmentResponseIndex) %>%
   distinct() %>% arrange(CountryName) %>% na.omit() %>%
