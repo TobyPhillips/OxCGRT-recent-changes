@@ -27,7 +27,355 @@ paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-respo
 or explore the [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-<img src="../images/changes-map.png">
+<img src="../images/changes-map.png">\#\#\#\# Increasing
+
+<div class="contents">
+
+<div>
+
+<a href="#australia-gri-52--63">Australia (GRI: 52 ↑ 63)</a>
+
+</div>
+
+<div>
+
+<a href="#brunei-gri-44--46">Brunei (GRI: 44 ↑ 46)</a>
+
+</div>
+
+<div>
+
+<a href="#canada-gri-71--72">Canada (GRI: 71 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#chad-gri-34--39">Chad (GRI: 34 ↑ 39)</a>
+
+</div>
+
+<div>
+
+<a href="#finland-gri-55--56">Finland (GRI: 55 ↑ 56)</a>
+
+</div>
+
+<div>
+
+<a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#ireland-gri-68--69">Ireland (GRI: 68 ↑ 69)</a>
+
+</div>
+
+<div>
+
+<a href="#israel-gri-46--52">Israel (GRI: 46 ↑ 52)</a>
+
+</div>
+
+<div>
+
+<a href="#nigeria-gri-41--42">Nigeria (GRI: 41 ↑ 42)</a>
+
+</div>
+
+<div>
+
+<a href="#oman-gri-59--75">Oman (GRI: 59 ↑ 75)</a>
+
+</div>
+
+<div>
+
+<a href="#russia-gri-54--61">Russia (GRI: 54 ↑ 61)</a>
+
+</div>
+
+<div>
+
+<a href="#tonga-gri-25--30">Tonga (GRI: 25 ↑ 30)</a>
+
+</div>
+
+<div>
+
+<a href="#united kingdom-gri-63--64">United Kingdom (GRI: 63 ↑ 64)</a>
+
+</div>
+
+</div>
+
+\#\#\#\# Decreasing
+
+<div class="contents">
+
+<div>
+
+<a href="#argentina-gri-72--69">Argentina (GRI: 72 ↑ 69)</a>
+
+</div>
+
+<div>
+
+<a href="#azerbaijan-gri-64--59">Azerbaijan (GRI: 64 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#belgium-gri-66--59">Belgium (GRI: 66 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#belize-gri-76--72">Belize (GRI: 76 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#burkina faso-gri-39--35">Burkina Faso (GRI: 39 ↑ 35)</a>
+
+</div>
+
+<div>
+
+<a href="#china-gri-72--70">China (GRI: 72 ↑ 70)</a>
+
+</div>
+
+<div>
+
+<a href="#cote d'ivoire-gri-41--39">Cote d’Ivoire (GRI: 41 ↑ 39)</a>
+
+</div>
+
+<div>
+
+<a href="#estonia-gri-42--40">Estonia (GRI: 42 ↑ 40)</a>
+
+</div>
+
+<div>
+
+<a href="#france-gri-58--45">France (GRI: 58 ↑ 45)</a>
+
+</div>
+
+<div>
+
+<a href="#guatemala-gri-54--53">Guatemala (GRI: 54 ↑ 53)</a>
+
+</div>
+
+<div>
+
+<a href="#italy-gri-80--79">Italy (GRI: 80 ↑ 79)</a>
+
+</div>
+
+<div>
+
+<a href="#japan-gri-60--59">Japan (GRI: 60 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#malta-gri-65--62">Malta (GRI: 65 ↑ 62)</a>
+
+</div>
+
+<div>
+
+<a href="#mozambique-gri-51--48">Mozambique (GRI: 51 ↑ 48)</a>
+
+</div>
+
+<div>
+
+<a href="#myanmar-gri-68--60">Myanmar (GRI: 68 ↑ 60)</a>
+
+</div>
+
+<div>
+
+<a href="#nicaragua-gri-17--13">Nicaragua (GRI: 17 ↑ 13)</a>
+
+</div>
+
+<div>
+
+<a href="#portugal-gri-72--69">Portugal (GRI: 72 ↑ 69)</a>
+
+</div>
+
+<div>
+
+<a href="#singapore-gri-77--73">Singapore (GRI: 77 ↑ 73)</a>
+
+</div>
+
+<div>
+
+<a href="#spain-gri-59--56">Spain (GRI: 59 ↑ 56)</a>
+
+</div>
+
+<div>
+
+<a href="#united arab emirates-gri-66--58">United Arab Emirates (GRI: 66
+↑ 58)</a>
+
+</div>
+
+<div>
+
+<a href="#yemen-gri-39--38">Yemen (GRI: 39 ↑ 38)</a>
+
+</div>
+
+</div>
+
+\#\#\#\# Neutral Change
+
+<div class="contents">
+
+<div>
+
+<a href="#argentina-gri-72--69">Argentina (GRI: 72 ↑ 69)</a>
+
+</div>
+
+<div>
+
+<a href="#azerbaijan-gri-64--59">Azerbaijan (GRI: 64 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#belgium-gri-66--59">Belgium (GRI: 66 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#belize-gri-76--72">Belize (GRI: 76 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#burkina faso-gri-39--35">Burkina Faso (GRI: 39 ↑ 35)</a>
+
+</div>
+
+<div>
+
+<a href="#china-gri-72--70">China (GRI: 72 ↑ 70)</a>
+
+</div>
+
+<div>
+
+<a href="#cote d'ivoire-gri-41--39">Cote d’Ivoire (GRI: 41 ↑ 39)</a>
+
+</div>
+
+<div>
+
+<a href="#estonia-gri-42--40">Estonia (GRI: 42 ↑ 40)</a>
+
+</div>
+
+<div>
+
+<a href="#france-gri-58--45">France (GRI: 58 ↑ 45)</a>
+
+</div>
+
+<div>
+
+<a href="#guatemala-gri-54--53">Guatemala (GRI: 54 ↑ 53)</a>
+
+</div>
+
+<div>
+
+<a href="#italy-gri-80--79">Italy (GRI: 80 ↑ 79)</a>
+
+</div>
+
+<div>
+
+<a href="#japan-gri-60--59">Japan (GRI: 60 ↑ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#malta-gri-65--62">Malta (GRI: 65 ↑ 62)</a>
+
+</div>
+
+<div>
+
+<a href="#mozambique-gri-51--48">Mozambique (GRI: 51 ↑ 48)</a>
+
+</div>
+
+<div>
+
+<a href="#myanmar-gri-68--60">Myanmar (GRI: 68 ↑ 60)</a>
+
+</div>
+
+<div>
+
+<a href="#nicaragua-gri-17--13">Nicaragua (GRI: 17 ↑ 13)</a>
+
+</div>
+
+<div>
+
+<a href="#portugal-gri-72--69">Portugal (GRI: 72 ↑ 69)</a>
+
+</div>
+
+<div>
+
+<a href="#singapore-gri-77--73">Singapore (GRI: 77 ↑ 73)</a>
+
+</div>
+
+<div>
+
+<a href="#spain-gri-59--56">Spain (GRI: 59 ↑ 56)</a>
+
+</div>
+
+<div>
+
+<a href="#united arab emirates-gri-66--58">United Arab Emirates (GRI: 66
+↑ 58)</a>
+
+</div>
+
+<div>
+
+<a href="#yemen-gri-39--38">Yemen (GRI: 39 ↑ 38)</a>
+
+</div>
+
+</div>
 
 ## Changes in Policy over the last two weeks
 
@@ -35,7 +383,7 @@ Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
 
-### Argentina (GRI: 72.19 ↓ 69.38)
+### Argentina (GRI: 72 ↓ 69)
 
 #### Cancel public events (C3)
 
@@ -149,7 +497,7 @@ Government still does not know when they will arrive.
 
 </div>
 
-### Australia (GRI: 52.4 ↑ 62.81)
+### Australia (GRI: 52 ↑ 63)
 
 #### School closing (C1)
 
@@ -652,7 +1000,7 @@ Therefore maintain 3T code.
 
 </div>
 
-### Azerbaijan (GRI: 64.06 ↓ 59.38)
+### Azerbaijan (GRI: 64 ↓ 59)
 
 #### International travel controls (C8)
 
@@ -741,7 +1089,7 @@ airports and other ports of entry? Yes.”" Archive Link
 
 </div>
 
-### Belgium (GRI: 65.62 ↓ 59.38)
+### Belgium (GRI: 66 ↓ 59)
 
 #### Vaccination policy (H7)
 
@@ -804,7 +1152,7 @@ i.e. 52.48% of the population have been given at least one dose.
 
 </div>
 
-### Belize (GRI: 75.62 ↓ 71.98)
+### Belize (GRI: 76 ↓ 72)
 
 #### School closing (C1)
 
@@ -970,7 +1318,7 @@ from the Government Press Office below.
 
 </div>
 
-### Brunei (GRI: 44.37 ↑ 45.62)
+### Brunei (GRI: 44 ↑ 46)
 
 #### Vaccination policy (H7)
 
@@ -1052,7 +1400,7 @@ archived at <https://archive.vn/XhM2i>
 
 </div>
 
-### Burkina Faso (GRI: 39.06 ↓ 35.42)
+### Burkina Faso (GRI: 39 ↓ 35)
 
 #### International travel controls (C8)
 
@@ -1168,7 +1516,7 @@ is available if the other testing shows results. Not open to everyone.
 
 </div>
 
-### Canada (GRI: 70.83 ↑ 71.88)
+### Canada (GRI: 71 ↑ 72)
 
 #### Workplace closing (C2)
 
@@ -1294,7 +1642,7 @@ keep up with new cases. See Government of Canada website, archived:
 
 </div>
 
-### Chad (GRI: 33.85 ↑ 38.85)
+### Chad (GRI: 34 ↑ 39)
 
 #### Restrictions on gatherings (C4)
 
@@ -1465,7 +1813,7 @@ Healthcare personnel Sinopharm —-
 
 </div>
 
-### China (GRI: 72.45 ↓ 70.36)
+### China (GRI: 72 ↓ 70)
 
 #### Workplace closing (C2)
 
@@ -1522,7 +1870,7 @@ non-essential workplace are required to close in mid-risk areas.
 
 </div>
 
-### Cote d’Ivoire (GRI: 41.15 ↓ 39.06)
+### Cote d’Ivoire (GRI: 41 ↓ 39)
 
 #### Testing policy (H2)
 
@@ -1582,7 +1930,7 @@ available. —-
 
 </div>
 
-### Estonia (GRI: 41.67 ↓ 40.1)
+### Estonia (GRI: 42 ↓ 40)
 
 #### Restrictions on gatherings (C4)
 
@@ -1652,7 +2000,7 @@ under the current rules. Link:
 
 </div>
 
-### Finland (GRI: 55 ↑ 56.25)
+### Finland (GRI: 55 ↑ 56)
 
 #### Vaccination policy (H7)
 
@@ -1725,7 +2073,125 @@ administered: First dose 3220572, second dose 980821
 
 </div>
 
-### France (GRI: 58.33 ↓ 54.17)
+### France (GRI: 58 ↓ 45)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+France (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions on public events were further relaxed on 30 June, with the
+following changes: - maintenance of barrier measures and physical
+distancing. - Health Pass required for outdoor and indoor events of more
+than 1,000 people. - lifting of limits on the percentage capacity in
+establishments receiving the public. - outdoor amateur sports
+competitions maximum of 2,500 people. Health Pass required for events
+with more than 1,000 people. - resumption of outdoor festivals standing:
+4 m2 per festival-goer. Health Pass required for events with more than
+1,000 people.
+<https://web.archive.org/web/20210624103643/https://www.gouvernement.fr/les-modalites-et-le-calendrier-des-reouvertures>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of France (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of 30 June, the restriction on tour groups and public gatherings
+being limited to 10 people has been lifted.
+<https://web.archive.org/web/20210624103643/https://www.gouvernement.fr/les-modalites-et-le-calendrier-des-reouvertures>
+Restrictions on the number of people able to attend religious
+ceremonies, weddings and funerals have been lifted -
+<https://web.archive.org/web/20210630124454/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Stay at home requirements (C6)
 
@@ -1785,7 +2251,7 @@ planned.
 
 </div>
 
-### Guatemala (GRI: 53.54 ↓ 52.76)
+### Guatemala (GRI: 54 ↓ 53)
 
 #### Facial Coverings (H6)
 
@@ -1840,7 +2306,7 @@ No change in policy <https://archive.is/TrQLz>
 
 </div>
 
-### Honduras (GRI: 71.25 ↑ 72.5)
+### Honduras (GRI: 71 ↑ 72)
 
 #### Income support (E1)
 
@@ -2009,7 +2475,7 @@ vulnerable groups and elderly groups.
 
 </div>
 
-### Ireland (GRI: 67.81 ↑ 69.06)
+### Ireland (GRI: 68 ↑ 69)
 
 #### Vaccination policy (H7)
 
@@ -2068,7 +2534,7 @@ registered for their vaccine are also being vaccinated.”"
 
 </div>
 
-### Israel (GRI: 46.35 ↑ 52.08)
+### Israel (GRI: 46 ↑ 52)
 
 #### School closing (C1)
 
@@ -2375,7 +2841,7 @@ Source: <https://archive.vn/FpVJC> \[Ministry of Health\]
 
 </div>
 
-### Italy (GRI: 79.95 ↓ 79.17)
+### Italy (GRI: 80 ↓ 79)
 
 #### Restrictions on gatherings (C4)
 
@@ -2487,7 +2953,7 @@ Valle D’Aosta and Puglia now are also vaccinating people from 12+
 
 </div>
 
-### Japan (GRI: 60.05 ↓ 59.01)
+### Japan (GRI: 60 ↓ 59)
 
 #### School closing (C1)
 
@@ -2556,7 +3022,7 @@ assessed on an individual basis.
 
 </div>
 
-### Malta (GRI: 64.58 ↓ 62.5)
+### Malta (GRI: 65 ↓ 62)
 
 #### School closing (C1)
 
@@ -2615,7 +3081,7 @@ mitigation measures remain in place. Source:
 
 </div>
 
-### Mozambique (GRI: 51.15 ↓ 48.02)
+### Mozambique (GRI: 51 ↓ 48)
 
 #### International travel controls (C8)
 
@@ -2734,7 +3200,7 @@ The wearing of a protective facemask is compulsory in all public spaces.
 
 </div>
 
-### Myanmar (GRI: 68.12 ↓ 60.05)
+### Myanmar (GRI: 68 ↓ 60)
 
 #### Cancel public events (C3)
 
@@ -3244,7 +3710,7 @@ required in all public places.
 
 </div>
 
-### Nicaragua (GRI: 16.77 ↓ 12.6)
+### Nicaragua (GRI: 17 ↓ 13)
 
 #### School closing (C1)
 
@@ -3349,7 +3815,7 @@ No policy in place <https://archive.is/uJyH4>
 
 </div>
 
-### Nigeria (GRI: 41.25 ↑ 42.5)
+### Nigeria (GRI: 41 ↑ 42)
 
 #### Vaccination policy (H7)
 
@@ -3422,7 +3888,7 @@ information on registration from the NPHCDA on 00 234 (0) 803 123
 
 </div>
 
-### Oman (GRI: 59.17 ↑ 74.79)
+### Oman (GRI: 59 ↑ 75)
 
 #### Workplace closing (C2)
 
@@ -3820,7 +4286,7 @@ Carrying over C6
 
 </div>
 
-### Portugal (GRI: 72.19 ↓ 68.54)
+### Portugal (GRI: 72 ↓ 69)
 
 #### School closing (C1)
 
@@ -4120,7 +4586,7 @@ cases. Source:
 
 </div>
 
-### Russia (GRI: 53.91 ↑ 61.2)
+### Russia (GRI: 54 ↑ 61)
 
 #### Workplace closing (C2)
 
@@ -4591,7 +5057,7 @@ with pre-existing conditions would have to work from home.
 
 </div>
 
-### Singapore (GRI: 76.56 ↓ 72.92)
+### Singapore (GRI: 77 ↓ 73)
 
 #### School closing (C1)
 
@@ -4751,7 +5217,7 @@ mask.”" Link (1):
 
 </div>
 
-### Spain (GRI: 58.7 ↓ 55.57)
+### Spain (GRI: 59 ↓ 56)
 
 #### Facial Coverings (H6)
 
@@ -4876,7 +5342,7 @@ website:
 
 </div>
 
-### United Arab Emirates (GRI: 65.89 ↓ 58.33)
+### United Arab Emirates (GRI: 66 ↓ 58)
 
 #### Workplace closing (C2)
 
@@ -5103,7 +5569,7 @@ No change found
 
 </div>
 
-### United Kingdom (GRI: 62.55 ↑ 63.8)
+### United Kingdom (GRI: 63 ↑ 64)
 
 #### Vaccination policy (H7)
 
@@ -5162,7 +5628,7 @@ Vaccination (H7)
 
 </div>
 
-### Yemen (GRI: 38.85 ↓ 37.81)
+### Yemen (GRI: 39 ↓ 38)
 
 #### Protection of elderly people (H8)
 
