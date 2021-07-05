@@ -31,7 +31,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <h4>
 
-Increasing
+Overall increase
 
 </h4>
 
@@ -93,9 +93,11 @@ Increasing
 
 </div>
 
+<br/>
+
 <h4>
 
-Decreasing
+Overall decrease
 
 </h4>
 
@@ -175,6 +177,12 @@ Decreasing
 
 <div>
 
+<a href="#oman-gri-75--68">Oman (GRI: 75 ↑ 68)</a>
+
+</div>
+
+<div>
+
 <a href="#poland-gri-62--60">Poland (GRI: 62 ↑ 60)</a>
 
 </div>
@@ -204,6 +212,8 @@ Decreasing
 </div>
 
 </div>
+
+<br/>
 
 <h4>
 
@@ -282,6 +292,12 @@ Neutral Change
 <div>
 
 <a href="#netherlands-gri-67--49">Netherlands (GRI: 67 ↑ 49)</a>
+
+</div>
+
+<div>
+
+<a href="#oman-gri-75--68">Oman (GRI: 75 ↑ 68)</a>
 
 </div>
 
@@ -3832,6 +3848,320 @@ Netherlands (1G)
 
 No policy found
 <https://web.archive.org/web/20210702141826/https://www.government.nl/topics/coronavirus-covid-19/news/2021/06/18/netherlands-to-take-big-step-in-relaxing-measures-almost-everything-allowed-with-1-5-metre-distancing>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Oman (GRI: 75 ↓ 68)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Oman (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Oman (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Wedding halls have re-closed. In addition, "“According to the
+committee’s decision, all public places and commercial activities will
+be closed during the night curfew. However, essential businesses will be
+allowed to remain open, and home-delivery services are exempted from the
+lockdown.”"
+<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
+<https://archive.vn/2021.06.21-164318/https://gulfnews.com/world/gulf/oman/covid-19-oman-bans-movement-from-8pm-to-4am-until-further-notice-1.80043683>
+<https://web.archive.org/web/20210628135557/https://timesofoman.com/article/102956-night-lockdown-in-oman-until-further-notice>
+<https://web.archive.org/web/20210628141845/https://gulfnews.com/world/gulf/oman/oman-shopping-malls-must-operate-at-only-50-capacity-1.79858720>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Oman (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Oman
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Oman (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Oman (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Coding the most stringent policy, "“These steps include “preventing the
+operation of meeting and party halls throughout the day, and prohibiting
+gatherings of any nature,” and the “closure of all public facilities in
+hotels and tourist areas, between 8 pm and 4 am, with food provided
+through room service during this period.”"
+<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Oman (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Oman (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Some services running have been reduced.
+<https://archive.vn/2021.06.28-142928/https://twitter.com/mwasalat_om/status/1406502364278923265>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Oman (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Oman (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Carrying over C6
+<https://web.archive.org/web/20210628135557/https://timesofoman.com/article/102956-night-lockdown-in-oman-until-further-notice>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Oman (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Oman (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policies targeted at the protection of elderly people were found.
 
 </td>
 
