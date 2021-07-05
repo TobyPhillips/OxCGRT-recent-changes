@@ -144,7 +144,7 @@ cat("<img src=\"../images/changes-map.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 Increasing <- filter(OxCGRT_GRIChange, MapColours==2)
-cat("#### Increasing")
+cat("<h4>Increasing</h4>")
 cat("<div class=\"contents\">")
 for (i in unique(Increasing$CountryName)){
   cat("<div>")
@@ -156,7 +156,7 @@ for (i in unique(Increasing$CountryName)){
 cat("</div>")
 
 Decreasing <- filter(OxCGRT_GRIChange, MapColours==1)
-cat("#### Decreasing")
+cat("<h4>Decreasing</h4>")
 cat("<div class=\"contents\">")
 for (i in unique(Decreasing$CountryName)){
   cat("<div>")
@@ -168,7 +168,7 @@ for (i in unique(Decreasing$CountryName)){
 cat("</div>")
 
 NeutralChange <- filter(OxCGRT_GRIChange, MapColours==1)
-cat("#### Neutral Change")
+cat("<h4>Neutral Change</h4>")
 cat("<div class=\"contents\">")
 for (i in unique(NeutralChange$CountryName)){
   cat("<div>")
