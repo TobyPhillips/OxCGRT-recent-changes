@@ -58,7 +58,7 @@ OxCGRTLatest <- OxCGRTLatest %>% mutate(Date = ymd(Date))
 ```{r Changes, echo=F,include=F}
 OxCGRTLastFortnight <- filter(OxCGRTLatest, Date>Sys.Date()-14 & is.na(RegionName))
 
-OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(SI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>% filter(SI_Changes>1) %>% select(CountryName) %>% pull()
+OxCGRTCountriesChange <- OxCGRTLastFortnight %>% group_by(CountryName) %>% summarise(GRI_Changes = n_distinct(GovernmentResponseIndex, na.rm=T)) %>% filter(GRI_Changes>1) %>% select(CountryName) %>% pull()
 
 # OxCGRT_GRIRanges <- OxCGRTLastFortnight %>% filter(CountryName %in% unique(ChangesTable$CountryName)) %>% group_by(CountryName) %>%
 #   summarise(GRIMaxWeeklyChange = range(GovernmentResponseIndex, na.rm=T)[2]-range(GovernmentResponseIndex, na.rm=T)[1])
@@ -167,18 +167,21 @@ for (i in unique(Decreasing$CountryName)){
   cat("</div>")}
 cat("</div> <br/>")
 
-NeutralChange <- filter(OxCGRT_GRIChange, MapColours==0)
-cat("<h4>Neutral Change</h4>")
-cat("<div class=\"contents\">")
-for (i in unique(NeutralChange$CountryName)){
-  cat("<div>")
-  cat("<a href=\"#",
-  tolower(i),"-gri-",NeutralChange$First[NeutralChange$CountryName==i],
-  "--",NeutralChange$Last[NeutralChange$CountryName==i],"\">",
-  i," (GRI: ",NeutralChange$First[NeutralChange$CountryName==i],")","</a> \n",sep ="")
-  cat("</div>")}
-cat("</div>")
-
+##### This would be great to do in theory, but not possible with current specification of changes list (which is based on index change, not policy change)
+# NeutralChange <- filter(OxCGRT_GRIChange, MapColours==0)
+# (OxCGRT_GRIChange$GRIChange == 0 & NeutralChanges$CountryName %in% OxCGRTCountriesChange$CountryName)
+# if(length(NeutralChanges$CountryName)>0){
+#   cat("<h4>No change in index (but a change in policy)</h4>")
+#   cat("<div class=\"contents\">")
+#   for (i in unique(NeutralChange$CountryName)){
+#     cat("<div>")
+#     cat("<a href=\"#",
+#     tolower(i),"-gri-",NeutralChange$First[NeutralChange$CountryName==i],
+#     "--",NeutralChange$Last[NeutralChange$CountryName==i],"\">",
+#     i," (GRI: ",NeutralChange$First[NeutralChange$CountryName==i],")","</a> \n",sep ="")
+#     cat("</div>")}
+#   cat("</div>")
+# }
 
 
 
