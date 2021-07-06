@@ -167,7 +167,7 @@ for (i in unique(Decreasing$CountryName)){
   cat("</div>")}
 cat("</div> <br/>")
 
-NeutralChange <- filter(OxCGRT_GRIChange, MapColours==1)
+NeutralChange <- filter(OxCGRT_GRIChange, MapColours==0)
 cat("<h4>Neutral Change</h4>")
 cat("<div class=\"contents\">")
 for (i in unique(NeutralChange$CountryName)){
