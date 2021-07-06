@@ -51,13 +51,19 @@ Overall increase
 
 <div>
 
-<a href="#israel-gri-46--50">Israel (GRI: 46 ↑ 50)</a>
+<a href="#israel-gri-47--50">Israel (GRI: 47 ↑ 50)</a>
 
 </div>
 
 <div>
 
-<a href="#namibia-gri-61--66">Namibia (GRI: 61 ↑ 66)</a>
+<a href="#kyrgyz republic-gri-53--54">Kyrgyz Republic (GRI: 53 ↑ 54)</a>
+
+</div>
+
+<div>
+
+<a href="#libya-gri-43--49">Libya (GRI: 43 ↑ 49)</a>
 
 </div>
 
@@ -69,13 +75,19 @@ Overall increase
 
 <div>
 
+<a href="#philippines-gri-64--66">Philippines (GRI: 64 ↑ 66)</a>
+
+</div>
+
+<div>
+
 <a href="#portugal-gri-68--74">Portugal (GRI: 68 ↑ 74)</a>
 
 </div>
 
 <div>
 
-<a href="#russia-gri-54--61">Russia (GRI: 54 ↑ 61)</a>
+<a href="#russia-gri-54--58">Russia (GRI: 54 ↑ 58)</a>
 
 </div>
 
@@ -87,7 +99,32 @@ Overall increase
 
 <div>
 
+<a href="#timor-leste-gri-58--60">Timor-Leste (GRI: 58 ↑ 60)</a>
+
+</div>
+
+<div>
+
+<a href="#tunisia-gri-69--72">Tunisia (GRI: 69 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#united arab emirates-gri-58--66">United Arab Emirates (GRI: 58
+↑ 66)</a>
+
+</div>
+
+<div>
+
 <a href="#united kingdom-gri-63--64">United Kingdom (GRI: 63 ↑ 64)</a>
+
+</div>
+
+<div>
+
+<a href="#uzbekistan-gri-53--58">Uzbekistan (GRI: 53 ↑ 58)</a>
 
 </div>
 
@@ -105,109 +142,175 @@ Overall decrease
 
 <div>
 
-<a href="#austria-gri-73--67">Austria (GRI: 73 ↑ 67)</a>
+<a href="#aruba-gri-39--34">Aruba (GRI: 39 ↓ 34)</a>
 
 </div>
 
 <div>
 
-<a href="#china-gri-72--67">China (GRI: 72 ↑ 67)</a>
+<a href="#austria-gri-73--67">Austria (GRI: 73 ↓ 67)</a>
 
 </div>
 
 <div>
 
-<a href="#denmark-gri-56--53">Denmark (GRI: 56 ↑ 53)</a>
+<a href="#barbados-gri-65--57">Barbados (GRI: 65 ↓ 57)</a>
 
 </div>
 
 <div>
 
-<a href="#eritrea-gri-53--51">Eritrea (GRI: 53 ↑ 51)</a>
+<a href="#china-gri-73--66">China (GRI: 73 ↓ 66)</a>
 
 </div>
 
 <div>
 
-<a href="#estonia-gri-42--40">Estonia (GRI: 42 ↑ 40)</a>
+<a href="#czech republic-gri-55--52">Czech Republic (GRI: 55 ↓ 52)</a>
 
 </div>
 
 <div>
 
-<a href="#finland-gri-55--54">Finland (GRI: 55 ↑ 54)</a>
+<a href="#denmark-gri-56--53">Denmark (GRI: 56 ↓ 53)</a>
 
 </div>
 
 <div>
 
-<a href="#italy-gri-79--64">Italy (GRI: 79 ↑ 64)</a>
+<a href="#eritrea-gri-53--51">Eritrea (GRI: 53 ↓ 51)</a>
 
 </div>
 
 <div>
 
-<a href="#malta-gri-65--62">Malta (GRI: 65 ↑ 62)</a>
+<a href="#finland-gri-55--54">Finland (GRI: 55 ↓ 54)</a>
 
 </div>
 
 <div>
 
-<a href="#mozambique-gri-51--48">Mozambique (GRI: 51 ↑ 48)</a>
+<a href="#greece-gri-61--59">Greece (GRI: 61 ↓ 59)</a>
 
 </div>
 
 <div>
 
-<a href="#myanmar-gri-68--60">Myanmar (GRI: 68 ↑ 60)</a>
+<a href="#iceland-gri-58--46">Iceland (GRI: 58 ↓ 46)</a>
 
 </div>
 
 <div>
 
-<a href="#nepal-gri-72--66">Nepal (GRI: 72 ↑ 66)</a>
+<a href="#italy-gri-79--64">Italy (GRI: 79 ↓ 64)</a>
 
 </div>
 
 <div>
 
-<a href="#netherlands-gri-67--49">Netherlands (GRI: 67 ↑ 49)</a>
+<a href="#latvia-gri-51--40">Latvia (GRI: 51 ↓ 40)</a>
 
 </div>
 
 <div>
 
-<a href="#oman-gri-75--68">Oman (GRI: 75 ↑ 68)</a>
+<a href="#malta-gri-65--59">Malta (GRI: 65 ↓ 59)</a>
 
 </div>
 
 <div>
 
-<a href="#poland-gri-62--60">Poland (GRI: 62 ↑ 60)</a>
+<a href="#monaco-gri-59--55">Monaco (GRI: 59 ↓ 55)</a>
 
 </div>
 
 <div>
 
-<a href="#singapore-gri-77--74">Singapore (GRI: 77 ↑ 74)</a>
+<a href="#mongolia-gri-60--54">Mongolia (GRI: 60 ↓ 54)</a>
 
 </div>
 
 <div>
 
-<a href="#spain-gri-59--56">Spain (GRI: 59 ↑ 56)</a>
+<a href="#mozambique-gri-51--48">Mozambique (GRI: 51 ↓ 48)</a>
 
 </div>
 
 <div>
 
-<a href="#sweden-gri-54--50">Sweden (GRI: 54 ↑ 50)</a>
+<a href="#myanmar-gri-68--60">Myanmar (GRI: 68 ↓ 60)</a>
 
 </div>
 
 <div>
 
-<a href="#ukraine-gri-60--55">Ukraine (GRI: 60 ↑ 55)</a>
+<a href="#namibia-gri-68--66">Namibia (GRI: 68 ↓ 66)</a>
+
+</div>
+
+<div>
+
+<a href="#nepal-gri-72--66">Nepal (GRI: 72 ↓ 66)</a>
+
+</div>
+
+<div>
+
+<a href="#netherlands-gri-67--49">Netherlands (GRI: 67 ↓ 49)</a>
+
+</div>
+
+<div>
+
+<a href="#oman-gri-78--74">Oman (GRI: 78 ↓ 74)</a>
+
+</div>
+
+<div>
+
+<a href="#poland-gri-62--60">Poland (GRI: 62 ↓ 60)</a>
+
+</div>
+
+<div>
+
+<a href="#singapore-gri-77--74">Singapore (GRI: 77 ↓ 74)</a>
+
+</div>
+
+<div>
+
+<a href="#south korea-gri-59--52">South Korea (GRI: 59 ↓ 52)</a>
+
+</div>
+
+<div>
+
+<a href="#spain-gri-59--56">Spain (GRI: 59 ↓ 56)</a>
+
+</div>
+
+<div>
+
+<a href="#sweden-gri-53--50">Sweden (GRI: 53 ↓ 50)</a>
+
+</div>
+
+<div>
+
+<a href="#ukraine-gri-60--55">Ukraine (GRI: 60 ↓ 55)</a>
+
+</div>
+
+<div>
+
+<a href="#uruguay-gri-61--60">Uruguay (GRI: 61 ↓ 60)</a>
+
+</div>
+
+<div>
+
+<a href="#yemen-gri-38--37">Yemen (GRI: 38 ↓ 37)</a>
 
 </div>
 
@@ -225,109 +328,267 @@ Neutral Change
 
 <div>
 
-<a href="#austria-gri-73--67">Austria (GRI: 73 ↑ 67)</a>
+<a href="#argentina-gri-69--69">Argentina (GRI: 69)</a>
 
 </div>
 
 <div>
 
-<a href="#china-gri-72--67">China (GRI: 72 ↑ 67)</a>
+<a href="#belgium-gri-66--66">Belgium (GRI: 66)</a>
 
 </div>
 
 <div>
 
-<a href="#denmark-gri-56--53">Denmark (GRI: 56 ↑ 53)</a>
+<a href="#brunei-gri-46--46">Brunei (GRI: 46)</a>
 
 </div>
 
 <div>
 
-<a href="#eritrea-gri-53--51">Eritrea (GRI: 53 ↑ 51)</a>
+<a href="#cambodia-gri-63--63">Cambodia (GRI: 63)</a>
 
 </div>
 
 <div>
 
-<a href="#estonia-gri-42--40">Estonia (GRI: 42 ↑ 40)</a>
+<a href="#costa rica-gri-58--58">Costa Rica (GRI: 58)</a>
 
 </div>
 
 <div>
 
-<a href="#finland-gri-55--54">Finland (GRI: 55 ↑ 54)</a>
+<a href="#cyprus-gri-58--58">Cyprus (GRI: 58)</a>
 
 </div>
 
 <div>
 
-<a href="#italy-gri-79--64">Italy (GRI: 79 ↑ 64)</a>
+<a href="#democratic republic of congo-gri-34--34">Democratic Republic
+of Congo (GRI: 34)</a>
 
 </div>
 
 <div>
 
-<a href="#malta-gri-65--62">Malta (GRI: 65 ↑ 62)</a>
+<a href="#dominica-gri-44--44">Dominica (GRI: 44)</a>
 
 </div>
 
 <div>
 
-<a href="#mozambique-gri-51--48">Mozambique (GRI: 51 ↑ 48)</a>
+<a href="#dominican republic-gri-65--65">Dominican Republic (GRI:
+65)</a>
 
 </div>
 
 <div>
 
-<a href="#myanmar-gri-68--60">Myanmar (GRI: 68 ↑ 60)</a>
+<a href="#el salvador-gri-38--38">El Salvador (GRI: 38)</a>
 
 </div>
 
 <div>
 
-<a href="#nepal-gri-72--66">Nepal (GRI: 72 ↑ 66)</a>
+<a href="#estonia-gri-40--40">Estonia (GRI: 40)</a>
 
 </div>
 
 <div>
 
-<a href="#netherlands-gri-67--49">Netherlands (GRI: 67 ↑ 49)</a>
+<a href="#ethiopia-gri-44--44">Ethiopia (GRI: 44)</a>
 
 </div>
 
 <div>
 
-<a href="#oman-gri-75--68">Oman (GRI: 75 ↑ 68)</a>
+<a href="#fiji-gri-68--68">Fiji (GRI: 68)</a>
 
 </div>
 
 <div>
 
-<a href="#poland-gri-62--60">Poland (GRI: 62 ↑ 60)</a>
+<a href="#france-gri-54--54">France (GRI: 54)</a>
 
 </div>
 
 <div>
 
-<a href="#singapore-gri-77--74">Singapore (GRI: 77 ↑ 74)</a>
+<a href="#gabon-gri-59--59">Gabon (GRI: 59)</a>
 
 </div>
 
 <div>
 
-<a href="#spain-gri-59--56">Spain (GRI: 59 ↑ 56)</a>
+<a href="#germany-gri-69--69">Germany (GRI: 69)</a>
 
 </div>
 
 <div>
 
-<a href="#sweden-gri-54--50">Sweden (GRI: 54 ↑ 50)</a>
+<a href="#ghana-gri-44--44">Ghana (GRI: 44)</a>
 
 </div>
 
 <div>
 
-<a href="#ukraine-gri-60--55">Ukraine (GRI: 60 ↑ 55)</a>
+<a href="#haiti-gri-56--56">Haiti (GRI: 56)</a>
+
+</div>
+
+<div>
+
+<a href="#honduras-gri-71--71">Honduras (GRI: 71)</a>
+
+</div>
+
+<div>
+
+<a href="#hong kong-gri-78--78">Hong Kong (GRI: 78)</a>
+
+</div>
+
+<div>
+
+<a href="#india-gri-73--73">India (GRI: 73)</a>
+
+</div>
+
+<div>
+
+<a href="#ireland-gri-69--69">Ireland (GRI: 69)</a>
+
+</div>
+
+<div>
+
+<a href="#kazakhstan-gri-63--63">Kazakhstan (GRI: 63)</a>
+
+</div>
+
+<div>
+
+<a href="#kuwait-gri-56--56">Kuwait (GRI: 56)</a>
+
+</div>
+
+<div>
+
+<a href="#liberia-gri-54--54">Liberia (GRI: 54)</a>
+
+</div>
+
+<div>
+
+<a href="#luxembourg-gri-57--57">Luxembourg (GRI: 57)</a>
+
+</div>
+
+<div>
+
+<a href="#macao-gri-46--46">Macao (GRI: 46)</a>
+
+</div>
+
+<div>
+
+<a href="#malaysia-gri-79--79">Malaysia (GRI: 79)</a>
+
+</div>
+
+<div>
+
+<a href="#mauritania-gri-45--45">Mauritania (GRI: 45)</a>
+
+</div>
+
+<div>
+
+<a href="#mexico-gri-50--50">Mexico (GRI: 50)</a>
+
+</div>
+
+<div>
+
+<a href="#niger-gri-31--31">Niger (GRI: 31)</a>
+
+</div>
+
+<div>
+
+<a href="#nigeria-gri-42--42">Nigeria (GRI: 42)</a>
+
+</div>
+
+<div>
+
+<a href="#norway-gri-60--60">Norway (GRI: 60)</a>
+
+</div>
+
+<div>
+
+<a href="#paraguay-gri-54--54">Paraguay (GRI: 54)</a>
+
+</div>
+
+<div>
+
+<a href="#peru-gri-70--70">Peru (GRI: 70)</a>
+
+</div>
+
+<div>
+
+<a href="#senegal-gri-37--37">Senegal (GRI: 37)</a>
+
+</div>
+
+<div>
+
+<a href="#slovak republic-gri-58--58">Slovak Republic (GRI: 58)</a>
+
+</div>
+
+<div>
+
+<a href="#south africa-gri-69--69">South Africa (GRI: 69)</a>
+
+</div>
+
+<div>
+
+<a href="#south sudan-gri-32--32">South Sudan (GRI: 32)</a>
+
+</div>
+
+<div>
+
+<a href="#switzerland-gri-54--54">Switzerland (GRI: 54)</a>
+
+</div>
+
+<div>
+
+<a href="#tonga-gri-30--30">Tonga (GRI: 30)</a>
+
+</div>
+
+<div>
+
+<a href="#turkmenistan-gri-50--50">Turkmenistan (GRI: 50)</a>
+
+</div>
+
+<div>
+
+<a href="#uganda-gri-45--45">Uganda (GRI: 45)</a>
+
+</div>
+
+<div>
+
+<a href="#united states-gri-42--42">United States (GRI: 42)</a>
 
 </div>
 
@@ -338,6 +599,68 @@ Neutral Change
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Aruba (GRI: 39 ↓ 34)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Aruba (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+5/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of Monday 5th July 2021 several COVID-19 related measures will be
+removed: - Business closing time: will be based on normal legally
+permitted closing time per type of business – Seating limitations:
+e.g. at restaurants will be back to normal occupancy allowances –
+Social distancing: 1.5m will no longer be required – Dancing: will be
+permitted – Casinos & Bingos: will be back to normal operations –
+Alcohol Ban: will no longer be in effect – Nightclubs / Bars: will be
+allowed to re-open / be back to normal operations
+<https://web.archive.org/web/20210705145249/https://www.visitaruba.com/news/general/corona-virus-and-travel-to-aruba/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Australia (GRI: 52 ↑ 63)
 
@@ -818,6 +1141,116 @@ all people present a 3-G certificate. Sources:
 
 </div>
 
+### Barbados (GRI: 65 ↓ 57)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Barbados
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Barbados (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Authorities in Barbados have eased certain COVID-19-related measures and
+lifted all curfew restrictions effective June 29.
+<https://web.archive.org/web/20210705203655/https://www.garda.com/crisis24/news-alerts/496516/barbados-authorities-lift-curfew-and-ease-some-covid-related-restrictions-june-29-update-31>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Barbados (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Barbados (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In line with C6. No other policies noted.
+<https://web.archive.org/web/20210705203655/https://www.garda.com/crisis24/news-alerts/496516/barbados-authorities-lift-curfew-and-ease-some-covid-related-restrictions-june-29-update-31>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Canada (GRI: 71 ↑ 72)
 
 #### Workplace closing (C2)
@@ -944,7 +1377,7 @@ keep up with new cases. See Government of Canada website, archived:
 
 </div>
 
-### China (GRI: 72 ↓ 67)
+### China (GRI: 73 ↓ 66)
 
 #### School closing (C1)
 
@@ -1046,6 +1479,248 @@ parts of China (3T)
 All high-risk areas were downgraded to mid-risk on 24 June; most
 non-essential workplace are required to close in mid-risk areas.
 <https://archive.vn/0Wj9j> <https://archive.vn/YwvAt>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; in <b>some</b> parts of China (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+China (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government announced that there is no longer high-risk regions in
+China. Archive link: <https://archive.ph/UMbUV> Original link:
+<https://baijiahao.baidu.com/s?id=1703416850570107379&wfr=spider&for=pc>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Czech Republic (GRI: 55 ↓ 52)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Czech Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Czech
+Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Working from home is not mandatory, although the government recommends
+doing so when possible and regularly testing employees in the work
+place. Nonessential businesses (including restaurants, bars, and cafes)
+are allowed to open with restrictions on capacity, social distancing
+measures and mask requirements in place. Link:
+<https://web.archive.org/web/20210705125412/https://covid.gov.cz/en/situations/business-activities/home-office-business>
+<https://web.archive.org/web/20210705130340/https://covid.gov.cz/en/situations/shops-and-services/restaurants-bars-and-cafes>
+<https://web.archive.org/web/20210705130637/https://www.garda.com/crisis24/news-alerts/496761/czech-republic-authorities-maintaining-covid-19-measures-as-of-june-30-update-44>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Czech Republic (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Czech Republic (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+People over 16 can register for a vaccination. This includes people who
+do not have public health insurance in the Czech Republic or the
+European Union but who have resided in the Czech Republic for a long
+time. Vaccination is voluntary and covered by public health insurance.
+All persons who are registered for public health insurance in the Czech
+Republic can be vaccinated free of charge. Vaccines: Pfizer, Moderna,
+AstraZeneca, Janssen Link:
+<https://web.archive.org/web/20210705141726/https://koronavirus.mzcr.cz/ockovani-proti-covid-19/>
+<https://web.archive.org/web/20210705142250/https://covid19.trackvaccines.org/country/czechia/>
+<https://web.archive.org/web/20210705142339/https://covid.gov.cz/en/situations/information-about-vaccine/information-about-available-vaccines>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Czech Republic (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Czech Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Visits to nursing homes are possible if visitors complete one of the
+following: 1) undergo a PCR test on site, 2) provide evidence of a
+negative PCR or antigen test that is no more than 72 hours old, 3)
+provide Covid-19 vaccination certificate (vaccine must have been
+administered 22 days prior to visit), or 4) prove that you had and
+recovered from Covid-19 no more than 180 days before the date of the
+visit. Link:
+<https://web.archive.org/web/20210705143247/https://covid.gov.cz/en/situations/hospitals-and-sanitary-facilities/visits-social-facilities>
 
 </td>
 
@@ -1217,76 +1892,6 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 large gatherings such as weddings and funerals can go up to 40 people
 <https://web.archive.org/web/20210704121744/https://er.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Estonia (GRI: 42 ↓ 40)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Estonia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>very large</b> gatherings (over 1000 people); across
-<b>all</b> of Estonia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-(Announced June 22) Beginning June 23, there is no longer a 50% capacity
-restriction in indoor spaces. This means that engaging in indoor sports
-activities, youth work, hobby activities and education, refresher
-training and courses, sports competitions and sports and fitness events,
-visiting spas, water parks, and swimming pools, organising public
-meetings and events, including conferences, theatre performances,
-concerts, and cinema screenings, providing entertainment services, and
-attending public worship services and other public religious services
-will be allowed again without the current restrictions on occupancy. The
-occupancy requirements applicable to stores and service and catering
-establishments will also be abolished. However, the requirement for
-dispersal and disinfection requirements must still be complied with in
-indoor spaces. Outdoor events can accommodate up to 1,000 participants
-under the current rules. Link:
-<https://web.archive.org/web/20210627141210/https://www.kriis.ee/en/news/occupancy-rule-will-be-removed-covid-19-restrictions-tomorrow>
-<https://web.archive.org/web/20210627142718/https://news.err.ee/1608255117/fifty-percent-indoor-occupancy-covid-19-restriction-gone-from-wednesday>
 
 </td>
 
@@ -1493,7 +2098,454 @@ administered: First dose 3220572, second dose 980821
 
 </div>
 
-### Israel (GRI: 46 ↑ 50)
+### Greece (GRI: 61 ↓ 59)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Greece
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Greece (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfew Lifted: The nighttime curfew is no longer in effect as of 5:00am
+on Monday, June 28th.
+<http://web.archive.org/web/20210705081152/https://gr.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Greece (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Greece (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Free rapid tests for SARS-CoV-2 detection by EODY COMMs continue
+throughout the country
+<http://web.archive.org/web/20210705190620/https://eody.gov.gr/synechizontai-se-oli-tin-epikrateia-ta-dorean-rapid-test-gia-anichneysi-sars-cov-2-apo-tis-komy-toy-eody/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Greece (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Greece (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Masks are no longer required in uncrowded outdoor areas. Masks are still
+required in all indoor areas.
+<http://web.archive.org/web/20210705081152/https://gr.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Iceland (GRI: 58 ↓ 46)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Iceland
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 26th 2021 restrictions on any kind of operations are no
+longer applicable, neither the obligation to register guests nor
+restrictions on opening hours
+<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Iceland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 26th 2021 no restrictions on gatherings due to COVID-19 apply
+in Iceland Limits to the number of people at gatherings are none Social
+distancing rules are none
+<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Iceland (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 26th 2021 no restrictions on gatherings due to COVID-19 apply
+in Iceland Limits to the number of people at gatherings are none Social
+distancing rules are none
+<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Iceland
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Iceland (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are no travel restrictions on the citizens and permanent residents
+of EEA/EFTA countries (as well as Andorra, Monaco, San Marino or the
+Vatican) but travellers who have not been vaccinated or previously
+infected with covid-19 are subject to testing and quarantine
+requirements. Travellers from outside the EEA/EFTA area who are not
+relatives of an EEA/EFTA citizen and not from exempted countries may not
+enter Iceland unless the provide a valid reason.
+<https://web.archive.org/web/20210706095256/https://island.is/en/p/entry>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Iceland (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No face mask measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 26th 2021 masks are not mandatory anywhere
+<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Israel (GRI: 47 ↑ 50)
 
 #### School closing (C1)
 
@@ -1801,43 +2853,6 @@ Events can be held with special hygiene and distancing measures.
 
 <b>Old policy:</b>
 
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Italy (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Italy (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-in white zones no restrictions apply on the number of people at
-gatherings, in yellow or red zones the limit is still 4 adult visitors
-<https://web.archive.org/web/20210625052750/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 Restrictions on <b>small</b> gatherings (10 people or fewer); in
 <b>some</b> parts of Italy (4T)
 
@@ -2044,7 +3059,677 @@ guaranteed
 
 </div>
 
-### Malta (GRI: 65 ↓ 62)
+### Kyrgyz Republic (GRI: 53 ↑ 54)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kyrgyz Republic (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Kyrgyz Republic (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Authorities have advised to limit travel to Bishkek and Osh cities as
+well as in Chui and Osh oblasts (1). Other than that, there are no
+restrictions on intercity or interstate travel. (1)
+<https://web.archive.org/web/20210704143747/https://www.gov.uk/foreign-travel-advice/kyrgyzstan/coronavirus>
+(2)
+<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Kyrgyz Republic (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Kyrgyz Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Facial coverings seem not to be required in all public spaces anymore.
+"“Some businesses and other organisations need visitors to wear a face
+mask.”" (1) Masks are required in public transport. (2) (1)
+<https://web.archive.org/web/20210704143747/https://www.gov.uk/foreign-travel-advice/kyrgyzstan/coronavirus>
+(2)
+<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Kyrgyz Republic (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Kyrgyz Republic (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes found. Vaccines: Sinopharm, SputnikV Sinopharm: available at
+government clinics for everyone SputnikV: available for people over 65
+and those with chronic conditions
+<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Latvia (GRI: 51 ↓ 40)
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>more than 50% income</b>; for <b>all
+workers</b> in Latvia (2A)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No income support</b> is present across all of Latvia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Income support scheme expired as of July 1st, 2021.
+<https://web.archive.org/web/20210705143825/https://covid19.gov.lv/index.php/atbalsts-sabiedribai/ekonomika/atbalsts-uznemejiem-un-darbiniekiem>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+Latvia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Latvia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Debt relief not available after June 30, 2021.
+<https://web.archive.org/web/20210705143825/https://covid19.gov.lv/index.php/atbalsts-sabiedribai/ekonomika/atbalsts-uznemejiem-un-darbiniekiem>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Latvia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Latvia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Required in all indoor public places, but not in outdoor public places.
+<https://web.archive.org/web/20210705142940/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Libya (GRI: 43 ↑ 49)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Libya (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Libya (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools partially closed for 41+ weeks, per UNESCO.
+<https://web.archive.org/web/20210705183902/https://en.unesco.org/covid19/educationresponse#schoolclosures>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Libya (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Libya (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“Large gatherings (both public and private) are currently prohibited.”"
+<https://web.archive.org/web/20210705184409/https://ly.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Libya (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Libya (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travel prohibited within curfew hours.
+<https://web.archive.org/web/20210705190659/https://cdn.anvilgroup.com/AAAAAAAA-1111-AAAA-1111-AAAAAAAAAAAA/Covid-19%20Global%20Travel%20Restrictions.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Libya (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Libya (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Libyan NCDC website gives weekly reports and press releases on the
+Covid-19 pandemic, which although lagged, provide significant data on
+the situation.
+<https://web.archive.org/web/20210705193142/https://ncdc.org.ly/Ar/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Libya (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Libya (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Sputnik V vaccine approved, and divided among groups A, B and C, based
+on the limited availability.
+<https://web.archive.org/web/20210705184409/https://ly.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Libya (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Libya (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No evidence of measures specific to elderly people beyond those applying
+to the general public.
+<https://web.archive.org/web/20210705184409/https://ly.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Malta (GRI: 65 ↓ 59)
 
 #### School closing (C1)
 
@@ -2102,6 +3787,119 @@ mitigation measures remain in place. Source:
 </div>
 
 </div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Malta
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+5/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Malta (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from 5th July 2020, Malta re-allowed some public and large events to
+restart, with some measures in place. Source:
+<http://web.archive.org/web/20210705054603/https://www.maltatoday.com.mt/news/national/110191/live_health_and_culture_ministers_addresses_press_conference_on_culture_reopening_1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Monaco (GRI: 59 ↓ 55)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Monaco
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Monaco (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfew lifted since June 26, 2021.
+<https://web.archive.org/web/20210705222905/https://covid19.mc/en/thematiques/sorties/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mongolia (GRI: 60 ↓ 54)
 
 ### Mozambique (GRI: 51 ↓ 48)
 
@@ -2732,7 +4530,7 @@ required in all public places.
 
 </div>
 
-### Namibia (GRI: 61 ↑ 66)
+### Namibia (GRI: 68 ↓ 66)
 
 #### Workplace closing (C2)
 
@@ -3861,7 +5659,7 @@ No policy found
 
 </div>
 
-### Oman (GRI: 75 ↓ 68)
+### Oman (GRI: 78 ↓ 74)
 
 #### Workplace closing (C2)
 
@@ -4297,6 +6095,189 @@ such days.’ <https://archive.vn/wUYTC>
 
 </div>
 
+### Philippines (GRI: 64 ↑ 66)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Philippines (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Philippines (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy changes as restrictions on gatherings continue to be dictated
+by region’s Community Quarantine level (with some regions under heighted
+restrictions). link: <https://archive.ph/4BvWe>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Philippines (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Philippines (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are some variations but the strictest rule is that: in areas under
+MECQ, Visits to open-air memorial parks and cemeteries shall be limited
+to not more than ten (10) persons per group and Religious gatherings
+shall be limited to not more than ten (10) persons, until otherwise
+modified through subsequent issuances of the IATF. And the latest news
+is this ‘NCR Plus’ remains under GCQ, and MECQ in 21 areas until July
+15. link: <https://archive.vn/JRISq> <https://archive.ph/h84rG>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Philippines (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Philippines (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change of policy. The strictest rules are implemented in areas under
+MECQ, stating that The road, rail, maritime, and aviation sectors of
+public transportation shall operate at a reduced operational and vehicle
+capacity in accordance with guidelines issued by the DOTr. Provided,
+that in all public transports, a strict one (1) meter distance between
+passengers shall be observed and appropriate engineering controls shall
+be in place. However, in areas under MGCQ, rules are somewhat looser,
+stating that the road, rail, maritime, and aviation sectors of public
+transportation shall be allowed to operate at the capacity in accordance
+to guidelines provided by Department of Transportation. Provided, that
+in all public transports, a strict one (1) meter distance between
+passengers shall be observed and appropriate engineering controls shall
+be in place. Private transportation shall be allowed subject to
+guidelines provided by DOTr. link: <https://archive.vn/JRISq>
+<https://archive.vn/CvyRn>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Poland (GRI: 62 ↓ 60)
 
 #### Workplace closing (C2)
@@ -4503,42 +6484,6 @@ area). Source:
 
 <b>Old policy:</b>
 
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Portugal (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Portugal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Travel restrictions to and from the Lisbon Metropolitan area ended today
-at 6am. Source:
-<http://web.archive.org/web/20210619000323/https://www.visitportugal.com/en/content/covid-19-measures-implemented-portugal>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>No measures</b> are present across all of Portugal (0)
 
 </td>
@@ -4668,7 +6613,7 @@ COVID Certificate”" Source: <https://archive.vn/5N6pC>
 
 </div>
 
-### Russia (GRI: 54 ↑ 61)
+### Russia (GRI: 54 ↑ 58)
 
 #### Workplace closing (C2)
 
@@ -4771,6 +6716,72 @@ who present a negative Covid-19 test taken within the past 78 hours.
 
 </div>
 
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Russia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people); in
+<b>some</b> parts of Russia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+‘In the Moscow region, indoor gatherings of more than 50 people and
+outdoors events of more than 500 are prohibited. In the city of Moscow,
+the mayor has implemented a system of QR codes for those seeking to dine
+in restaurants and cafes. Starting from June 28, 2021, all patrons at
+restaurants and bars will need to utilize an application connecting to a
+centralized government database in order to generate a QR code proving
+that they have either: been vaccinated, recovered from COVID-19 within
+the last six months, or had a negative PCR test result from an approved
+Moscow lab within the last three days. Otherwise, they will not be
+permitted to enter. Moscow authorities will only accept evidence of
+vaccination with one of the vaccines registered in the Russian
+Federation. The Moderna, Pfizer, and Johnson & Johnson vaccines are not
+currently registered in the Russian Federation.’
+<https://web.archive.org/web/20210705155813/https://ru.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Stay at home requirements (C6)
 
 <div id="table-div">
@@ -4814,6 +6825,54 @@ The authorities of Buryatia have decided to return to tough restrictions
 due to the increase in the incidence of COVID-19. A total lockdown
 (non-working day regime) is being introduced in the republic from June
 27 to July 11. <https://archive.vn/5KJwv>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Russia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Russia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+‘In the Moscow region, indoor gatherings of more than 50 people and
+outdoors events of more than 500 are prohibited. In the city of Moscow,
+the mayor has implemented a system of QR codes for those seeking to dine
+in restaurants and cafes. Starting from June 28, 2021, all patrons at
+restaurants and bars will need to utilize an application connecting to a
+centralized government database in order to generate a QR code proving
+that they have either: been vaccinated, recovered from COVID-19 within
+the last six months, or had a negative PCR test result from an approved
+Moscow lab within the last three days. Otherwise, they will not be
+permitted to enter. Moscow authorities will only accept evidence of
+vaccination with one of the vaccines registered in the Russian
+Federation. The Moderna, Pfizer, and Johnson & Johnson vaccines are not
+currently registered in the Russian Federation.’
+<https://web.archive.org/web/20210705155813/https://ru.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -4872,6 +6931,43 @@ capital posted a new daily record for Covid-19 deaths due to a surging
 outbreak of the Delta variant. All workers aged over 65 as well as those
 with pre-existing conditions would have to work from home.
 <https://archive.vn/GAnse>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; in
+<b>some</b> parts of Russia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Russia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change found. The elderly are recommended to refrain from
+travels, stay at home or in the country. <https://archive.vn/XYMyI>
 
 </td>
 
@@ -4967,6 +7063,294 @@ July 2021 is a school holiday (Youth Day).”" Link (1):
 
 </div>
 
+### South Korea (GRI: 59 ↓ 52)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+South Korea (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+South Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+New measure policy started from 1st July. <https://archive.is/LloYc> For
+greater Seoul area: level 2 - No more than 100 people allowed For other
+regions: level 1 - Events with 500 or more people need to report to and
+consult the local government; Mandatory preventive measures
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of South Korea (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of South Korea (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Greater Seoul area decided to keep 5+ gathering ban policy from 1st July
+to 7th July. <https://archive.is/1oLxu>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of South Korea
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of South
+Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+New measure policy started from 1st July. <https://archive.is/LloYc> For
+greater Seoul area: level 2 - Local transmission intensifies; At-risk
+regions should refrain from unnecessary gatherings and outings; Refrain
+from visiting crowded public areas For other regions: level 1 - Maintain
+social and economic activities and day-to-day life, while following
+COVID-19 preventive measures
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of South Korea (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of South Korea (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+New measure policy started from 1st July. <https://archive.is/LloYc> For
+greater Seoul area: level 2 - Local transmission intensifies; At-risk
+regions should refrain from unnecessary gatherings and outings; Refrain
+from visiting crowded public areas For other regions: level 1 - Maintain
+social and economic activities and day-to-day life, while following
+COVID-19 preventive measures
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of South Korea (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of South Korea (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+New social distancing measure from 1st July, while greater Seoul keeps
+old measure until 7th July. <https://archive.is/LloYc> Greater Seoul -
+All indoor and high-risk outdoor activities Other regions - Major and
+general management facilities, public transportation, healthcare
+institutions, pharmacies, nursing facilities, day and night care
+facilities, rallies and demonstrations, indoor sports stadiums,
+high-risk workplaces, etc.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Spain (GRI: 59 ↓ 56)
 
 #### Facial Coverings (H6)
@@ -5028,7 +7412,7 @@ situations where social distancing cannot be maintained. Source:
 
 </div>
 
-### Sweden (GRI: 54 ↓ 50)
+### Sweden (GRI: 53 ↓ 50)
 
 #### Restrictions on gatherings (C4)
 
@@ -5105,9 +7489,8 @@ participants.”"
 
 <b>Old policy:</b>
 
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; in <b>some</b> parts of
-Sweden (2T)
+<b>Recommended</b> wearing of face masks; across <b>all</b> of Sweden
+(1G)
 
 </td>
 
@@ -5129,7 +7512,7 @@ Sweden (2T)
 <td style="text-align:left;min-width: 4in; ">
 
 From July 1, public transportation recommendations on masks dropped.
-<http://web.archive.org/web/20210704182058/https://www.businessinsider.com/covid-19-sweden-drops-face-mask-recommendation-never-mandated-them-2021-7?r=US&IR=T>
+<https://web.archive.org/web/20210705133108/https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/skydda-dig-och-andra/anpassning-av-atgarder-mot-spridning-av-covid-19/>
 
 </td>
 
@@ -5259,6 +7642,183 @@ government page. So I think it could be coded as 2G.
 
 </div>
 
+### Timor-Leste (GRI: 58 ↑ 60)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Timor-Leste (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Timor-Leste (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools full open. See in UNESCO website, last updated June 30th, 2021
+archived:
+<https://web.archive.org/web/20210704235702/https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of
+Timor-Leste (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Timor-Leste (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to a Resolution of the government of Timor Leste, the
+Declaration of the State of Emergency was renewed from July 2nd to July
+31st. Two resolutions inform about the renovation of sanitary fences in
+the municipalities of Dili and Baucau for the period from July 2nd to
+July 31 st. See the website of the Government of Timor Leste (Jornal da
+República) under Government Resolutions, archived:
+<https://web.archive.org/web/20210704231815/https://c.statcounter.com/t.php?sc_project=10910016&u1=4482F67ED8864F7FC69876631C7E00F9&java=1&security=29d61221&sc_snum=1&sess=8987a3&sc_rum_e_s=3339&sc_rum_e_e=3357&p=0&rcat=d&rdom=d&rdomg=new&bb=1&jg=new&rr=1.1.1.1.1.1.1.1.1&resolution=1600&h=1000&camefrom=&u=http%3A//www.mj.gov.tl/jornal/%3Fq%3Dnode%252F20&t=Resolu%C3%A7%C3%B5es%20do%20Governo%20%7C%20Jornal%20da%20Rep%C3%BAblica&get_config=true>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Timor-Leste (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Timor-Leste (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to a Resolution of the government of Timor Leste, the
+Declaration of the State of Emergency was renewed from July 2nd to July
+31st. Two resolutions inform about the renovation of sanitary fences in
+the municipalities of Dili and Baucau for the period from July 2nd to
+July 31 st. See the website of the Government of Timor Leste (Jornal da
+República) under Government Resolutions, archived:
+<https://web.archive.org/web/20210704231815/https://c.statcounter.com/t.php?sc_project=10910016&u1=4482F67ED8864F7FC69876631C7E00F9&java=1&security=29d61221&sc_snum=1&sess=8987a3&sc_rum_e_s=3339&sc_rum_e_e=3357&p=0&rcat=d&rdom=d&rdomg=new&bb=1&jg=new&rr=1.1.1.1.1.1.1.1.1&resolution=1600&h=1000&camefrom=&u=http%3A//www.mj.gov.tl/jornal/%3Fq%3Dnode%252F20&t=Resolu%C3%A7%C3%B5es%20do%20Governo%20%7C%20Jornal%20da%20Rep%C3%BAblica&get_config=true>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Tunisia (GRI: 69 ↑ 72)
+
 ### Ukraine (GRI: 60 ↓ 55)
 
 #### Stay at home requirements (C6)
@@ -5374,6 +7934,408 @@ after the date of its completion.”"
 
 </div>
 
+### United Arab Emirates (GRI: 58 ↑ 66)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of United Arab Emirates (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change found
+<https://web.archive.org/web/20210605125231/https://www.khaleejtimes.com/coronavirus-pandemic/covid-19-abu-dhabi-government-eases-restrictions-on-workplace-attendance>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of United Arab Emirates (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In Abu Dhabi, "“Federal government workers, including those working in
+ministries, returned to their workplaces on May 16 Government bodies can
+have up to 60 per cent of their employees back in offices beginning May
+30 - up from 30 per cent - while remaining staff can work from home.”"
+<https://web.archive.org/web/20210705153747/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of United Arab Emirates (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of United Arab Emirates (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 15, Abu Dhabi will restrict the access to public places such
+as shopping malls, hospitality, gyms, public parks, beaches,
+entertainment centers, cinemas and museums to those who have been
+vaccinated against COVID-19. Unvaccinated individuals will need to be
+tested negative every three days. A fully vaccinated person needs to be
+tested every 30 days. As of June 6, public gatherings at live events and
+social activities are limited to those who have been vaccinated. Maximum
+attendance for public events require permits and are capped at 1,500
+indoors and 2,500 outdoors. Wedding can be held up to 100 vaccinated
+people. Weddings held in homes are capped at 30 guests. Face masks are
+mandatory in public and private gatherings.
+<https://web.archive.org/web/20210614095319/https://www.reuters.com/world/middle-east/abu-dhabi-place-new-restrictions-unvaccinated-2021-06-10/>
+<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of United Arab Emirates (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of United Arab Emirates (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change: In Abu Dhabi, up to 10 family members are allowed to gather
+but they must adhere to specific health and safety measures. These
+include wearing face masks and remaining at least two metres apart.
+Parties and other social gatherings have been banned. A fine of Dh10,000
+will be imposed on anyone who hosts, invites or organises social
+gatherings, meetings, private and public celebrations that exceed this
+number. Participants also face fines of Dh5,000 each. Up to 20 people
+can attend funerals and mourning services while up to 10 can attend
+marriage ceremonies. In Dubai, authorities have said up to 30 people can
+attend a wedding in someone’s home, as long as precautionary measures
+are “strictly observed”". Social events such as weddings held in public
+venues can now have up to 100 people in attendance, so long as they are
+vaccinated. Previously, only 10 people were allowed at a wedding and all
+had to be related.
+<https://web.archive.org/web/20210705153747/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of United Arab Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change found
+<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of United Arab Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+For buses between Abu Dhabi & Dubai: "“Roads and Transport Authority
+intercity buses are currently suspended, but taxis are allowed to travel
+between emirates.”" In Abu Dhabi, "“Public transport, such as taxis and
+buses, is limited to 45 per cent and 75 per cent capacity,
+respectively”" In Dubai, "" No more than three people are allowed in
+regular taxis but up to four are allowed to travel in a Dubai Taxi van,
+which can be booked through the Careem app.""
+<https://web.archive.org/web/20210705153747/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change found
+<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change in policy, people entering Abu Dhabi from any other emirate
+must show a valid PCR or DPI test result. "“People require either a
+negative PCR of DPI test to enter the capital. The PCR test result must
+be received within 48 hours of entry into Abu Dhabi. If the individual
+stays in the emirate for four days or more, they must take another PCR
+test on day 4 and day 8. Entry is allowed into the emirate within 24
+hours of receiving a negative DPI test result. DPI tests results are
+available within minutes but cannot be used to enter Abu Dhabi on two
+consecutive occasions. People who enter the capital after showing a
+negative DPI test and stay for more than 48 hours will have to take PCR
+test on day 3 of entry, and a second one on day 7, if they remain in the
+emirate for a week or more.”"
+<https://web.archive.org/web/20210705153747/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### United Kingdom (GRI: 63 ↑ 64)
 
 #### Vaccination policy (H7)
@@ -5420,6 +8382,247 @@ Northern Ireland opens up vaccinations to all over 18s on 24 June,
 meaning that all of the 4 nations are now at a 5 (universal) coding for
 Vaccination (H7)
 <https://web.archive.org/web/20210625133225if_/https://www.belfastlive.co.uk/news/health/ni-vaccine-centres-opened-up-20889162>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Uruguay (GRI: 61 ↓ 60)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Uruguay (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+5/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Uruguay (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of July 5, the opening of movie theaters throughout the country is
+authorized, except in the departments of Montevideo, Canelones and
+Maldonado. In these departments, the authorization will be on July 15.
+<https://web.archive.org/web/20210705141355/https://medios.presidencia.gub.uy/legal/2021/decretos/06/cons_min_483.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Uzbekistan (GRI: 53 ↑ 58)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Uzbekistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Uzbekistan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Uzbekistan authorities have ‘introduced access restrictions in Tashkent
+until July 12 to limit the spread of COVID-19’. ‘Domestic Measures
+Authorities have reintroduced a color-coded system to denote
+epidemiological risk in the country. Regions are classified as "“red,”"
+"“yellow,”" or "“green”" in descending order of risk. As of July 1,
+Tashkent is in the red zone, while the wider Tashkent Region and the
+Samarkand Region are in the yellow zone. Authorities have restricted
+access to the city of Tashkent until July 12. Only permanent residents
+of the city may enter. Exceptions will be made for those seeking urgent
+medical treatment, international air travelers who possess a valid air
+ticket, freight transporters, and essential workers.’ Source:
+<https://web.archive.org/web/20210705221522/https://www.garda.com/crisis24/news-alerts/497241/uzbekistan-authorities-tighten-covid-19-related-entry-and-domestic-measures-as-of-july-1-update-28>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Yemen (GRI: 38 ↓ 37)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Yemen (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Yemen (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of 30 June, the second phase of the vaccination campaign is
+beginning, "“administering the second dose of AstraZeneca vaccine to
+workers in the health sector, the elderly and those with chronic
+diseases, in 48 districts distributed over 13 governorates.”"
+<https://web.archive.org/web/20210705114612/https://pmo-ye.net/post/1429>
+<https://web.archive.org/web/20210629182316/https://reliefweb.int/report/yemen/unicef-yemen-humanitarian-situation-report-reporting-period-1-30-april-2021>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Yemen (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/6/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Yemen (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Carrying over C6 No change in policy, "“Authorities in the governorate
+of Ma’rib imposed a curfew from 09 p.m. until 04 a.m. in an attempt to
+combat the spread of COVID-19.”"
+<https://archive.vn/2021.06.21-132622/https://displacement.iom.int/system/tdf/reports/20210606_COVID19_DTM%20Yemen%20Mobility%20Restrictions%20Dashboard%20DRAFT_%252325_V2.pdf?file=1&type=node&id=11658>
 
 </td>
 
