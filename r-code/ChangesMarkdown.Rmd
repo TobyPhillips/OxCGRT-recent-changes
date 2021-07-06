@@ -163,7 +163,7 @@ for (i in unique(Decreasing$CountryName)){
   cat("<a href=\"#",
   tolower(i),"-gri-",Decreasing$First[Decreasing$CountryName==i],
   "--",Decreasing$Last[Decreasing$CountryName==i],"\">",
-  i," (GRI: ",Decreasing$First[Decreasing$CountryName==i]," \U2191 ", Decreasing$Last[Decreasing$CountryName==i],")","</a> \n",sep ="")
+  i," (GRI: ",Decreasing$First[Decreasing$CountryName==i]," \U2193 ", Decreasing$Last[Decreasing$CountryName==i],")","</a> \n",sep ="")
   cat("</div>")}
 cat("</div> <br/>")
 
@@ -175,7 +175,7 @@ for (i in unique(NeutralChange$CountryName)){
   cat("<a href=\"#",
   tolower(i),"-gri-",NeutralChange$First[NeutralChange$CountryName==i],
   "--",NeutralChange$Last[NeutralChange$CountryName==i],"\">",
-  i," (GRI: ",NeutralChange$First[NeutralChange$CountryName==i]," \U2191 ", NeutralChange$Last[NeutralChange$CountryName==i],")","</a> \n",sep ="")
+  i," (GRI: ",NeutralChange$First[NeutralChange$CountryName==i],")","</a> \n",sep ="")
   cat("</div>")}
 cat("</div>")
 
