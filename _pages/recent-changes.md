@@ -3378,7 +3378,8 @@ Malta (1G)
 <td style="text-align:left;min-width: 4in; ">
 
 As from 5th July 2020, Malta re-allowed some public and large events to
-restart, with some measures in place. Source:
+restart, with some measures in place. These are however only available
+for fully vaccinated individuals, hence exemptions do apply. Source:
 <http://web.archive.org/web/20210705054603/https://www.maltatoday.com.mt/news/national/110191/live_health_and_culture_ministers_addresses_press_conference_on_culture_reopening_1>
 
 </td>
