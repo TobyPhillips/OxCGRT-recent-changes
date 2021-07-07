@@ -138,6 +138,7 @@ dev.off()
 
 #Plot is in the next block so that it prints
 ```
+## Changes in Policy over the last two weeks
 
 ```{r Table, echo=F,include=T, results='asis'}
 cat("<img src=\"../images/changes-map.png\">")
@@ -248,8 +249,6 @@ final$`Current Policy`[substring(final$Indicator,first = 0, last=2)=="E1" & subs
 # kable(final[1:5])
 
 ```
-
-## Changes in Policy over the last two weeks
 
 Please see our [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md) for a full description of the policies we track.
 

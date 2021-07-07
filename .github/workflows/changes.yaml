@@ -1,8 +1,8 @@
 name: An R workflow for updating website with latest changes
 on:
-  push
-#  schedule:
-#    - cron: '0 6,18 * * *'
+#  push
+  schedule:
+    - cron: '0 3,9,15,21 * * *'
 
 jobs:
   build:
