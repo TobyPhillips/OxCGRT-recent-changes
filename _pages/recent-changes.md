@@ -27,6 +27,8 @@ paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-respo
 or explore the [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
+## Changes in Policy over the last two weeks
+
 <img src="../images/changes-map.png">
 
 <h4>
@@ -118,12 +120,6 @@ Overall increase
 
 <div>
 
-<a href="#united kingdom-gri-63--64">United Kingdom (GRI: 63 ↑ 64)</a>
-
-</div>
-
-<div>
-
 <a href="#uzbekistan-gri-53--58">Uzbekistan (GRI: 53 ↑ 58)</a>
 
 </div>
@@ -160,7 +156,7 @@ Overall decrease
 
 <div>
 
-<a href="#china-gri-73--66">China (GRI: 73 ↓ 66)</a>
+<a href="#china-gri-69--66">China (GRI: 69 ↓ 66)</a>
 
 </div>
 
@@ -214,7 +210,7 @@ Overall decrease
 
 <div>
 
-<a href="#malta-gri-65--59">Malta (GRI: 65 ↓ 59)</a>
+<a href="#malta-gri-65--58">Malta (GRI: 65 ↓ 58)</a>
 
 </div>
 
@@ -317,8 +313,6 @@ Overall decrease
 </div>
 
 <br/>
-
-## Changes in Policy over the last two weeks
 
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
@@ -1101,7 +1095,7 @@ keep up with new cases. See Government of Canada website, archived:
 
 </div>
 
-### China (GRI: 73 ↓ 66)
+### China (GRI: 69 ↓ 66)
 
 #### School closing (C1)
 
@@ -1879,115 +1873,6 @@ on Monday, June 28th.
 
 </div>
 
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Greece (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Greece (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Free rapid tests for SARS-CoV-2 detection by EODY COMMs continue
-throughout the country
-<http://web.archive.org/web/20210705190620/https://eody.gov.gr/synechizontai-se-oli-tin-epikrateia-ta-dorean-rapid-test-gia-anichneysi-sars-cov-2-apo-tis-komy-toy-eody/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Greece (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Greece (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Masks are no longer required in uncrowded outdoor areas. Masks are still
-required in all indoor areas.
-<http://web.archive.org/web/20210705081152/https://gr.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Iceland (GRI: 58 ↓ 46)
 
 #### Workplace closing (C2)
@@ -2143,65 +2028,6 @@ As of June 26th 2021 no restrictions on gatherings due to COVID-19 apply
 in Iceland Limits to the number of people at gatherings are none Social
 distancing rules are none
 <https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Iceland
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Iceland (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are no travel restrictions on the citizens and permanent residents
-of EEA/EFTA countries (as well as Andorra, Monaco, San Marino or the
-Vatican) but travellers who have not been vaccinated or previously
-infected with covid-19 are subject to testing and quarantine
-requirements. Travellers from outside the EEA/EFTA area who are not
-relatives of an EEA/EFTA citizen and not from exempted countries may not
-enter Iceland unless the provide a valid reason.
-<https://web.archive.org/web/20210706095256/https://island.is/en/p/entry>
 
 </td>
 
@@ -3453,7 +3279,7 @@ to the general public.
 
 </div>
 
-### Malta (GRI: 65 ↓ 59)
+### Malta (GRI: 65 ↓ 58)
 
 #### School closing (C1)
 
@@ -3554,6 +3380,64 @@ Malta (1G)
 As from 5th July 2020, Malta re-allowed some public and large events to
 restart, with some measures in place. Source:
 <http://web.archive.org/web/20210705054603/https://www.maltatoday.com.mt/news/national/110191/live_health_and_culture_ministers_addresses_press_conference_on_culture_reopening_1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Malta (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Malta (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From 1st July 2021, people who are fully vaccinated and in a group of
+not more than 2 people can remove their masks outside. Mask is still
+required in all places inside shops etc, or when in groups of more than
+two. Source
+<http://web.archive.org/web/20210707084842/https://timesofmalta.com/articles/view/masks-off.883351>
 
 </td>
 
@@ -4504,127 +4388,6 @@ Health Ministry.
 
 ### Nepal (GRI: 72 ↓ 66)
 
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Nepal (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Nepal (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-An OnlineKhabar article by Nunuta Rai discussing education impacts
-suggests that the government has asked schools to remain closed and
-continue online teaching.
-<https://web.archive.org/web/20210703204931/https://english.onlinekhabar.com/covid-19-nepal-online-classes-children-psychology.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Nepal (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Nepal (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Nepal, during the lockdown period for
-Kathmandu Valley ending June 28, operational hours for grocery stores
-limited to hours between 07:00 hours to 11:00 hours, and pharmacies and
-health related shops are permitted to operate under normal hours. Other
-businesses are permitted to open on alternate days. Some banks and
-certain government offices remain open. According to gov.uk travel
-advice, local administrations may have their own, more strict policy in
-place. Entertainment centres such as cinema halls and dance bars, health
-clubs and swimming clubs, salons, beauty parlours, spas, libraries,
-zoos, and museums are likely still closed.
-<https://web.archive.org/web/20210621124848/https://np.usembassy.gov/covid-19-information-2/>
-<https://web.archive.org/web/20210703063800/https://np.usembassy.gov/covid-19-information-2/>
-<https://web.archive.org/web/20210703071749/https://www.gov.uk/foreign-travel-advice/nepal/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Close public transport (C5)
 
 <div id="table-div">
@@ -4794,175 +4557,6 @@ in the Kathmandu valley on an odd/even day basis. Public vehicles are
 permitted to operate between 6:00 and 19:00. Additional restrictions
 remain possible in many locations.
 <https://web.archive.org/web/20210703063800/https://np.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of Nepal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Nepal (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From IMF, since May 25, 2021: "“The NRB announced that BFIs will not
-charge penalty interest during the prohibitory order and will provide
-discounts on interest to those borrowers who continue to service their
-debt during this period. BFIs will also not issue debt recovery related
-and auction notices during the prohibitory order period nor during the
-month after the prohibitory orders are lifted.”"
-<https://web.archive.org/web/20210703072724/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Nepal (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Nepal (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Nepal, as of June 29, 2021, testing is
-available at several government designated hospitals throughout the
-country that offer Void testing at a cost of Rs. 2,200.
-<https://web.archive.org/web/20210621124848/https://np.usembassy.gov/covid-19-information-2/>
-<https://web.archive.org/web/20210703063800/https://np.usembassy.gov/covid-19-information-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Nepal (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Nepal (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According the the U.S. Embassy in Nepal, masks are required all times
-outdoors. Noncompliance is subject to arrest and a fine.
-<https://web.archive.org/web/20210621124848/https://np.usembassy.gov/covid-19-information-2/>
 
 </td>
 
@@ -5385,231 +4979,6 @@ No policy found
 
 ### Oman (GRI: 78 ↓ 74)
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Oman (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Oman (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Wedding halls have re-closed. In addition, "“According to the
-committee’s decision, all public places and commercial activities will
-be closed during the night curfew. However, essential businesses will be
-allowed to remain open, and home-delivery services are exempted from the
-lockdown.”"
-<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
-<https://archive.vn/2021.06.21-164318/https://gulfnews.com/world/gulf/oman/covid-19-oman-bans-movement-from-8pm-to-4am-until-further-notice-1.80043683>
-<https://web.archive.org/web/20210628135557/https://timesofoman.com/article/102956-night-lockdown-in-oman-until-further-notice>
-<https://web.archive.org/web/20210628141845/https://gulfnews.com/world/gulf/oman/oman-shopping-malls-must-operate-at-only-50-capacity-1.79858720>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Oman (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of Oman
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Oman (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Oman (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Coding the most stringent policy, "“These steps include “preventing the
-operation of meeting and party halls throughout the day, and prohibiting
-gatherings of any nature,” and the “closure of all public facilities in
-hotels and tourist areas, between 8 pm and 4 am, with food provided
-through room service during this period.”"
-<https://web.archive.org/web/20210628142806/https://timesofoman.com/article/102990-meetings-gatherings-banned-at-hotels-in-oman>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Oman (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Oman (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Some services running have been reduced.
-<https://archive.vn/2021.06.28-142928/https://twitter.com/mwasalat_om/status/1406502364278923265>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Protection of elderly people (H8)
 
 <div id="table-div">
@@ -5619,41 +4988,6 @@ Some services running have been reduced.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Oman (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Oman (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Carrying over C6
-<https://web.archive.org/web/20210628135557/https://timesofoman.com/article/102956-night-lockdown-in-oman-until-further-notice>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -5863,132 +5197,6 @@ Philippines (2G)
 No policy changes as restrictions on gatherings continue to be dictated
 by region’s Community Quarantine level (with some regions under heighted
 restrictions). link: <https://archive.ph/4BvWe>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Philippines (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Philippines (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are some variations but the strictest rule is that: in areas under
-MECQ, Visits to open-air memorial parks and cemeteries shall be limited
-to not more than ten (10) persons per group and Religious gatherings
-shall be limited to not more than ten (10) persons, until otherwise
-modified through subsequent issuances of the IATF. And the latest news
-is this ‘NCR Plus’ remains under GCQ, and MECQ in 21 areas until July
-15. link: <https://archive.vn/JRISq> <https://archive.ph/h84rG>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Philippines (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Philippines (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change of policy. The strictest rules are implemented in areas under
-MECQ, stating that The road, rail, maritime, and aviation sectors of
-public transportation shall operate at a reduced operational and vehicle
-capacity in accordance with guidelines issued by the DOTr. Provided,
-that in all public transports, a strict one (1) meter distance between
-passengers shall be observed and appropriate engineering controls shall
-be in place. However, in areas under MGCQ, rules are somewhat looser,
-stating that the road, rail, maritime, and aviation sectors of public
-transportation shall be allowed to operate at the capacity in accordance
-to guidelines provided by Department of Transportation. Provided, that
-in all public transports, a strict one (1) meter distance between
-passengers shall be observed and appropriate engineering controls shall
-be in place. Private transportation shall be allowed subject to
-guidelines provided by DOTr. link: <https://archive.vn/JRISq>
-<https://archive.vn/CvyRn>
 
 </td>
 
@@ -7676,42 +6884,6 @@ after the date of its completion.”"
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of United Arab Emirates (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of United Arab Emirates (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change found
-<https://web.archive.org/web/20210605125231/https://www.khaleejtimes.com/coronavirus-pandemic/covid-19-abu-dhabi-government-eases-restrictions-on-workplace-attendance>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Require</b> closure of <b>some</b> sectors of business; across
 <b>all</b> of United Arab Emirates (2G)
 
@@ -7762,53 +6934,6 @@ have up to 60 per cent of their employees back in offices beginning May
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of United Arab Emirates (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of United Arab Emirates (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 15, Abu Dhabi will restrict the access to public places such
-as shopping malls, hospitality, gyms, public parks, beaches,
-entertainment centers, cinemas and museums to those who have been
-vaccinated against COVID-19. Unvaccinated individuals will need to be
-tested negative every three days. A fully vaccinated person needs to be
-tested every 30 days. As of June 6, public gatherings at live events and
-social activities are limited to those who have been vaccinated. Maximum
-attendance for public events require permits and are capped at 1,500
-indoors and 2,500 outdoors. Wedding can be held up to 100 vaccinated
-people. Weddings held in homes are capped at 30 guests. Face masks are
-mandatory in public and private gatherings.
-<https://web.archive.org/web/20210614095319/https://www.reuters.com/world/middle-east/abu-dhabi-place-new-restrictions-unvaccinated-2021-06-10/>
-<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -7883,41 +7008,6 @@ had to be related.
 
 <b>Old policy:</b>
 
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of United Arab Emirates (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of United Arab Emirates (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change found
-<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>No measures</b> are present across all of United Arab Emirates (0)
 
 </td>
@@ -7977,41 +7067,6 @@ which can be booked through the Careem app.""
 
 <b>Old policy:</b>
 
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of United Arab Emirates (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of United Arab Emirates (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change found
-<https://web.archive.org/web/20210614101110/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>No measures</b> are present across all of United Arab Emirates (0)
 
 </td>
@@ -8047,65 +7102,6 @@ negative DPI test and stay for more than 48 hours will have to take PCR
 test on day 3 of entry, and a second one on day 7, if they remain in the
 emirate for a week or more.”"
 <https://web.archive.org/web/20210705153747/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United Kingdom (GRI: 63 ↑ 64)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) United Kingdom (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) United Kingdom (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Northern Ireland opens up vaccinations to all over 18s on 24 June,
-meaning that all of the 4 nations are now at a 5 (universal) coding for
-Vaccination (H7)
-<https://web.archive.org/web/20210625133225if_/https://www.belfastlive.co.uk/news/health/ni-vaccine-centres-opened-up-20889162>
 
 </td>
 
@@ -8291,62 +7287,6 @@ workers in the health sector, the elderly and those with chronic
 diseases, in 48 districts distributed over 13 governorates.”"
 <https://web.archive.org/web/20210705114612/https://pmo-ye.net/post/1429>
 <https://web.archive.org/web/20210629182316/https://reliefweb.int/report/yemen/unicef-yemen-humanitarian-situation-report-reporting-period-1-30-april-2021>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Yemen (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Yemen (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Carrying over C6 No change in policy, "“Authorities in the governorate
-of Ma’rib imposed a curfew from 09 p.m. until 04 a.m. in an attempt to
-combat the spread of COVID-19.”"
-<https://archive.vn/2021.06.21-132622/https://displacement.iom.int/system/tdf/reports/20210606_COVID19_DTM%20Yemen%20Mobility%20Restrictions%20Dashboard%20DRAFT_%252325_V2.pdf?file=1&type=node&id=11658>
 
 </td>
 
