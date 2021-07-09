@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>\[1\] “Updated on 2021-07-09” </i>
+<i>Updated on 18817</i>
 
 </p>
 
