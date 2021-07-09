@@ -145,7 +145,7 @@ cat("<img src=\"../images/changes-map.png\">")
 # SIMoveChangesTable <- ChangesTable %>% filter(CountryName %in% unique(OxCGRT_SIChange$CountryName) & str_detect(Notes, "change")==F) %>% filter(str_detect(Notes, "No policy")==F)
 
 cat("<p style=\"text-align:right\"><i>")
-paste("Updated on ", Sys.Date())
+cat("Updated on ", Sys.Date())
 cat("</i></p>")
 
 Increasing <- filter(OxCGRT_GRIChange, MapColours==2)
