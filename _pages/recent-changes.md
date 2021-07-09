@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>Updated on 18817</i>
+<i>Last updated 2021-07-09</i>
 
 </p>
 
@@ -5695,6 +5695,8 @@ diseases, in 48 districts distributed over 13 governorates.”"
 </div>
 
 </div>
+
+</br> </br>
 
 This website and all OxCGRT data is published under a [Creative Commons
 CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/),
