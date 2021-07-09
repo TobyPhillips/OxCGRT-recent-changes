@@ -5,10 +5,11 @@ permalink: /recent-changes/
 ---
 
 This website contains recent policy changes reported in the global
-Oxford COVID-19 Government Response Tracker (OxCGRT) database. It
-includes policies which have come into force within the last two weeks.
-It is arranged by country and then by indicator. For more details on the
-coding policy please see our
+[Oxford COVID-19 Government Response Tracker
+(OxCGRT)](www.bsg.ox.ac.uk/covidtracker) database. It includes policies
+which have come into force within the last two weeks. It is arranged by
+country and then by indicator. For more details on the coding policy
+please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 and [Interpretation
 Guide](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/interpretation_guide.md).
@@ -20,16 +21,28 @@ is updated daily, so check back for the latest information.
 
 ## Global Changes in Government Response Index
 
-The following map details the changes to the government response index
-during the last two weeks. For more detail on the Government Response
-Index please see the most recent [working
+The Government Response Index is an aggregate summary of all 20 of our
+policy indicators. The index goes from 0 to 100, and a higher number
+generally means a more active policy (eg. more stringent restrictions,
+more generous economic support, or more pro-active public health
+measures). The following map shows countries that have changed their
+response at some point during the last two weeks, resulting in an
+increase or decrease in the overall Government Response Index. For more
+detail on the Government Response Index please see our most recent
+[working
 paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-responses-covid-19)
-or explore the [dataset
+or explore our [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png">
+
+<p style="text-align:right">
+
+<i>\[1\] “Updated on 2021-07-09” </i>
+
+</p>
 
 <h4>
 
@@ -5682,3 +5695,16 @@ diseases, in 48 districts distributed over 13 governorates.”"
 </div>
 
 </div>
+
+This website and all OxCGRT data is published under a [Creative Commons
+CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/),
+meaning you are free to use it for any purpose, *provided you attribute
+us as the source*. You can read more about citing our work on our
+[GitHub
+repository](https://github.com/OxCGRT/covid-policy-tracker/blob/master/README.md#citing-our-data).
+
+<p style="text-align:right">
+
+<i> This summary page was written by Andrew Wood and Toby Phillips. </i>
+
+</p>
