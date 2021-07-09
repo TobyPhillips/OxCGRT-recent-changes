@@ -41,7 +41,7 @@ Overall increase
 
 <div>
 
-<a href="#australia-gri-52--63">Australia (GRI: 52 ↑ 63)</a>
+<a href="#australia-gri-61--63">Australia (GRI: 61 ↑ 63)</a>
 
 </div>
 
@@ -53,7 +53,7 @@ Overall increase
 
 <div>
 
-<a href="#kyrgyz republic-gri-53--54">Kyrgyz Republic (GRI: 53 ↑ 54)</a>
+<a href="#netherlands-gri-48--49">Netherlands (GRI: 48 ↑ 49)</a>
 
 </div>
 
@@ -180,12 +180,6 @@ Overall decrease
 
 <div>
 
-<a href="#iceland-gri-58--46">Iceland (GRI: 58 ↓ 46)</a>
-
-</div>
-
-<div>
-
 <a href="#italy-gri-79--64">Italy (GRI: 79 ↓ 64)</a>
 
 </div>
@@ -204,12 +198,6 @@ Overall decrease
 
 <div>
 
-<a href="#monaco-gri-59--55">Monaco (GRI: 59 ↓ 55)</a>
-
-</div>
-
-<div>
-
 <a href="#mongolia-gri-60--54">Mongolia (GRI: 60 ↓ 54)</a>
 
 </div>
@@ -222,31 +210,13 @@ Overall decrease
 
 <div>
 
-<a href="#namibia-gri-68--66">Namibia (GRI: 68 ↓ 66)</a>
-
-</div>
-
-<div>
-
 <a href="#nepal-gri-72--66">Nepal (GRI: 72 ↓ 66)</a>
 
 </div>
 
 <div>
 
-<a href="#netherlands-gri-67--49">Netherlands (GRI: 67 ↓ 49)</a>
-
-</div>
-
-<div>
-
 <a href="#oman-gri-78--74">Oman (GRI: 78 ↓ 74)</a>
-
-</div>
-
-<div>
-
-<a href="#poland-gri-62--60">Poland (GRI: 62 ↓ 60)</a>
 
 </div>
 
@@ -259,12 +229,6 @@ Overall decrease
 <div>
 
 <a href="#south korea-gri-59--52">South Korea (GRI: 59 ↓ 52)</a>
-
-</div>
-
-<div>
-
-<a href="#spain-gri-59--56">Spain (GRI: 59 ↓ 56)</a>
 
 </div>
 
@@ -362,7 +326,7 @@ allowed to re-open / be back to normal operations
 
 </div>
 
-### Australia (GRI: 52 ↑ 63)
+### Australia (GRI: 61 ↑ 63)
 
 #### Workplace closing (C2)
 
@@ -1137,117 +1101,6 @@ living in those mid-risk areas have to stay home.
 
 </div>
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of China (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of China (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All high-risk areas were downgraded to mid-risk on 24 June; most
-non-essential workplace are required to close in mid-risk areas.
-<https://archive.vn/0Wj9j> <https://archive.vn/YwvAt>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; in <b>some</b> parts of China (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-China (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government announced that there is no longer high-risk regions in
-China. Archive link: <https://archive.ph/UMbUV> Original link:
-<https://baijiahao.baidu.com/s?id=1703416850570107379&wfr=spider&for=pc>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Czech Republic (GRI: 55 ↓ 52)
 
 #### Workplace closing (C2)
@@ -1855,228 +1708,6 @@ on Monday, June 28th.
 
 </div>
 
-### Iceland (GRI: 58 ↓ 46)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Iceland
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Iceland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 26th 2021 restrictions on any kind of operations are no
-longer applicable, neither the obligation to register guests nor
-restrictions on opening hours
-<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Iceland (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Iceland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 26th 2021 no restrictions on gatherings due to COVID-19 apply
-in Iceland Limits to the number of people at gatherings are none Social
-distancing rules are none
-<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Iceland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Iceland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 26th 2021 no restrictions on gatherings due to COVID-19 apply
-in Iceland Limits to the number of people at gatherings are none Social
-distancing rules are none
-<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Iceland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No face mask measures</b> are present across all of Iceland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 26th 2021 masks are not mandatory anywhere
-<https://web.archive.org/web/20210706095418/https://www.covid.is/categories/effective-restrictions-on-gatherings>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Italy (GRI: 79 ↓ 64)
 
 #### Workplace closing (C2)
@@ -2418,182 +2049,6 @@ guaranteed
 
 </div>
 
-### Kyrgyz Republic (GRI: 53 ↑ 54)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kyrgyz Republic (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Kyrgyz Republic (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Authorities have advised to limit travel to Bishkek and Osh cities as
-well as in Chui and Osh oblasts (1). Other than that, there are no
-restrictions on intercity or interstate travel. (1)
-<https://web.archive.org/web/20210704143747/https://www.gov.uk/foreign-travel-advice/kyrgyzstan/coronavirus>
-(2)
-<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Kyrgyz Republic (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Kyrgyz Republic (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Facial coverings seem not to be required in all public spaces anymore.
-"“Some businesses and other organisations need visitors to wear a face
-mask.”" (1) Masks are required in public transport. (2) (1)
-<https://web.archive.org/web/20210704143747/https://www.gov.uk/foreign-travel-advice/kyrgyzstan/coronavirus>
-(2)
-<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Kyrgyz Republic (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Kyrgyz Republic (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No changes found. Vaccines: Sinopharm, SputnikV Sinopharm: available at
-government clinics for everyone SputnikV: available for people over 65
-and those with chronic conditions
-<https://web.archive.org/web/20210704142934/https://kg.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Latvia (GRI: 51 ↓ 40)
 
 #### Income support (E1)
@@ -2918,62 +2373,6 @@ not more than 2 people can remove their masks outside. Mask is still
 required in all places inside shops etc, or when in groups of more than
 two. Source
 <http://web.archive.org/web/20210707084842/https://timesofmalta.com/articles/view/masks-off.883351>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Monaco (GRI: 59 ↓ 55)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Monaco
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Monaco (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Curfew lifted since June 26, 2021.
-<https://web.archive.org/web/20210705222905/https://covid19.mc/en/thematiques/sorties/>
 
 </td>
 
@@ -3499,68 +2898,6 @@ required in all public places.
 
 </div>
 
-### Namibia (GRI: 68 ↓ 66)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Namibia (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Namibia (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Namibia has used AstraZeneca (Covishield) and Sinopharm vaccines,
-however supplies are running low according to Reuters. The government is
-prioritizing those who have received a first dose, which were previously
-available to all groups. New first doses have been suspended by the
-Health Ministry.
-<https://web.archive.org/web/20210704070202/https://www.reuters.com/world/us/namibia-suspend-first-doses-covid-19-vaccine-supplies-run-low-memo-2021-06-26/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Nepal (GRI: 72 ↓ 66)
 
 #### Close public transport (C5)
@@ -3745,7 +3082,7 @@ remain possible in many locations.
 
 </div>
 
-### Netherlands (GRI: 67 ↓ 49)
+### Netherlands (GRI: 48 ↑ 49)
 
 #### Workplace closing (C2)
 
@@ -4372,74 +3709,6 @@ Philippines (2G)
 No policy changes as restrictions on gatherings continue to be dictated
 by region’s Community Quarantine level (with some regions under heighted
 restrictions). link: <https://archive.ph/4BvWe>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Poland (GRI: 62 ↓ 60)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Poland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Poland
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Gyms, fitness clubs, casinos, commercial facilities, post offices,
-libraries, fairs, conferences, exhibitions and playrooms - new
-participant limit - 1 person per 10 m². Temples - up to 75 percent
-occupancy. Discos - maximum 150 people. Events and meetings organized
-outdoors, in the premises or in a separate catering area - no changes,
-maximum 150 people, Meetings - maximum 150 people. Transport - 100
-percent occupancy. Passengers should wear masks that cover their mouth
-and nose. Amusement parks - maximum 75 percent occupancy. Cinemas and
-theaters - up to 75% occupancy. Hotels - up to 75 percent occupied
-rooms. The limit does not apply to organized groups of children and
-adolescents under 12 years of age. Restaurants - up to 75% occupancy.
-Audience in sports facilities - maximum 50% occupancy.
-<https://web.archive.org/web/20210620042802/https://www.gov.pl/web/koronawirus/lagodzenie-obostrzen-na-wakacje>
 
 </td>
 
@@ -5445,67 +4714,6 @@ general management facilities, public transportation, healthcare
 institutions, pharmacies, nursing facilities, day and night care
 facilities, rallies and demonstrations, indoor sports stadiums,
 high-risk workplaces, etc.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Spain (GRI: 59 ↓ 56)
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Spain (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/6/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Spain (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-New rules on the use of face masks in Spain will come into effect on
-June 26. As of this date, the covering will not have to be worn outdoors
-if a distance of 1.5 meters can be observed. It will, however, be
-mandatory to carry a face mask at all times so that it can be put on in
-situations where social distancing cannot be maintained. Source:
-<https://web.archive.org/web/20210628033850/https://www.infobae.com/america/mundo/2021/06/26/espana-vive-su-primer-dia-sin-mascarilla-obligatoria-al-aire-libre/>
 
 </td>
 
